@@ -17,10 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - name: Use Node.js ${NODE_VERSION}
+    - name: Use Node.js 16.x
       uses: actions/setup-node@v3
       with:
-        node-version: ${NODE_VERSION}
+        node-version: 16.x
         cache: 'npm'
     - run: npm ci
     - run: npm run deploy
