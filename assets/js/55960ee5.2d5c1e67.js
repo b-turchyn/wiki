@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[121],{8070:function(e){e.exports=JSON.parse('[{"name":"Recipe","permalink":"/wiki/tags/recipe","count":1}]')}}]);
