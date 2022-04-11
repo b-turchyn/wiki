@@ -85,6 +85,13 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+  scripts: [
+    {
+      defer: true,
+      'data-domain': 'b-turchyn.github.io/wiki',
+      src: 'https://plausible.io/js/plausible.js',
+    }
+  ]
 };
 
 module.exports = config;
