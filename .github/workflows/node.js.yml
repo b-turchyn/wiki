@@ -13,6 +13,7 @@ jobs:
   build:
     env:
       NODE_VERSION: 16.x
+      GIT_USER: b-turchyn
 
     runs-on: ubuntu-latest
     steps:
