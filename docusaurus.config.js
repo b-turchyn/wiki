@@ -9,12 +9,12 @@ const config = {
   title: 'Everything I Know',
   // tagline: 'Dinosaurs are cool',
   url: 'https://b-turchyn.github.io/',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
+  baseUrl: '/wiki/',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'b-turchyn', // Usually your GitHub org/user name.
-  projectName: 'knowledge', // Usually your repo name.
+  projectName: 'wiki', // Usually your repo name.
 
   presets: [
     [
@@ -38,21 +38,14 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'Everything I Know',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',
         },
         items: [
           {
-            type: 'doc',
-            docId: 'intro',
-            position: 'left',
-            label: 'Tutorial',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/b-turchyn/wiki',
             label: 'GitHub',
             position: 'right',
           },
