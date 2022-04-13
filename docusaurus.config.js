@@ -4,7 +4,6 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
-const slugger2 = require('remark-obsidian-slugger');
 const sectionPrefix = require('./src/plugins/section-prefix');
 
 /** @type {import('@docusaurus/types').Config} */
