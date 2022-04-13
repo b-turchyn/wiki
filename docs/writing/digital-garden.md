@@ -15,6 +15,7 @@
 ## Gardeners
 
 * https://github.com/nikitavoloboev/knowledge/
+* [Andy Matuschak](https://notes.andymatuschak.org/)
 
 ## Software
 
