@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[9116],{4731:function(i){i.exports=JSON.parse('{"name":"Learning","permalink":"/wiki/tags/learning","docs":[{"id":"writing/learning-by-reading","title":"Learning by Reading","description":"Levels of Learning","permalink":"/wiki/writing/learning-by-reading"}],"allTagsPath":"/wiki/tags"}')}}]);
