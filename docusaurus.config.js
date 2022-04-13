@@ -103,9 +103,14 @@ const config = {
   scripts: [
     {
       defer: true,
-      'data-domain': 'b-turchyn.github.io/wiki',
+      'data-domain': 'wiki.brianturchyn.net',
       src: 'https://plausible.io/js/plausible.js',
-    }
+    },
+    {
+      defer: true,
+      'data-domain': 'wiki.brianturchyn.net',
+      src: 'https://plausible.io/js/script.outbound-links.js',
+    },
   ]
 };
 
