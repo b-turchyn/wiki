@@ -13,8 +13,8 @@ const katex = require('rehype-katex');
 const config = {
   title: 'Everything I Know',
   // tagline: 'Dinosaurs are cool',
-  url: 'https://b-turchyn.github.io/',
-  baseUrl: '/wiki/',
+  url: 'https://wiki.brianturchyn.net/',
+  baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
