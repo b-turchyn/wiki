@@ -16,6 +16,20 @@
 
 * https://github.com/nikitavoloboev/knowledge/
 
+## Software
+
+* [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A
+  Jekyll theme for creating a digital garden.
+  * There's some things I like about this, namely the backlinks support. I
+    wonder if I can put this functionality into Docusaurus.
+
+## Communities
+
+* [r/DigitalGardens](https://www.reddit.com/r/DigitalGardens/)
+  * Fairly quiet, not a lot of activity
+
 ## Further Reading
 
 * https://github.com/maggieappleton/digital-gardeners
+* [My blog is a digital garden, not a
+  blog](https://joelhooks.com/digital-garden) (Joel Hooks)
