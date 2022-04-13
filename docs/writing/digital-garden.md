@@ -16,6 +16,7 @@
 
 * https://github.com/nikitavoloboev/knowledge/
 * [Andy Matuschak](https://notes.andymatuschak.org/)
+* [Mental Nodes](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
 
 ## Software
 
