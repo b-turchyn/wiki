@@ -4,6 +4,9 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+const slugger2 = require('remark-obsidian-slugger');
+const sectionPrefix = require('./src/plugins/section-prefix');
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Everything I Know',
@@ -21,17 +24,18 @@ const config = {
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/b-turchyn/knowledge/tree/main/docs/',
+          beforeDefaultRemarkPlugins: [sectionPrefix],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
