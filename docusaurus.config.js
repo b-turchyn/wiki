@@ -85,7 +85,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Brian Turchyn. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Brian Turchyn. Last updated ${new Date().toDateString()}.`,
       },
       prism: {
         theme: lightCodeTheme,
