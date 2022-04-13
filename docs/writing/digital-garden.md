@@ -14,24 +14,25 @@
 
 ## Gardeners
 
-* https://github.com/nikitavoloboev/knowledge/
-* [Andy Matuschak](https://notes.andymatuschak.org/)
-* [Mental Nodes](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
+- https://github.com/nikitavoloboev/knowledge/
+- [Andy Matuschak](https://notes.andymatuschak.org/)
+- [Mental Nodes](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
 
 ## Software
 
-* [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A
+- [Emanote](https://github.com/srid/emanote)
+- [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) - A
   Jekyll theme for creating a digital garden.
-  * There's some things I like about this, namely the backlinks support. I
+  - There's some things I like about this, namely the backlinks support. I
     wonder if I can put this functionality into Docusaurus.
 
 ## Communities
 
-* [r/DigitalGardens](https://www.reddit.com/r/DigitalGardens/)
-  * Fairly quiet, not a lot of activity
+- [r/DigitalGardens](https://www.reddit.com/r/DigitalGardens/)
+  - Fairly quiet, not a lot of activity
 
 ## Further Reading
 
-* https://github.com/maggieappleton/digital-gardeners
-* [My blog is a digital garden, not a
+- https://github.com/maggieappleton/digital-gardeners
+- [My blog is a digital garden, not a
   blog](https://joelhooks.com/digital-garden) (Joel Hooks)
