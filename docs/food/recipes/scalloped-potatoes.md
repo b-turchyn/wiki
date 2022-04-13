@@ -2,6 +2,8 @@
 ---
 # Scalloped Potatoes
 
+[(source)](https://www.food.com/recipe/scalloped-potatoes-85629)
+
 # Ingredients
 
 | Ingredient                                                          |       1x |
