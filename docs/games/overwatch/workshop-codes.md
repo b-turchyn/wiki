@@ -7,6 +7,7 @@
 ### Fun
 | Code  | Description      |
 |-------|------------------|
+| ZJAKK | D.Va Egg         |
 | YJCGB | Reinkart Extreme |
 
 ### Training
