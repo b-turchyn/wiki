@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[50],{1675:function(i){i.exports=JSON.parse('{"name":"Meta/Reorganize","permalink":"/wiki/tags/meta-reorganize","docs":[{"id":"writing/learning-by-reading","title":"Learning by Reading","description":"Levels of Learning","permalink":"/wiki/writing/learning-by-reading"}],"allTagsPath":"/wiki/tags"}')}}]);
