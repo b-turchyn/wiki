@@ -31,8 +31,8 @@ Optional Ingredients:
 ## Instructions
 
 1. Following the instructions on the bag of ramen, cook noodles.
-  - 3 minutes for al dente
-  - Rinse with cold water to stop the cooking
+    - 3 minutes for al dente
+    - Rinse with cold water to stop the cooking
 2. Put 2/3rds of the soup packet, 4-5 grinds of black pepper, balsamic vinegar, sesame seeds, and minced garlic to a bowl
 3. Heat the canola oil in a saucepan until just before smoking. Pour the oil into the bowl. Stir the oil in with the contents of the bowl, then stir in the noodles
 4. Add chopped chives 
