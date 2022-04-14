@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[8221],{4409:function(e){e.exports=JSON.parse('{"name":"Physiology","permalink":"/tags/physiology","docs":[{"id":"food/caffeine","title":"Caffeine","description":"- Central nervous system stimulant","permalink":"/food/caffeine"}],"allTagsPath":"/tags"}')}}]);
