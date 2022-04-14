@@ -7,6 +7,10 @@ title: Home
 
 A collection of random notes.
 
+My goal is for this to be my [digital garden](writing/digital-garden.md): a
+curated collection of information that I find useful and beneficial to refer
+back to. Maybe this information is useful to others.
+
 ## Customizations
 
 - Math equation support[^1] via
@@ -16,3 +20,13 @@ A collection of random notes.
   ([source](https://github.com/b-turchyn/wiki/blob/main/src/plugins/section-prefix.js))
 
 [^1]: [Instructions](https://docusaurus.io/docs/markdown-features/math-equations)
+
+## Usage
+
+Unless otherwise specified, this work is licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution-ShareAlike 4.0 International License</a>.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img
+alt="Creative Commons Licence"
+src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a>
