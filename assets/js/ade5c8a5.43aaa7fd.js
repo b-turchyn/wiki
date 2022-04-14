@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[1732],{951:function(e){e.exports=JSON.parse('{"name":"Recipe","permalink":"/tags/recipe","docs":[{"id":"food/recipes/coconut-rice","title":"Coconut Rice","description":"Ingredients","permalink":"/food/recipes/coconut-rice"}],"allTagsPath":"/tags"}')}}]);
