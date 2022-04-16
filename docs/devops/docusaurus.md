@@ -9,6 +9,15 @@ Docusarus is the engine that generates this wiki. I picked this system based on
 its use by [Nikita Voloboev](https://github.com/nikitavoloboev) in their
 [knowledgebase](https://github.com/nikitavoloboev/knowledge/).
 
+## Dev Server
+
+Run `npm start` to start the dev server. This runs `docusaurus start`, which is
+running [webpack-dev-server](https://webpack.js.org/configuration/dev-server/)
+under the covers (although I don't think webpack config files can be passed in).
+
+My local install is configured to run on port 3001 to avoid conflicts with the
+default Ruby On Rails port.
+
 ## Folder Categorization
 
 Categories can be customized by creating a `_category_.json` in a
