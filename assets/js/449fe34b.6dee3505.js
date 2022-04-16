@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[3944],{5730:function(a){a.exports=JSON.parse('{"name":"Strategy","permalink":"/tags/strategy","docs":[{"id":"games/chess/italian-game","title":"Italian Game","description":"The Italian Game is a slower opening, more common with beginners.","permalink":"/games/chess/italian-game"}],"allTagsPath":"/tags"}')}}]);
