@@ -1,5 +1,6 @@
 ---
 tags:
+  - e4 Opening
   - Chess/Opening
   - Strategy
 ---
