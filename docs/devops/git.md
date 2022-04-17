@@ -15,6 +15,12 @@ Aliases are managed through [oh-my-zsh](/devops/oh-my-zsh).
 * `gst`: Git Status
 * `gc`: Commit
 
+## Push A Specific Commit
+
+```bash
+git push origin <commit-id>:<branch>
+```
+
 ## Submodules
 
 ### Adding A Submodule
