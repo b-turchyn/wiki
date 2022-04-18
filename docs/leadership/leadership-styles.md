@@ -26,6 +26,9 @@ get used to this communication style and it won't be effective.
 
 ### Authoritative
 
+> Here's the big picture. Let me convince you why we should work towards this
+> together.
+
 ### Affiliative
 
 ### Democratic
@@ -33,5 +36,24 @@ get used to this communication style and it won't be effective.
 ### Pacesetting
 
 ### Coaching
+
+> Let me help you grow.
+
+With this leadership style, the leader:
+- Invests time in knowing the strengths and weaknesses of each team member
+- Works with each team member to help them achieve their personal development
+  goals
+
+This is a long-term investment in your team; short-term performance is likely
+impacted because they'll need time to invest in their growth. That time means
+that other tasks may not get completed as fast as if they worked on them
+directly.
+
+If a team member doesn't know where they want to go, needs explicit direction,
+or has performance issues that need correction, this may not be effective. In
+that case, consider [Pacesetting](#Pacesetting).
+
+In crisis situations, coaching is too slow. Consider the [Coercive
+style](#Coercive) instead.
 
 ## Further Reading
