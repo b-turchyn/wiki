@@ -35,6 +35,24 @@ get used to this communication style and it won't be effective.
 
 ### Pacesetting
 
+> Here's how you do it.
+
+With pacesetting, you are leading by example. High quality output is expected,
+and is enforced by taking away responsibilities if someone does not perform at
+the expected level.
+
+This leadership style excels when working with team members that are smart,
+highly motivated, and who want to follow best practices (provided that you're
+demonstrating those best practices, of course). Obviously, this also requires
+that you as the leader are capable of demonstrating those best practices.
+
+Pacesetting can also be used when you feel that team members need to see what
+the output of a high performer looks like so they know where they need to aim.
+
+Avoid using pacesetting often. It can stifle the long-term development of your
+team members because they don't get to learn on their own. It's also damaging to
+team morale, since you effectively take away their agency.
+
 ### Coaching
 
 > Let me help you grow.
