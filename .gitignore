@@ -7,6 +7,11 @@
 # Generated files
 .docusaurus
 .cache-loader
+loc.txt
+
+# LOC calculation via `scc`
+/scc
+/scc.zip
 
 # Misc
 .DS_Store

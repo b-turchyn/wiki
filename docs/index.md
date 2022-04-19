@@ -11,6 +11,10 @@ My goal is for this to be my [digital garden](writing/digital-garden.md): a
 curated collection of information that I find useful and beneficial to refer
 back to. Maybe this information is useful to others.
 
+## Statistics
+
+{@import ../loc.txt}
+
 ## Customizations
 
 - Math equation support[^1] via

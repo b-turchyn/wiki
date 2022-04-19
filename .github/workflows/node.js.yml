@@ -33,4 +33,5 @@ jobs:
       run: |
         git config --global user.email "${{ secrets.GH_EMAIL }}"
         git config --global user.name "${{ secrets.GH_USER }}"
+        ./src/bin/loc.sh
         npm run deploy
