@@ -24,7 +24,13 @@ in Chapter 2 of Logan's book or on [her website](https://www.loganury.com/quiz).
 
 Romanticizers have a _soul mate mindset_ rather than a _work-it-out mindset_.
 Their logic is that fate determines if and when they will find "the one"; in
-other words, love is _beyond their control_. They likely have specific
-requirements for traits in their future partner. When an obstacle gets hit, a
-Romanticizer is more likely to just give up and move on rather than talk it out.
+other words, [love](psychology/love.md) is _beyond their control_. They likely
+have specific requirements for traits in their future partner. When an obstacle
+gets hit, a Romanticizer is more likely to just give up and move on rather than
+talk it out.
+
+> Remember, no one is perfect, including you. Even Prince Charming has morning
+> breath.
+>
+> --Logan Ury
 
