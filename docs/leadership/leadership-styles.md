@@ -33,6 +33,24 @@ get used to this communication style and it won't be effective.
 
 ### Democratic
 
+> Two is better than one.
+
+The democratic leadership style shares decisions and responsibility. Team
+members are involved in most decisions, with the goal to achieve concensus
+amongst all team members.
+
+The democratic style is effective when you have a skilled, talented,
+knowledgeable team. It's also useful when trying to source new ideas.
+
+Similarly, if you don't have confidence in the team's abilities, the team lacks
+the required skillsets, or are "ill-informed", then the democratic style is more
+likely going to lead to failures. Crisis situations are no place for democratic
+leadership; opt for the [coercive](#Coercive) or [pacesetting](#Pacesetting)
+styles instead. 
+
+Overuse of the democratic leadership style can lead team members to doubt the
+ability of the leader's ability to do their job (i.e. _lead_).
+
 ### Pacesetting
 
 > Here's how you do it.
