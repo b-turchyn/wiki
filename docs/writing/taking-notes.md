@@ -48,6 +48,15 @@ The key takeaways are:
   searchable. Consider loading into a wiki or [digital
   garden](/writing/digital-garden.md) for more permanent storage.
 
+## Books
+
+- [How to Take Smart Notes](https://www.amazon.com/dp/1542866502) by Sönke
+  Ahrens
+  - Haven't read this book yet. References the
+    [Zettelkasten](/writing/zettelkasten.md) note-taking style, which I'm
+    familiar with. Seems to have some criticisms online which is expected of
+    anything, but have not personally vetted this.
+
 [^1]: https://doi.org/10.1177/0956797614524581 [[PDF]](http://www.yaros.com/ipad/Pen_vs_Keyboard_Notes.pdf)
 [^2]: https://doi.org/10.1177/0956797618781773
 [^3]: https://doi.org/10.1177/0956797620965541
