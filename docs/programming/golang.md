@@ -11,6 +11,12 @@
 
 ## Useful Libraries
 
+- [gin](https://github.com/gin-gonic/gin): HTTP library
+- [migrate](https://github.com/golang-migrate/migrate): Database migrations
 - By [Charm](https://charm.sh):
   - [Bubble Tea](https://github.com/charmbracelet/bubbletea)
   - [Lip Gloss](https://github.com/charmbracelet/lipgloss)
+
+## Apps Written in Golang
+
+- [Beehive](https://github.com/muesli/beehive)
