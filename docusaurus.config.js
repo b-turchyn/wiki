@@ -9,6 +9,7 @@ const sectionPrefix = require('./src/plugins/section-prefix');
 const math = require('remark-math');
 const katex = require('rehype-katex');
 const importPartial = require('remark-import-partial');
+const smartypants = require('@silvenon/remark-smartypants');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -33,7 +34,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/b-turchyn/knowledge/tree/main/docs/',
-          remarkPlugins: [sectionPrefix, math, importPartial],
+          remarkPlugins: [sectionPrefix, math, importPartial, smartypants],
           rehypePlugins: [katex]
         },
         theme: {
