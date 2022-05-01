@@ -13,3 +13,4 @@
 
 - By [Charm](https://charm.sh):
   - [Bubble Tea](https://github.com/charmbracelet/bubbletea)
+  - [Lip Gloss](https://github.com/charmbracelet/lipgloss)
