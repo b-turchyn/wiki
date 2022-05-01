@@ -2,6 +2,14 @@
 ---
 # Taking Notes
 
+> Writing by hand is thinking on paper. Thoughts grow into words, sentences, and
+> pictures. Memories become stories. Ideas are transformed into projects. Notes
+> inspire insight. We write and understand, learn, see and think -- with
+> the hand.
+
+(This came from the wrapper that comes with a Leuchtturm1979 notebook -- love
+it!)
+
 ## Benefits Of Hand-Written Notes
 
 Notetaking helps you retain information. The act of writing notes helps cement
