@@ -11,8 +11,10 @@
 
 ## Useful Libraries
 
+- [cobra](https://github.com/spf13/cobra): CLI apps made easy
 - [gin](https://github.com/gin-gonic/gin): HTTP library
 - [migrate](https://github.com/golang-migrate/migrate): Database migrations
+- [viper](https://github.com/spf13/viper): App configuration via files and flags
 - By [Charm](https://charm.sh):
   - [Bubble Tea](https://github.com/charmbracelet/bubbletea)
   - [Lip Gloss](https://github.com/charmbracelet/lipgloss)
