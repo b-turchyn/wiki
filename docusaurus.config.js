@@ -23,6 +23,9 @@ const config = {
   organizationName: 'b-turchyn', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
   trailingSlash: true,
+  themes: [
+    [ require.resolve('@easyops-cn/docusaurus-search-local'), { } ]
+  ],
 
   presets: [
     [
