@@ -24,7 +24,12 @@ const config = {
   projectName: 'wiki', // Usually your repo name.
   trailingSlash: true,
   themes: [
-    [ require.resolve('@easyops-cn/docusaurus-search-local'), { } ]
+    [
+      require.resolve('@easyops-cn/docusaurus-search-local'),
+      {
+        docsRouteBasePath: '/'
+      }
+    ]
   ],
 
   presets: [
