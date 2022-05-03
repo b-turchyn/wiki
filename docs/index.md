@@ -22,6 +22,10 @@ back to. Maybe this information is useful to others.
   [`rehype-katex`](https://github.com/remarkjs/remark-math/blob/main/packages/rehype-katex)
 - Overriding header IDs to match Obsidian's auto-complete style
   ([source](https://github.com/b-turchyn/wiki/blob/main/src/plugins/section-prefix.js))
+- Smartypants support using
+  [@silvenon/remark-smartypants](https://github.com/silvenon/remark-smartypants)
+- Local search using
+  [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local)
 
 [^1]: [Instructions](https://docusaurus.io/docs/markdown-features/math-equations)
 
