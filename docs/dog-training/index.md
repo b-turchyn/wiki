@@ -15,3 +15,13 @@ The general steps for training a new dog behaviour are:
     - Adding the verbal cue before they are performing the action will associate
       "sit there and look at me" with the cue, rather than the action you want.
 6. Use the verbal cue to get the requested action.
+
+## Core Training
+
+- Clicker "charging". Reinforce that the sound of a click means "treats"
+- Name "charging". Reinforce that the dog's name means to look at the person
+  calling the dog's name and await instructions.
+- Sitting
+- Lie down
+- Puppy Push-Ups. Alternate between sitting and lying down.
+- Stand
