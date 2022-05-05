@@ -21,6 +21,25 @@ Aliases are managed through [oh-my-zsh](/devops/oh-my-zsh).
 git push origin <commit-id>:<branch>
 ```
 
+## Commit Signing
+
+### Signing Commits
+
+```bash
+git config commit.gpgsign true
+git config user.signingkey <key>
+```
+
+### Verifying Commits
+
+```bash
+git verify-commit <commit-ref>
+```
+
+When a commit is signed, the signature is outputted and returns error code 0.
+When there's no signature on the commit, the command outputs nothing and returns
+error code 1.
+
 ## Submodules
 
 ### Adding A Submodule
