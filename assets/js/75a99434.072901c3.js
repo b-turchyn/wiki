@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[6578],{9959:function(a){a.exports=JSON.parse('{"name":"Message Broker","permalink":"/tags/message-broker","docs":[{"id":"devops/kafka","title":"Kafka","description":"Reading Material","permalink":"/devops/kafka"}],"allTagsPath":"/tags"}')}}]);
