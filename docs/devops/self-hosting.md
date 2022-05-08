@@ -6,7 +6,12 @@ certainly collecting every iota of data on you possible.
 
 ## Services
 
+- Automation:
+  - [Home Assistant](https://home-assistant.io/)
+  - [Huginn](https://github.com/huginn/huginn)
+  - [n8n](https://n8n.io)
 - Email: [Mail-in-a-box](https://mailinabox.email)
+- Usenet: [SABnzbd](https://sabnzbd.org)
 
 ## References
 
