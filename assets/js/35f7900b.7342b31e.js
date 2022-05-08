@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[633],{3142:function(i){i.exports=JSON.parse('{"label":"Automation","permalink":"/tags/automation","allTagsPath":"/tags","count":1,"items":[{"id":"devops/nixos","title":"NixOS","description":"NixOS is a tool for creating a reproducible environment. This could be used","permalink":"/devops/nixos"}]}')}}]);
