@@ -4,3 +4,5 @@
 > not be worthy of -- and really short-sighted to waste.
 >
 > -- [Savannah Brown](https://www.youtube.com/watch?v=jKV-cym4QfQ)
+
+> Does a work's value exist outside of how people perceive it?
