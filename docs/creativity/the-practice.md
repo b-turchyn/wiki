@@ -11,6 +11,12 @@ As a creative, the way to get better is to consistently _practice_ by doing.
 >
 > --[Markiplier](https://youtu.be/IHTCtxXwDAk?t=777) (via Corridor Digital)
 
+The practice of creation is one that we should do because it's fun, fulfilling,
+helps people, and provides you with a sense of accomplishment and purpose. We
+should go through this practice regardless of external validation; we can't
+control the number of likes or views something gets, but we can control us
+producing on a regular basis to slowly get better at it.
+
 ## References
 
 - [_The Practice_ by Seth Godin](https://seths.blog/ThePractice/)
