@@ -20,3 +20,9 @@ It's worth noting that what is a time leak for one person may not be for
 another. Spending time on social media may be well-earned relaxation, or even
 part of your job. For others, watching videos for an hour on YouTube may be
 time spent in the "dark playground".
+
+## References
+
+- [Why do you waste so much time on the
+  internet?](https://zan.bearblog.dev/why-i-waste-time/) ([HN
+  comments](https://news.ycombinator.com/item?id=31285969))
