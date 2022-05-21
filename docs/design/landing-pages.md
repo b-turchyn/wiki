@@ -22,8 +22,8 @@ Some key areas to focus on when building a good landing page:
    to each of them a letter on behalf of your client."
    >
    > --David Ogilvy
-5. Your content above the fold needs to be good enough so that you "earn" the
-   user scrolling further down the page.
+5. Your content above [the fold](/design/the-fold.md) needs to be good enough
+   so that you "earn" the user scrolling further down the page.
    > To earn the scroll, your above the fold must include these elements:
    > 
    > - A value-focused headline
