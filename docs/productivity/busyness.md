@@ -11,3 +11,8 @@ effectively. Taking [breaks](/productivity/breaks.md) is important and should be
 considered valuable, but for work-related tasks consider a time management
 technique like the [Eisenhower Matrix](/productivity/eisenhower-matrix.md) for
 some basic task organization.
+
+## References
+
+- [Are we too busy to enjoy life?](https://nesslabs.com/too-busy-to-enjoy-life)
+  (Anne-Laure Le Cunff, Ness Labs)
