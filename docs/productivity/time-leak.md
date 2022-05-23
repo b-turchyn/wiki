@@ -8,6 +8,11 @@ Examples of this are:
 - Meetings with no goal, value, or agenda
 - Mindlessly scrolling through social media
 
+If you used to work in the office but now work from home, your commute time can
+be used for something. This is time that many people spend engaged in driving,
+but this time can now be spent reading, relaxing, working on a side project, or
+[sleeping](/health/sleep.md).
+
 These can be identified in a few ways:
 - Manually tracking for a few days by writing notes
 - Using an app such as [RescueTime](https://www.rescuetime.com) on all of your
