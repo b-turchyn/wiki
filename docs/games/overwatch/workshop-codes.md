@@ -8,6 +8,7 @@
 | Code  | Description      |
 |-------|------------------|
 | ZJAKK | D.Va Egg         |
+| J853B | Flappy Mercy     |
 | YJCGB | Reinkart Extreme |
 
 ### Training
