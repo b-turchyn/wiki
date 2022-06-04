@@ -23,9 +23,10 @@
 
 ### Fun
 
-| Code  | Description       |
-|-------|-------------------|
-| TKBR3 | Arial Aim Trainer |
+| Code  | Description                                                                |
+|-------|----------------------------------------------------------------------------|
+| TKBR3 | Arial Aim Trainer                                                          |
+| 5EMMA |  Doomfist Parkour (Eichenwalde) [(tutorial)](https://youtu.be/mM-f5j0vb60) |
 
 ### Training
 
