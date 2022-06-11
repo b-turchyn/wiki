@@ -11,4 +11,4 @@ in_. This includes:
    this needs to be done much more frequently.
 3. Sleep: perhaps the most important out of these. Without sufficient sleep,
    your body doesn't have the energy required to take care of their diet and
-   exercise. It's also critical for [mental health](health/mental-health.md).
+   exercise. It's also critical for [mental health](/health/mental-health).

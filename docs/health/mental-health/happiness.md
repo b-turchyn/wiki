@@ -10,6 +10,6 @@ happiness, only sadness.
 
 Happiness comes from:
 - Maintaining good [physical health](health/physical-health.md)
-- Maintaining good [mental health](health/mental-health.md)
+- Maintaining good [mental health](/health/mental-health)
 
 [^1]: https://wiki.nikiv.dev/life/happiness
