@@ -15,3 +15,8 @@ If I promote a product or service, that's the equivalent of putting a sign
 outside somewhere while I'm performing that. Marketing is getting others to
 promote for you. Kleenex doesn't need to market its facial tissues in North
 America; the product self-markets my effectively owning the name of the product.
+
+> People never pay extra. They buy something they want at a price that feels
+> fair to them.
+>
+> --Seth Godin, ["Paying extra"](https://seths.blog/2022/06/paying-extra/)
