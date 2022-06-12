@@ -74,3 +74,13 @@ Help You Journal Like A Pro)
    did I do something?
 7. Review in the evening. See what I wrote, and write about the day that passed.
    What could I have done better?
+
+## References
+
+- [Why I started journaling](https://herman.bearblog.dev/why-i-journal/),
+  Herman Martinus
+- [How I finally get daily journaling done with a workflow on my
+  iPhone](https://michael.team/journal/), Michael Sliwinski
+- [7 Ways Marcus Arelius Will Help You Journal Like A
+  Pro](https://open.spotify.com/episode/2Pd8FVETCKTsZJEDanxgRT?si=eee3daf897ca4f0a),
+  Daily Stoic Podcast
