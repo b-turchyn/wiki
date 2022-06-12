@@ -18,6 +18,15 @@ are seeing a negative trend in what you write, journaling can help you capture
 that. It's also a place to ask yourself tough questions and gives you a chance
 to reflect on them, helping you to reason through them.
 
+## Getting Started
+
+* Use [habit-forming techniques](/psychology/habits.md) to get started and keep
+  contributing.
+* Write 2-3 sentences a day to start. Contribute only as much as you feel like;
+  you will contribute more over time.
+* Start with talking about key things that happened during the day so you can
+  reflect back on them later.
+
 ## Digital vs Physical
 
 I have personally found that journaling in a physical notebook to me more
