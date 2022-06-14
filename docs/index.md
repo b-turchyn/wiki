@@ -26,6 +26,9 @@ back to. Maybe this information is useful to others.
   [@silvenon/remark-smartypants](https://github.com/silvenon/remark-smartypants)
 - Local search using
   [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local)
+- [Additional syntax
+  highlighting](https://docusaurus.io/docs/markdown-features/code-blocks#supported-languages)
+  added to theme configuration
 
 [^1]: [Instructions](https://docusaurus.io/docs/markdown-features/math-equations)
 
