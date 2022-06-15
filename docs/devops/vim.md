@@ -29,6 +29,10 @@ I swapped out [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) for
 Recommended changes:
 - Set `let g:CommandTFileScanner = "git"`. This will fallback to the `find`
   option, but critically takes advantage of `.gitignore`.
+- I mapped `<Leader>p` to `<Plug>(CommandT)` because I'm used to ctrlp.vim:
+  ```vim
+  nmap <silent> <Leader>p <Plug>(CommandT)
+  ```
 
 ## References
 
