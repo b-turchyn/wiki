@@ -10,6 +10,11 @@ humans to survive and avoid predators. In modern times, this tends to have less
 use and can even negatively impact interactions with others, such as during
 dating.
 
+It may be our natural tendency to lean into the negativity bias, but it can be
+worked against. An effective approach is to practice gratitude; while
+[journaling](/writing/journaling.md), write down one thing each day you are
+grateful for (this is frustratingly effective).
+
 ## References
 
 - [Negativity bias](https://en.wikipedia.org/wiki/Negativity_bias), Wikipedia
