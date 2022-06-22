@@ -30,3 +30,16 @@ Run `rkhunter --check`. The following additional options can be used as well:
 
 When you're comfortable with the state of the system, running `rkhunter
 --propupd` will update your local database of the current state.
+
+## Regular Scanning
+
+Apply the following changes to `/etc/default/rkhunter.conf`:
+
+- `CRON_DAILY_RUN="true"`: Runs a scan daily
+- `CRON_DB_UPDATE="true"`: Updates the database weekly
+- `APT_AUTOGEN="true"`: Automatic database updates (what is the difference
+  between the two of these?)
+
+[^1]: It's possible with an infected system that a malicious database could be
+  uploaded, so in sensitive environments you probably only want to accept local
+  mirrors. I don't know what the risk of this would be however.
