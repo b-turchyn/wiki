@@ -25,7 +25,8 @@ After config changes, check your config files by running `rkhunter
 Get database updates using `rkhunter --update`
 
 Run `rkhunter --check`. The following additional options can be used as well:
-- `--sk`: skips the "Press <ENTER> to continue" checks that exist when running.
+- `--sk`: skips the "Press &lt;ENTER&gt; to continue" checks that exist when
+  running.
 - `--rwo`: reports warnings only
 
 When you're comfortable with the state of the system, running `rkhunter
