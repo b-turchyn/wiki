@@ -15,7 +15,7 @@ const smartypants = require('@silvenon/remark-smartypants');
 const config = {
   title: 'Everything I Know',
   // tagline: 'Dinosaurs are cool',
-  url: 'https://wiki.brianturchyn.net/',
+  url: 'https://wiki.brianturchyn.net',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
