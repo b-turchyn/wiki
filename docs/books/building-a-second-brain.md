@@ -22,8 +22,8 @@ A _[Second Brain](/writing/second-brain.md)_ is a more refined version of a
 notebook, personal journal, and sketchbook for new ideas. It is a living
 collection of notes that you can refer back to at any point.
 
-A _note_ is a unit of knowledge captured and stored outside of your head. It can
-be a bulletpoint list, an image, or a quote. It's something that you have
-identified has value for you, and has been synthesized and interpreted by you.
-It exists and has value on its own, but can be combined with other notes to
-create something more.
+A _[note](/writing/notes.md)_ is a unit of knowledge captured and stored outside
+of your head. It can be a bulletpoint list, an image, or a quote. It's something
+that you have identified has value for you, and has been synthesized and
+interpreted by you. It exists and has value on its own, but can be combined with
+other notes to create something more.
