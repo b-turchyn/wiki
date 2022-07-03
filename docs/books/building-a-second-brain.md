@@ -17,10 +17,10 @@ Due to the constant onslaught of information in today's age, it is no longer
 possible for humans to hold onto all of the information they need in their
 heads. We need reference material, which means we need to write things down.
 
-A _Second Brain_ is a more refined version of a [commonplace
-book](/writing/commonplace-book.md): a combination of a study notebook, personal
-journal, and sketchbook for new ideas. It is a living collection of notes that
-you can refer back to at any point.
+A _[Second Brain](/writing/second-brain.md)_ is a more refined version of a
+[commonplace book](/writing/commonplace-book.md): a combination of a study
+notebook, personal journal, and sketchbook for new ideas. It is a living
+collection of notes that you can refer back to at any point.
 
 A _note_ is a unit of knowledge captured and stored outside of your head. It can
 be a bulletpoint list, an image, or a quote. It's something that you have
