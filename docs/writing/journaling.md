@@ -32,13 +32,13 @@ to reflect on them, helping you to reason through them.
 I have personally found that journaling in a physical notebook to me more
 effective for me. Because I write slower than I type, I have time to think
 things through while writing. Phones and computers also are distraction
-machines, and so without those in front of me I am able to focus better.
+machines, and so without those in front of me I am able to [focus better](/productivity/focus.md).
 
 I have used a [Rhodia Webbie Dot Grid A5
 notebook](https://www.amazon.ca/dp/B006CQSRDS/), and will be trying out a
 [Leuchtturm1917 Medium A5 Dotted notebook](https://www.amazon.ca/dp/B002TSIMW4/)
 next. While you can use any kind of paper, I find that using something that's
-high quality incentivizes me to journal more; this triggers the ["make it
+[high quality](/writing/quality.md) incentivizes me to journal more; this triggers the ["make it
 fun"](/psychology/habits.md#Forming%20Habits) aspect of habit forming.
 
 ## Apps
