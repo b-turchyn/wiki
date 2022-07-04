@@ -12,6 +12,7 @@ certainly collecting every iota of data on you possible.
   - [n8n](https://n8n.io)
 - Email: [Mail-in-a-box](https://mailinabox.email)
 - Usenet: [SABnzbd](https://sabnzbd.org)
+- Microblogging: [Mastodon](/social-media/mastodon.md)
 
 ## References
 
