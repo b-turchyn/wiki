@@ -17,6 +17,12 @@ places have replaced physical ones, however I suspect that interacting
 exclusively in an online format that the social benefits are less pronounced
 than if one were to meet in person.
 
+Interesting reading on loneliness:
+
+- [A picture of me](https://caspercloudwalker.bearblog.dev/a-picture-of-me/)
+  ([archive](https://archive.ph/I9CHq)) (now offline; a copy is stored in
+  Wallabag)
+
 ## References
 
 - ["I wonder if this is because we're lonely..?" (Hacker

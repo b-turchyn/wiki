@@ -12,4 +12,9 @@ Happiness comes from:
 - Maintaining good [physical health](health/physical-health.md)
 - Maintaining good [mental health](/health/mental-health)
 
+Examples of people doing good things:
+
+- [Mendon, Missouri - Sean of the
+  South](https://seandietrich.com/mendon-missouri/)
+
 [^1]: https://wiki.nikiv.dev/life/happiness
