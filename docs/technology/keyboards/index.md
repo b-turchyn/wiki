@@ -15,3 +15,8 @@ Keyboards I own:
 
 I'm a big fan of [QMK firmware](https://docs.qmk.fm/) on all of my keyboards for
 its amazing customizability. 
+
+Neat keyboard ideas:
+
+- [Home row mods](https://precondition.github.io/home-row-mods), using QMK's
+  [mod-tap functionality](https://docs.qmk.fm/#/mod_tap)
