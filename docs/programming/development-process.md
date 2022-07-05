@@ -10,6 +10,7 @@
 - What validation do you need for your inputs?
 - How will you scale this? Do you need to scale?
 - Does this matter? Are we using our time effectively?
+- When do you involve testers?
 
 ## Contextually Good Ideas
 
