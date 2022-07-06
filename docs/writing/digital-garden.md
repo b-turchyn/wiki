@@ -14,7 +14,7 @@
 
 ## Gardeners
 
-- https://github.com/nikitavoloboev/knowledge/
+- [Nikita Voloboev](https://wiki.nikiv.dev/)
 - [Andy Matuschak](https://notes.andymatuschak.org/)
 - [Mental Nodes](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
 
