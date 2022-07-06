@@ -12,9 +12,19 @@ Happiness comes from:
 - Maintaining good [physical health](health/physical-health.md)
 - Maintaining good [mental health](/health/mental-health)
 
-Examples of people doing good things:
+## Examples of people doing good things:
 
 - [Mendon, Missouri - Sean of the
   South](https://seandietrich.com/mendon-missouri/)
+
+## Other Links
+
+- ['Why Am I Not Rich & Famous?' the Delusion of Our
+  Times](https://dariusforoux.com/rich-and-famous/) by Darious Foroux
+  > Once we let go of outcomes, we can look inward and focus on the things that
+  > truly matter: To become a good person with values, who has character, and is
+  > good at what they do.
+  > 
+  > That’s the biggest reward in life. And it’s 100% in your own hands.
 
 [^1]: https://wiki.nikiv.dev/life/happiness
