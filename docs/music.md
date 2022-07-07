@@ -22,6 +22,7 @@ or what mood I'm in.
   TeamFourStar](https://open.spotify.com/album/6aS1eHpBANozl6gY0KiH3H)
 - [Jazz in the
   Background](https://open.spotify.com/playlist/37i9dQZF1DWV7EzJMK2FUI)
+- [musicForProgramming();](https://musicforprogramming.net)
 
 ### Relaxing
 
