@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[7984],{4913:function(e){e.exports=JSON.parse('{"label":"Reading/Meta","permalink":"/tags/reading-meta","allTagsPath":"/tags","count":1,"items":[{"id":"writing/learning-by-reading","title":"Learning by Reading","description":"Levels of Learning","permalink":"/writing/learning-by-reading"}]}')}}]);

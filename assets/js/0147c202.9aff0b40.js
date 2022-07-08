@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[1554],{1134:e=>{e.exports=JSON.parse('{"label":"Dev Tools","permalink":"/tags/dev-tools","allTagsPath":"/tags","count":1,"items":[{"id":"devops/tmux","title":"Tmux","description":"Session switcher with fzf","permalink":"/devops/tmux"}]}')}}]);

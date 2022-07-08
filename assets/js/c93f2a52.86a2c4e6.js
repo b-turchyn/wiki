@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[7293],{6407:function(a){a.exports=JSON.parse('{"label":"Language","permalink":"/tags/language","allTagsPath":"/tags","count":1,"items":[{"id":"programming/ruby","title":"Ruby","description":"Time Zones","permalink":"/programming/ruby"}]}')}}]);
