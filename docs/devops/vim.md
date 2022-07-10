@@ -34,6 +34,11 @@ Recommended changes:
   nmap <silent> <Leader>p <Plug>(CommandT)
   ```
 
+## Learning Tools
+
+- [Vimified](https://www.vimified.com/)
+  ([HN](https://news.ycombinator.com/item?id=32034625))
+
 ## References
 
 - [My Dotfiles](https://github.com/b-turchyn/dotfiles), GitHub
