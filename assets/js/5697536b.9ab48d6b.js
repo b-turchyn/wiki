@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[5925],{9178:e=>{e.exports=JSON.parse('{"label":"Reading/Newsletter","permalink":"/tags/reading-newsletter","allTagsPath":"/tags","count":1,"items":[{"id":"books/days-of-writing","title":"50 Days of Writing","description":"Email series created by David Perell.","permalink":"/books/days-of-writing"}]}')}}]);
