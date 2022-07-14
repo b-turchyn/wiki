@@ -34,4 +34,5 @@
 |-------|------------------------------------|
 | ZKMC1 | Ana-Genji Sleep Trainer (Hanamura) |
 | DVYNR | Ana-Doomfist Sleep Trainer         |
+| KVKKR | Lucio Surf                         |
 
