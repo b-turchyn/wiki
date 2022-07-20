@@ -15,9 +15,9 @@
     "typecheck": "tsc"
   },
   "dependencies": {
-    "@docusaurus/core": "^2.0.0-beta.22",
-    "@docusaurus/plugin-sitemap": "^2.0.0-beta.22",
-    "@docusaurus/preset-classic": "^2.0.0-beta.22",
+    "@docusaurus/core": "^2.0.0-rc.1",
+    "@docusaurus/plugin-sitemap": "^2.0.0-rc.1",
+    "@docusaurus/preset-classic": "^2.0.0-rc.1",
     "@easyops-cn/docusaurus-search-local": "^0.23.2",
     "@mdx-js/react": "^1.6.22",
     "clsx": "^1.1.1",
@@ -29,7 +29,7 @@
     "remark-math": "^3.0.1"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^2.0.0-beta.22",
+    "@docusaurus/module-type-aliases": "^2.0.0-rc.1",
     "@silvenon/remark-smartypants": "^1.0.0",
     "@tsconfig/docusaurus": "^1.0.5",
     "remark-import-partial": "^0.0.2",
