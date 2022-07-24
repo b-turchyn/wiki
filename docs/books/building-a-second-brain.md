@@ -97,3 +97,57 @@ step of the [CODE Method](writing/code-method.md), so being selective up front
 makes the remaining three steps more efficient.
 - This is a similar thought process to the cost to fix a software defect; it
   goes exponentially up as the defect moves through the SDLC.
+
+### Chapter 5: Organize -- Save for Actionability
+
+_See: [The Cathedral Effect](/psychology/cathedral-effect.md),
+[Digital Garden](writing/digital-garden.md), [PARA](writing/para.md)_
+
+After capturing information, the information needs to be organized so it can be
+found and used. Tiago recommends his [PARA](/writing/para.md) method because it
+organizes information based on how _actionable_ it is, not what kind of
+information it is. The only assumption is that you are only working on a certain
+set of projects at a time.
+
+Figuring out where to store the notes should be done separately from capturing.
+When you first record some information it can be hard to determine its true
+purpose or value. You also ideally want to reduce friction when it comes to
+inputting information.
+
+Instead, use the Inbox functionality of your notes app until you can sort or
+discard that note appropriately. If your app doesn't support that, just create
+an Inbox folder or tag.
+
+When organizing your notes, _put notes where they will be useful the soonest_.
+Work your way through the four categories in PARA. Ask yourself "in which of the
+subfolders in this category should this information go?". If you have an answer,
+then put that note in that subfolder. If the answer is "none of these
+subfolders", then move onto the next category.
+
+The note could potentially end up in any of PARA's four sections. Or, when
+organizing, you may now feel like the note has no value, in which case it's
+alright to delete it (although most notes have value we don't yet see).
+
+The whole point of this information gathering is to _get stuff done_, not just
+collect information. The collecting isn't the end goal: it's a means to complete
+your projects. This is why PARA prioritizes putting information where it will be
+used the soonest, not where it came from. Organize for action and what's
+currently relevant. There is no perfect place for a note. Just like a [digital
+garden](writing/digital-garden.md), your notes will move around over time.
+
+Structurally, PARA should reflect the state of your work and life priorities.
+Your organization here means your workspace is organized, which means you can
+focus on completing your projects. Completing projects further feeds more
+information into your second brain, which compounds and helps you complete more
+projects.
+
+To get started, work with the saying "move quickly, touch lightly". Start with
+creating folders for all active projects. Put all notes you have into each
+project folder. Once complete, review each project and decide if you are
+actively committed to working on it. If not, move that project into the
+archives.
+
+To find the projects you have ongoing:
+- Ask yourself what's on your mind.
+- Check your calendar, to-do list, your browser tabs/history, downloads, and
+  documents. Look for recurring topics.
