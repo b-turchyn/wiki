@@ -20,3 +20,9 @@ America; the product self-markets my effectively owning the name of the product.
 > fair to them.
 >
 > --Seth Godin, ["Paying extra"](https://seths.blog/2022/06/paying-extra/)
+
+Interesting reads:
+
+- [Why do so many brands change their logos and look like everyone
+  else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
+  ([Archive](https://archive.ph/3sNvf))
