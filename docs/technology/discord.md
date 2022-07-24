@@ -6,7 +6,11 @@ tags:
 ---
 # Discord
 
-Discord bots I have used:
+Interesting Discord bots:
+- [CouchBot](https://couch.bot/) sends notifications when someone goes live on a
+  livestreaming platform. This seems to be one of the few that can do YouTube
+  live streams properly rather than just a new YouTube video (Mee6 has that
+  problem).
 - [Mee6](https://mee6.xyz) seems to be one of the better moderation bots.
   There's some features I wish it had, but overall it seems fine. Has a free and
   premium offering.
