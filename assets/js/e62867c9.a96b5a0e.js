@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwiki=self.webpackChunkwiki||[]).push([[1268],{9937:i=>{i.exports=JSON.parse('{"label":"Communication","permalink":"/tags/communication","allTagsPath":"/tags","count":1,"items":[{"id":"technology/discord","title":"Discord","description":"Interesting Discord bots:","permalink":"/technology/discord"}]}')}}]);
