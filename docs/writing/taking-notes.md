@@ -57,6 +57,12 @@ The key takeaways are:
     familiar with. Seems to have some criticisms online which is expected of
     anything, but have not personally vetted this.
 
+## Other Reading
+
+- [Getting More Out of Digital
+  Note-Taking](https://goop.com/wellness/career-money/getting-more-out-of-digital-note-taking/),
+  _Goop_ ([Archive](https://archive.ph/3gMba))
+
 [^1]: https://doi.org/10.1177/0956797614524581 [[PDF]](http://www.yaros.com/ipad/Pen_vs_Keyboard_Notes.pdf)
 [^2]: https://doi.org/10.1177/0956797618781773
 [^3]: https://doi.org/10.1177/0956797620965541
