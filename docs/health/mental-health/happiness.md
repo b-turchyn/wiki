@@ -26,5 +26,9 @@ Happiness comes from:
   > good at what they do.
   > 
   > That’s the biggest reward in life. And it’s 100% in your own hands.
+- [Ludacris On _Karma's World_ Staying Positive, and Why _Fast & Furious_ Doesn't
+  Have to
+  End](https://www.fatherly.com/entertainment/ludacris-karmas-world-fast-x-daddy-and-me),
+  _Fatherly_ ([Archive](https://archive.ph/3SejS))
 
 [^1]: https://wiki.nikiv.dev/life/happiness
