@@ -42,7 +42,7 @@ const config = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl: 'https://github.com/b-turchyn/knowledge/tree/main/docs/',
-          remarkPlugins: [sectionPrefix, math, importPartial, smartypants],
+          remarkPlugins: [math, importPartial, smartypants],
           rehypePlugins: [katex]
         },
         theme: {

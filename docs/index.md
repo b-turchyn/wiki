@@ -20,8 +20,10 @@ back to. Maybe this information is useful to others.
 - Math equation support[^1] via
   [`remark-math`](https://github.com/remarkjs/remark-math/) and
   [`rehype-katex`](https://github.com/remarkjs/remark-math/blob/main/packages/rehype-katex)
-- Overriding header IDs to match Obsidian's auto-complete style
-  ([source](https://github.com/b-turchyn/wiki/blob/main/src/plugins/section-prefix.js))
+- ~~Overriding header IDs to match Obsidian's auto-complete style
+  ([source](https://github.com/b-turchyn/wiki/blob/main/src/plugins/section-prefix.js))~~
+  Disabled for now since I use [Vim](devops/vim.md) for editing this instead of
+  [Obsidian](https://obsidian.md)
 - Smartypants support using
   [@silvenon/remark-smartypants](https://github.com/silvenon/remark-smartypants)
 - Local search using
