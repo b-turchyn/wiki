@@ -19,3 +19,29 @@ Useful links:
 - [Stack Overflow issue](https://stackoverflow.com/q/46367851)
 - [IBM Support
   page](https://www.ibm.com/support/pages/javaiofilenotfoundexception-thrown-apache-tomcat-application-server-ibm-data-server-driver-jdbc-and-sqlj)
+
+## Gotchas
+
+- DB2's [isolation
+  level](https://www.ibm.com/docs/en/db2/11.5?topic=issues-isolation-levels) is
+  set through the whole query. When doing a
+  [`UNION`](https://www.ibm.com/docs/en/db2/11.5?topic=operators-union-operator)
+  or subselect, you cannot specify `WITH UR` within the middle of the statement;
+  it _must_ be put at the end.
+
+  Wrong:
+  ```sql 
+  SELECT * FROM foo WITH UR
+   UNION
+  SELECT * FROM bar WITH UR
+   ORDER BY id
+  ```
+
+  Correct:
+  ```sql 
+  SELECT * FROM foo
+   UNION
+  SELECT * FROM bar
+   ORDER BY id
+    WITH UR
+  ```
