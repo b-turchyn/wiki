@@ -36,3 +36,5 @@
 - https://github.com/maggieappleton/digital-gardeners
 - [My blog is a digital garden, not a
   blog](https://joelhooks.com/digital-garden) (Joel Hooks)
+- [The Digital Garden](https://dev.to/jbranchaud/the-digital-garden-l10), by
+  Josh Branchaud
