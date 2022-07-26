@@ -45,3 +45,5 @@ Recommended changes:
 - [Ben Orenstein – Write code faster: expert-level vim (Railsberry
   2012)](https://www.youtube.com/watch?v=SkdrYWhh-8s), YouTube
 - [Vim Help](https://vimhelp.org/) (although you should just use `:h`)
+- [Your problem with Vim is that you don't grok
+  vi](https://stackoverflow.com/a/1220118), StackOverflow
