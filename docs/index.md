@@ -1,6 +1,6 @@
 ---
 sidebar_position: 0
-title: Home
+title: 🏠 Home
 ---
 
 # Everything I Know
@@ -10,6 +10,11 @@ A collection of random notes.
 My goal is for this to be my [digital garden](writing/digital-garden.md): a
 curated collection of information that I find useful and beneficial to refer
 back to. Maybe this information is useful to others.
+
+I'm a big fan of learning in public. I will almost certainly make mistakes at
+some point, and I will learn from others when they (hopefully) correct me. In
+turn, I hope others read the information I've gathered here and get something
+out of it.
 
 ## Statistics
 
@@ -23,7 +28,8 @@ back to. Maybe this information is useful to others.
 - ~~Overriding header IDs to match Obsidian's auto-complete style
   ([source](https://github.com/b-turchyn/wiki/blob/main/src/plugins/section-prefix.js))~~
   Disabled for now since I use [Vim](devops/vim.md) for editing this instead of
-  [Obsidian](https://obsidian.md)
+  [Obsidian](https://obsidian.md). Waiting for [GFM-style slugs to be
+  supported](https://forum.obsidian.md/t/support-gfm-style-kebab-case-heading-slug-anchor-targets/30350)
 - Smartypants support using
   [@silvenon/remark-smartypants](https://github.com/silvenon/remark-smartypants)
 - Local search using
