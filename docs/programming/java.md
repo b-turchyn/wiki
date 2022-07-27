@@ -40,6 +40,35 @@ try (MockedStatic<MyClass> myClass = mockStatic(MyClass.class)) {
 
 ### One-to-One Mappings
 
+Assume the following structure. The `COMPANY` table is the owner of the data.
+
+<!-- This needs to stay on the same line, otherwise Docusaurus whines...smh -->
+![An entity relationship diagram of two tables, 'COMPANY' and 'COMPANYADDRESS'. The company table has an ID and name, and the company address table has an ID, company ID foreign key, and street. There is a one-to-one relationship between the two tables.](/img/programming/java/onetoone-erd.png)
+
+The entities would look like this:
+
+```java
+@Entity
+public class Company {
+  private Long id;
+
+  private String name;
+
+  @OneToOne(mappedBy = "company")
+  private CompanyAddress address;
+}
+
+@Entity
+public class CompanyAddress {
+  private Long id;
+
+  @OneToOne
+  @JoinColumn(name = "company_id", referencedColumnName = "id")
+  private Company company;
+
+  private String street;
+}
+```
 
 
 ## Spring
