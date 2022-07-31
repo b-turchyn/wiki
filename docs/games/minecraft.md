@@ -36,6 +36,14 @@ Mods I use:
   transferring items. This prevents the server code from looking for entities
   above it and instead can look directly in the composter.
 
+## Redstone Circuits
+
+- Block Swappers:
+  - [ilmango's 1-wide tileable design](https://youtu.be/ZxDpje2op84)
+    - This design can also be done as a 90-degree design, meaning it can be used
+      in corners too. Very handy!
+  - [Original non-tileable design](https://youtu.be/REq58LDPLFQ)
+
 ## Plugins
 
 ### Development
