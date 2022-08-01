@@ -31,9 +31,13 @@
 - [r/DigitalGardens](https://www.reddit.com/r/DigitalGardens/)
   - Fairly quiet, not a lot of activity
 
+## Digital Garden Lists
+
+- [lyz-code/best-of-digital-gardens](https://github.com/lyz-code/best-of-digital-gardens), GitHub
+- [maggieappleton/digital-gardeners](https://github.com/maggieappleton/digital-gardeners), GitHub
+
 ## Further Reading
 
-- https://github.com/maggieappleton/digital-gardeners
 - [My blog is a digital garden, not a
   blog](https://joelhooks.com/digital-garden) (Joel Hooks)
 - [The Digital Garden](https://dev.to/jbranchaud/the-digital-garden-l10), by
