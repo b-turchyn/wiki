@@ -66,3 +66,7 @@ Rough lineage of server software:
 _See: [Java Edition server
 software](https://minecraftservers.fandom.com/wiki/Java_Edition_server_software),
 Minecraft Servers wiki_
+
+## Other Software
+
+- [Mineways] - Converts a Minecraft map to a 3D model for importing into other software like Blender, Houdini, or Cinema4D
