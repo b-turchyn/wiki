@@ -2,6 +2,7 @@
 tags:
   - Incomplete
 ---
+
 # Effortless
 
 Author: Greg McKeown
@@ -25,6 +26,7 @@ The goal: easy but pointless things become harder, and hard but worthwhile
 things become easier.
 
 This process is broken down into three parts:
+
 1. Effortless State. Clear the clutter in your head so that it's easier to
    process new information and can make clear, level-headed decisions.
 2. Effortless Action. Simplify the process by which you get stuff done. Find
@@ -36,6 +38,23 @@ This process is broken down into three parts:
 > --George Eliot
 
 ## Part I: Effortless State
+
+The _Effortless State_ can be defined as _feeling lighter_. This is both from
+the feeling of being burdened (i.e. "I feel like there's a weight off my
+shoulders"), but also a from a happiness perspective (i.e. "I'm not about to
+snap at everything").
+
+### Chapter 1: Invert
+
+We tend to equate "hard" with "valuable" and "easy" with "trivial" -- that the
+amount of effort put in has a direct correlation to the value it has. We apply
+this to our work in most cases, and feel guilty if we got a lot done with little
+effort, as if we cheated.
+
+An alternative way of looking at this could be "how can I make this essential
+task easy?". In general, McKeown suggests always asking "what if the opposite
+were true?". Take a fact or opinion then ask that question, and evaluate the
+results.
 
 ## Part II: Effortless Action
 
