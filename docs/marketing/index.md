@@ -1,5 +1,6 @@
 ---
 tags:
+  - Entrepreneurship
   - Incomplete
 ---
 # Marketing
@@ -26,3 +27,4 @@ Interesting reads:
 - [Why do so many brands change their logos and look like everyone
   else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
   ([Archive](https://archive.ph/3sNvf))
+- [Ask HN: What made your business take off that you wish you'd done much earlier?](https://news.ycombinator.com/item?id=30329762), Hacker News ([Archive](https://archive.ph/lbwtV))
