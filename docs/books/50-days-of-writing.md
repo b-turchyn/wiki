@@ -409,3 +409,18 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 
 > Study hard what interests you the most in the most undisciplined, irreverent
 > and original manner possible. -- Richard Feynman
+
+### Day 31: Intellectual Phase Transitions
+
+[(source)](https://perell.com/note/intellectual-phase-transitions/)
+
+- Creativity comes from combining multiple ideas from multiple sources and
+  creating new ideas from those.
+- Look to find connections between ideas by comparing and contrasting. See if
+  you can figure out how to combine ideas together.
+
+> And that is the idea that creativity is combinatorial, that nothing is
+> entirely original, that everything builds on what came before, and that we
+> create by taking existing pieces of inspiration, knowledge, skill and insight
+> that we gather over the course of our lives and [recombine] them into
+> incredible new creations. -- Maria Popova
