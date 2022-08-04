@@ -4,6 +4,8 @@ tags:
 ---
 # Tmux
 
+- Broadcast an email to all panes on the window: `setw synchronize-panes on`
+
 ## Session switcher with `fzf`
 
 [(source)](https://news.ycombinator.com/item?id=31308099)
