@@ -56,6 +56,27 @@ task easy?". In general, McKeown suggests always asking "what if the opposite
 were true?". Take a fact or opinion then ask that question, and evaluate the
 results.
 
+If something seems impossible to achieve, look for indirect ways of making
+incremental progress. [William
+Wilberforce](https://en.wikipedia.org/wiki/William_Wilberforce) attempted to
+abolish the slave trade in Britain, but the British Parliament was not
+interested in making changes here. Instead, Wilberforce was able to remove a
+maritime law that prevented search and seizure of ships flying under a neutral
+flag (under which most slave traders flew). By doing so, slave ships were able
+to be seized, cutting off a lot of the maritime slave trade.
+
+Make decisions based on what you deem to be important, not what everyone else is
+doing. When every other airline had fancy tickets, Southwest Airlines opted to
+print their tickets on ordinary paper. The information on the ticket was more
+important than what the ticket was printed on.
+
+> "If you can think about how hard it is to push a business uphill, particularly
+> when you're just getting started, one answer is to say: 'Why don't you just
+> start a different business you can push downhill?' " -- Seth Godin
+
+"Easier" does not mean "inferior". Look for situations where even the smallest
+bit of effort moves the important stuff forward.
+
 ## Part II: Effortless Action
 
 ## Part III: Effortless Results
