@@ -77,6 +77,37 @@ important than what the ticket was printed on.
 "Easier" does not mean "inferior". Look for situations where even the smallest
 bit of effort moves the important stuff forward.
 
+### Chapter 2: Enjoy
+
+Having fun when you haven't accomplished the important things becomes _the dark
+playground_[^1]. So if you want to actually enjoy your fun time, accomplish
+something first.
+
+[^1]: I first heard this term used by Tim Urban during his [TED
+  Talk](https://www.youtube.com/watch?v=arj7oStGLkU).
+
+Often things that are good for us in the long-term are not enjoyable in the
+short-term (exercising, meditating, eating healthy, etc). This is known as a
+_lag indicator_. Look for ways to reduce the lag between effort and reward. For
+example, do chores while listening to a podcast or music.
+
+McKeown suggests pairing mundane, must-do work with fun things. Music is one of
+the things McKeown touches on frequently. Almost everyone likes music, so find
+something that matches the task before you.
+
+> Don't underestimate the power of the right soundtrack to ditch the drudgery
+> and get into a groove.
+
+Other examples provided:
+
+* Treating the weekly family financial meeting as a date rather than a chore by
+  bringing out chocolate covered almonds and putting on good music on repeat.
+* Putting on Disney songs while cleaning up after dinner so the whole family
+  sings along.
+
+Find rituals to form our habits around. Rituals are _how_ you perform the habit.
+If you can embrace the ritual, the habit will also form.
+
 ## Part II: Effortless Action
 
 ## Part III: Effortless Results
