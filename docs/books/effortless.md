@@ -57,10 +57,10 @@ were true?". Take a fact or opinion then ask that question, and evaluate the
 results.
 
 If something seems impossible to achieve, look for indirect ways of making
-incremental progress. [William
-Wilberforce](https://en.wikipedia.org/wiki/William_Wilberforce) attempted to
-abolish the slave trade in Britain, but the British Parliament was not
-interested in making changes here. Instead, Wilberforce was able to remove a
+incremental progress.
+[William Wilberforce](https://en.wikipedia.org/wiki/William_Wilberforce)
+attempted to abolish the slave trade in Britain, but the British Parliament was
+not interested in making changes here. Instead, Wilberforce was able to remove a
 maritime law that prevented search and seizure of ships flying under a neutral
 flag (under which most slave traders flew). By doing so, slave ships were able
 to be seized, cutting off a lot of the maritime slave trade.
@@ -83,8 +83,9 @@ Having fun when you haven't accomplished the important things becomes _the dark
 playground_[^1]. So if you want to actually enjoy your fun time, accomplish
 something first.
 
-[^1]: I first heard this term used by Tim Urban during his [TED
-  Talk](https://www.youtube.com/watch?v=arj7oStGLkU).
+[^1]:
+    I first heard this term used by Tim Urban during his
+    [TED Talk](https://www.youtube.com/watch?v=arj7oStGLkU).
 
 Often things that are good for us in the long-term are not enjoyable in the
 short-term (exercising, meditating, eating healthy, etc). This is known as a
@@ -100,13 +101,40 @@ something that matches the task before you.
 
 Other examples provided:
 
-* Treating the weekly family financial meeting as a date rather than a chore by
+- Treating the weekly family financial meeting as a date rather than a chore by
   bringing out chocolate covered almonds and putting on good music on repeat.
-* Putting on Disney songs while cleaning up after dinner so the whole family
+- Putting on Disney songs while cleaning up after dinner so the whole family
   sings along.
 
 Find rituals to form our habits around. Rituals are _how_ you perform the habit.
 If you can embrace the ritual, the habit will also form.
+
+### Chapter 3: Release
+
+Keep an eye out for Stormtroopers[^2]: outdated goals or desires that you're
+continuing to work toward but don't actually want or need. As these pile up,
+they take up more brain power and cause you to not be able to focus[^3].
+
+[^2]:
+    The origin of "Stormtrooper" here came from McKeown's wife Anna. After
+    McKeown went had it in is head for a long time that he wanted a Stormtrooper
+    costume, he went to try it on and then immediately realized that he didn't
+    want it. Now Anna will ask "Is this a Stormtrooper?" if something McKeown is
+    working toward doesn't seem like it holds value anymore.
+
+[^3]:
+    I see callbacks here to Tiago Forte's [PARA](writing/para.md) organizational
+    method: move things into the archive when they no longer serve a purpose.
+
+As a real world example, social media tends to thrive on complaining. The more
+we complain, the more you hear complaints and the easier it is to complain about
+things. By contrast, the more you practice gratitude, the more you notice things
+you should be grateful for and the easier it becomes to be grateful for everyday
+things.
+
+> Gratitude is a powerful, catalytic thing. It starves negative emotions of the
+> oxygen they need to survive. It also generates a positive, self-sustaining
+> system wherever and whenever it is applied.
 
 ## Part II: Effortless Action
 
