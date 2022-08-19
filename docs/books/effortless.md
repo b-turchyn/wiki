@@ -147,6 +147,42 @@ is. The latter frees you from having to worry about it.
 > "When someone shows you who they are, believe them the first time." -- Maya
 > Angelou
 
+### Chapter 4: Rest
+
+Consistently working hard will lead to burnout. To be able to grow and maintain
+peak performance, rest is also required.
+
+The amount of work you do should be no more than you can recover from and should
+not completely exhaust you.
+
+> "To maximize gains from long-term practice, individuals must avoid exhaustion
+> and must limit practice to an amount from which they can completely recover on
+> a daily or weekly basis." -- K Anders Ericsson
+
+- I have personally felt this back in 2019;
+  [I wrote about it on my blog](https://brianturchyn.net/burnout/)
+- The Stress-Rest cycle is also talked about in _Peak Performance_.
+
+To keep up a healthy amount of work, do the most essential things at the start
+of your day, when you have the most discipline and energy. Break that time into
+work sessions that are no more than 90 minutes each. Schedule 10-15 breaks in
+between them.
+
+Don't ignore fatigue. If you feel it building up, take a break and rest so you
+can continue later. The break doesn't need to be long; even a one minute break
+in some situations is enough.
+
+Sleep is one of the most common things that we neglect, yet is critical for us
+to be able to perform well. A single night of "good sleep" is not enough to make
+up for the past several days of poor sleep; we have accumulated too much sleep
+debt. This is one of the easiest and simplest things you can do to improve your
+life.
+
+_See: [Sleep](/health/sleep.md)_
+
+When a full night's sleep isn't possible, take a nap. (See:
+[Naps](/health/sleep.md#naps)) Aim for a 90 minute nap for a full recovery.
+
 ## Part II: Effortless Action
 
 ## Part III: Effortless Results
