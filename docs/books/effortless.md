@@ -136,6 +136,17 @@ things.
 > oxygen they need to survive. It also generates a positive, self-sustaining
 > system wherever and whenever it is applied.
 
+Similarly, avoid holding onto grudges. They're easier to focus on than being
+grateful for things, but is far more toxic to your mental well-being. Holding a
+grudge means that someone who slighted you holds agency over your happiness.
+
+Accept the things you can't control. People have their flaws. If you can't
+control something, you have the choice to ruminate on it or to accept it as it
+is. The latter frees you from having to worry about it.
+
+> "When someone shows you who they are, believe them the first time." -- Maya
+> Angelou
+
 ## Part II: Effortless Action
 
 ## Part III: Effortless Results
