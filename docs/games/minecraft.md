@@ -69,4 +69,11 @@ Minecraft Servers wiki_
 
 ## Other Software
 
-- [Mineways] - Converts a Minecraft map to a 3D model for importing into other software like Blender, Houdini, or Cinema4D
+- [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/):
+  Converts a Minecraft map to a 3D model for importing into other software
+  like Blender, Houdini, or Cinema4D
+
+## Resources
+
+- [Block Palettes](https://www.blockpalettes.com/): a collection of palettes for
+  building
