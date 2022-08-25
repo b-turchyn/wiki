@@ -16,6 +16,10 @@ some point, and I will learn from others when they (hopefully) correct me. In
 turn, I hope others read the information I've gathered here and get something
 out of it.
 
+Some articles you may find interesting:
+
+- [My Workflow](workflow.md)
+
 ## Statistics
 
 {@import ../loc.txt}
