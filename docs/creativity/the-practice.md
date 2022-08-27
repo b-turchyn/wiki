@@ -17,7 +17,7 @@ should go through this practice regardless of external validation; we can't
 control the number of likes or views something gets, but we can control us
 producing on a regular basis to slowly get better at it.
 
-Alice Lemeé
+Alice Lemée
 [encourages publishing "garbage"](https://alicelemee.ck.page/posts/it-s-not-luck-it-s-a-choice-internetly-vol-60):
 
 > Don't forget -- regularly publishing crap is how you get to the good part.
