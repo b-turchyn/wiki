@@ -5,6 +5,8 @@ title: 🏠 Home
 
 # Everything I Know
 
+> "If it's worth caring about, it's worth writing down." -- [Seth Godin](https://seths.blog/2022/07/a-good-spec/)
+
 A collection of random notes.
 
 My goal is for this to be my [digital garden](writing/digital-garden.md): a
