@@ -7,8 +7,15 @@ Artists I like:
 
 - [Luiza Niechoda](https://luizacreates.com)
 
+Random things:
+
+- The cracks that form in old pieces of art are called
+  [craquelure](https://en.wikipedia.org/wiki/Craquelure). ([Phil Edwards video
+  on it](https://www.youtube.com/watch?v=BcVNGeWmd6I))
+
 ## Tattoo Artists
 
 - @bakajennah ([Instagram](https://www.instagram.com/bakajennah/))
 - Ian Wong ([Instagram](https://www.instagram.com/ian_tattoos_/))
-- Koray Karagözler ([DeviantArt](https://www.deviantart.com/koraykaragozler), [Instagram](https://www.instagram.com/koray_karagozler/))
+- Koray Karagözler ([DeviantArt](https://www.deviantart.com/koraykaragozler),
+  [Instagram](https://www.instagram.com/koray_karagozler/))
