@@ -1,11 +1,21 @@
 ---
 title: 🎨 Art
 ---
+
 # Art
 
 Artists I like:
 
 - [Luiza Niechoda](https://luizacreates.com)
+
+Machine Learning and AI-driven image generation:
+
+- [My blog post on the ethics of ML-based image
+  generation](https://brianturchyn.net/the-ethics-of-machine-learning/)
+- [Craiyon](https://www.craiyon.com/), formerly DALL-E Mini
+- [DALL-E](https://labs.openai.com/)
+- [Lexica](https://lexica.art/)
+- [Midjourney](https://www.midjourney.com/)
 
 Random things:
 
