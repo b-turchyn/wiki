@@ -73,7 +73,9 @@ Minecraft Servers wiki_
   Converts a Minecraft map to a 3D model for importing into other software
   like Blender, Houdini, or Cinema4D
 
-## Resources
+## Inspiration
 
 - [Block Palettes](https://www.blockpalettes.com/): a collection of palettes for
   building
+- [/r/DetailCraft](https://www.reddit.com/r/DetailCraft): Minecraft for the
+  detail-oriented
