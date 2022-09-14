@@ -12,6 +12,11 @@ Happiness comes from:
 - Maintaining good [physical health](health/physical-health.md)
 - Maintaining good [mental health](/health/mental-health)
 
+Your time-focus impacts your happiness. Focusing on the present allows you to
+appreciate what you currently have and lets you enjoy life. Focusing on the
+future allows you to plan for that future and ensure you spend your life doing
+something that will leave you truly fulfilled.
+
 ## Examples of people doing good things:
 
 - [Mendon, Missouri - Sean of the
@@ -30,5 +35,7 @@ Happiness comes from:
   Have to
   End](https://www.fatherly.com/entertainment/ludacris-karmas-world-fast-x-daddy-and-me),
   _Fatherly_ ([Archive](https://archive.ph/3SejS))
+- [Are you present-focused or future-focused?](https://sive.rs/time), Derek
+  Sivers
 
 [^1]: https://wiki.nikiv.dev/life/happiness
