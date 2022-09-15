@@ -26,6 +26,10 @@ My preferred Vim plugin manager
 I swapped out [ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) for
 [Command-T](https://github.com/wincent/command-t).
 
+Note that when also using RVM, you need to run the `extconf.rb` file by
+referencing the correct version of Ruby, which means using
+`/usr/local/opt/ruby/bin/ruby extconf.rb` to call the right version.
+
 Recommended changes:
 - Set `let g:CommandTFileScanner = "git"`. This will fallback to the `find`
   option, but critically takes advantage of `.gitignore`.
