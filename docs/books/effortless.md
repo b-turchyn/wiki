@@ -213,4 +213,17 @@ optimal juice-to-squeeze ratio of time-to-value.
 
 Accomplish what matters by trying less.
 
+### Chapter 6: Define
+
+The easiest way to kill a project is to not define what "done" looks like.
+By defining "done", you can perform the steps required, finish it up, then move
+on to something else.
+
+When you have lots of things to get done, consider a "done for the day" list.
+When looking at your to-do list, if you see something on there that will haunt
+you if you don't get it done today, put it on the list. You then work from that
+list first.
+
+_See: [Swedish Death Cleaning](psychology/swedish-death-cleaning.md)_
+
 ## Part III: Effortless Results
