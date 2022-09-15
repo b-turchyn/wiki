@@ -183,6 +183,34 @@ _See: [Sleep](/health/sleep.md)_
 When a full night's sleep isn't possible, take a nap. (See:
 [Naps](/health/sleep.md#naps)) Aim for a 90 minute nap for a full recovery.
 
+### Chapter 5: Notice
+
+There are countless things competing for our attention. This interferes with
+our ability to observe and notice things. If we can train our "attention
+muscles", then we can take more information in with less effort.
+
+> Listening isn't hard; it's stopping our mind from wandering that's hard.
+
+Give your full focus and attention to those you're speaking with. If a
+[relationship bid](psychology/relationship-bids.md) comes your way, respond with
+either turning toward or turning against. This ensures you're present.
+
+If someone comes to you for advice, avoid providing recommendations. Instead,
+aim to ask questions to help the other person come to their own conclusions.
+They may not be telling you the whole story, and your situations are going to be
+different compared to theirs. Quakers had a system called the _Clearness
+Committee_ which effectively performed that.
+
 ## Part II: Effortless Action
+
+The primary goal with action is continuous practice: to get to the point where
+you try without trying, for your actions to become instinctive. Getting to this
+point requires deliberate practice, but too much time invested and you'll hit
+the point of diminishing returns (or possibly even negative returns).
+
+When practising, you want to invest just enough time so that you hit that
+optimal juice-to-squeeze ratio of time-to-value.
+
+Accomplish what matters by trying less.
 
 ## Part III: Effortless Results
