@@ -9,3 +9,9 @@ Some techniques for writing:
     combine the sentences together into paragraphs during the last step of the
     editing process)
   - Strip out filler content. "Whether or not", "I think", etc.
+
+Other things:
+- [Paul Graham showing how much he rewrites his
+  content](https://byronm.com/13sentences.html) ([Twitter
+  thread](https://twitter.com/paulg/status/1571774245214244864))
+  ([HN](https://news.ycombinator.com/item?id=32895672))
