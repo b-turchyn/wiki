@@ -424,3 +424,13 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 > create by taking existing pieces of inspiration, knowledge, skill and insight
 > that we gather over the course of our lives and [recombine] them into
 > incredible new creations. -- Maria Popova
+
+### Day 32: Summarize the Canon
+
+[(source)](https://perell.com/note/summarize-the-canon/)
+
+- Each discipline has books that are considered de facto; summarizing this
+  content is a good place to start generating content.
+- These books have stood the test of time and are considered de facto for a
+  reason.
+- Take the ideas and provide context. Make the theory relevant.
