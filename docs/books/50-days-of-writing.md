@@ -424,3 +424,84 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 > create by taking existing pieces of inspiration, knowledge, skill and insight
 > that we gather over the course of our lives and [recombine] them into
 > incredible new creations. -- Maria Popova
+
+### Day 32: Summarize the Canon
+
+[(source)](https://perell.com/note/summarize-the-canon/)
+
+- Each discipline has books that are considered de facto; summarizing this
+  content is a good place to start generating content.
+- These books have stood the test of time and are considered de facto for a
+  reason.
+- Take the ideas and provide context. Make the theory relevant.
+
+### Day 33: Avoid Cliché Ideas
+
+[(source)](https://perell.com/note/avoid-cliche-ideas/)
+
+- A cliché is too general to draw attention. You're not contributing anything
+  new by being general.
+- In order to contribute something new -- and for people to want to continue to
+  read what you produce -- you need to be specific, to talk to the details of
+  your topic.
+- Alternative topics:
+  - Approach topics from a different angle
+  - Talk about under-explored topics
+
+### Day 34: Write a Summary Box
+
+[(source)](https://perell.com/note/write-a-summary-box/)
+
+- When you know what you're going to say, ensure you stay focused and on-topic.
+  Writing a short abstract or summary in advance and referring back to it will
+  help.
+- Without this, your writing can meander and you end up not focusing on the
+  smallest point you're trying to make.
+
+### Day 35: The But & Therefore Rule
+
+[(source)](https://perell.com/note/but-therefore-rule/)
+
+- The "But & Therefore Rule" comes from Trey Parker and Matt Stone, creators of
+  South Park.
+- While some stories are told with "and then" to tie concepts together, Trey and
+  Matt instead use "but [situation] therefore" to introduce unpredictability,
+  entertainment, and conflict.
+- Consider this when doing creative writing to deviate from conventional styles.
+
+### Day 36: Diversify Your Vernacular
+
+[(source)](https://perell.com/note/diversify-your-vernacular/)
+
+- The advice "write like you speak" is good up until a point. Once you hit that
+  point, this advice is limiting.
+- When we speak, we have the benefit of tone to help convey information. We lose
+  this ability when writing.
+- Perell suggests that there are three types of words for writers to consider:
+  1. Words that people know and use
+  2. Words that people know but don't use
+  3. Words that people don't know nor use
+
+  Look to bring in words that people know but don't use to help provide the
+  missing "spice" to your written words.
+
+### Day 37: FAST Writing
+
+[(source)](https://perell.com/note/fast-writing/)
+
+- FAST is an acronym that stands for Find, Assemble, Speak, and Teach. Perell
+  recommends this approach for those that can't dedicate their entire lives to
+  writing (i.e. almost all of us).
+- _Find_: passively research and collect information. You need to do this before
+  you even know what you're going to write about. Consider a [second
+  brain](/writing/second-brain.md) to store this info.
+- _Assemble_: write down a list of scattered ideas about the topic. If you're
+  starting to write, you should already know what you're talking about, not
+  learning about it while you write. Collect your notes together before actually
+  writing.
+- _Speak_: talk with other people about the idea. Talking is faster than
+  writing, and will help crystallize ideas, and others asking questions will
+  help you cover all of the required talking points.
+- _Teach_: by writing (and sharing your work online), you're demonstrating what
+  you've learned and helping teach others. Others can then learn from what
+  you've written and provide feedback, which in turn improves your writing.
