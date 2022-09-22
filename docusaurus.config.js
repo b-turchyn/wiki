@@ -19,7 +19,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/logo.png',
   organizationName: 'b-turchyn', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
   trailingSlash: true,
@@ -65,7 +65,7 @@ const config = {
         title: 'Everything I Know',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
