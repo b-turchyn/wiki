@@ -56,4 +56,7 @@ message via Signal, double puppeting will make it show up in my Matrix chat.
       matrix.btdev.org: replace-this-random-string
   ```
 - Restart Synapse and your bridge software
+- Once restarted, start a chat with the bridge bot (i.e. `@signalbot`) and send
+  the message `ping-matrix`. If working correctly, you should receive the
+  message `Your Matrix login is working.`.
 
