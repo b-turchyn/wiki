@@ -18,6 +18,14 @@ are seeing a negative trend in what you write, journaling can help you capture
 that. It's also a place to ask yourself tough questions and gives you a chance
 to reflect on them, helping you to reason through them.
 
+## Styles
+
+- [Bullet journaling](https://bulletjournal.com/): write out to-do items and
+  tasks for the day. Things are kept short. Very customizable.
+- [Interstitial journaling](https://nesslabs.com/interstitial-journaling): write
+  out what you're currently working on. Combines notes about the day, a to-do
+  list, and time tracking
+
 ## Getting Started
 
 * Use [habit-forming techniques](/psychology/habits.md) to get started and keep
