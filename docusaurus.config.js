@@ -41,7 +41,7 @@ const config = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/b-turchyn/knowledge/tree/main/docs/',
+          editUrl: 'https://github.com/b-turchyn/wiki/tree/main/',
           remarkPlugins: [math, importPartial, smartypants],
           rehypePlugins: [katex]
         },
