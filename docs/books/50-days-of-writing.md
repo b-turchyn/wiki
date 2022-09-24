@@ -505,3 +505,55 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 - _Teach_: by writing (and sharing your work online), you're demonstrating what
   you've learned and helping teach others. Others can then learn from what
   you've written and provide feedback, which in turn improves your writing.
+
+### Day 38: The Three Deadly Sins
+
+[(source)](https://perell.com/note/the-three-deadly-sins/)
+
+- Avoid weak, wasted, and redundant words:
+  - Weak: words that lack potency. There's no spice.
+  - Wasted: filler words that don't contribute to your point. For example,
+    replace "due to the fact that" with "because".
+  - Redundant: saying the same thing more than once. For example, in "baby
+    puppies", "baby" is redundant.
+- Avoid this by [compressing your sentences](/writing/sentence-compression.md).
+
+### Day 39: Expression is Compression
+
+[(source)](https://perell.com/essay/expression-is-compression/)
+
+_See: [sentence compression](/writing/sentence-compression.md)_
+
+- You'll have nothing to write about if you don't experience life. Writers don't
+  spend their entire lives sitting down and writing; they get out and experience
+  the world.
+- To captivate an audience, your writing needs to be tight and focused, keeping
+  the reader engaged.
+
+### Day 40: Write CLEAR Sentences
+
+[(source)](https://perell.com/note/write-clear-sentences/)
+
+- CLEAR is an acronym that stands for: Create a rhythm, Link your sentences,
+  Eliminate anything that adds confusion, Add colourful details, Remove
+  unnecessary details
+- Create a Rhythm: vary sentence length to keep the reader captivated.
+  > "Don't just write words. Write music."
+  >
+  > -- Gary Provost
+- Link Your Sentences: Each sentence should logically flow from one to the next
+  sentence. Across the whole piece, each paragraph should flow from one to the
+  next.
+- Eliminate Anything That Adds Confusion: exactly what it sounds like. To figure
+  out what causes confusion, read your writing out to yourself. If you catch
+  yourself stumbling, revise that area.
+- Add Colourful Details: Creative writing should not just convey facts or
+  statements, but should make the reader feel something. The detail you add
+  about your experience provides that.
+- Remove Unnecessary Details: Remove anything that isn't required.
+  > "If you can communicate the same idea with fewer words, it's more likely to
+  > be read and understood. A sentence that's easier to translate is also easier
+  > to understand."
+  >
+  > -- Derek Sivers
+
