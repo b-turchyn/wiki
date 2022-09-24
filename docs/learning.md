@@ -1,3 +1,6 @@
+---
+title: "🏫 Learning"
+---
 # Learning
 
 Everyone should strive to learn something new every day. It's also a good idea

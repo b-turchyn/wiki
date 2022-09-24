@@ -1,3 +1,6 @@
+---
+title: 🦾 Creativity
+---
 # Creativity
 
 > The ability to create is an evolutionary birthright -- that it's impossible to

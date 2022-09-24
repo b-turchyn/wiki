@@ -1,3 +1,6 @@
+---
+title: 🎭 Culture
+---
 # Culture
 
 We are often blind by our culture. It takes interacting with others outside of

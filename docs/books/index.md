@@ -1,3 +1,6 @@
+---
+title: 📚 Books
+---
 # Books
 
 ## Book Lists

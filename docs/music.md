@@ -1,3 +1,6 @@
+---
+title: "🎵 Music"
+---
 # Music
 
 I love music. I almost always have something playing depending on what I'm doing

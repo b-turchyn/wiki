@@ -1,3 +1,6 @@
+---
+title: "⌨ Keyboards"
+---
 # Keyboards
 
 ## Switches

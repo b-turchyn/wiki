@@ -1,4 +1,5 @@
 ---
+title: "📊 Marketing"
 tags:
   - Entrepreneurship
   - Incomplete

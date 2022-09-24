@@ -1,3 +1,6 @@
+---
+title: "🔄 My Workflow"
+---
 # My Workflow
 
 My general process is:

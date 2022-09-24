@@ -1,4 +1,5 @@
 ---
+title: "🧠 Psychology"
 ---
 # Psychology
 

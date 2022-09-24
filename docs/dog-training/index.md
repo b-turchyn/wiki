@@ -1,4 +1,5 @@
 ---
+title: "🐶 Dog Training"
 ---
 # Dog Training
 

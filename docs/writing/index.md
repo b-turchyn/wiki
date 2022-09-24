@@ -1,3 +1,6 @@
+---
+title: "📝 Writing"
+---
 # Writing
 
 > "Every writer writes for an audience"
