@@ -60,6 +60,13 @@ const config = {
 }
 ```
 
+## Syntax Highlighting
+
+Syntax highlighting is handled by
+[Prism](https://prismjs.com/#supported-languages). Additional languages need to
+be imported into
+[`docusaurus.config.js`](https://github.com/b-turchyn/wiki/blob/main/docusaurus.config.js).
+
 ## Known Issues
 
 - When writing new articles, linking an article to that new article requires a
