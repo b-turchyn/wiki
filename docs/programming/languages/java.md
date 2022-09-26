@@ -1,18 +1,16 @@
 ---
 tags:
   - Language
+  - Java
 ---
 # Java
 
 - [Baeldung](https://www.baeldung.com) continues to be one of the best online
   resources for Java and Spring developers. Their content is very well written.
 
-## Jackson
+## Libraries
 
-- [Custom (De)serializers with
-  Jackson](https://www.baeldung.com/jackson-serialize-dates), Baeldung
-- [Ignoring unknown properties globally](https://stackoverflow.com/q/14343477),
-  StackOverflow
+- [Jackson](/programming/libraries/jackson.md)
 
 ## JPA
 
