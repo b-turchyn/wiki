@@ -106,7 +106,7 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
-        additionalLanguages: ['java', 'vim'],
+        additionalLanguages: ['java', 'properties', 'vim'],
       },
     }),
   stylesheets: [
