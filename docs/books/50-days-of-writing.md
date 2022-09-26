@@ -557,3 +557,34 @@ _See: [sentence compression](/writing/sentence-compression.md)_
   >
   > -- Derek Sivers
 
+### Day 41: CRIBS: My Writing Feedback Formula
+
+[(source)](https://perell.com/note/cribs-my-writing-feedback-formula/)
+
+- CRIBS is an acronym for providing writing feedback, which stands for:
+  Confusing, Repeated, Interested, Boring, Surprising. Note that this is not
+  something you'd use on your own writing, but on someone else's.
+- Confusing: is the author trying to sound smart? They should use clearer,
+  simpler language. Does the point meander? The author may not know enough about
+  your current topic.
+- Repeated: do you say the same thing over and over? Simplify your writing.
+  Don't be redundant.
+- Interesting: identify the areas you find interesting. The writer should double
+  down on these.
+- Boring: identify areas you don't find interesting. These will drive other
+  readers away. Boring areas should be removed or rewritten to be made
+  interesting.
+- Surprising: point out areas that you didn't know and didn't expect. The author
+  should lean into these, creating as many as possible.
+
+### Day 42: The Public to Private Badge
+
+[(source)](https://perell.com/note/the-public-to-private-bridge/)
+
+- In order to grow your audience, you need to convince people to be willing to
+  be contacted by some sort of private means, such as by an email newsletter.
+- Publish content on public sites such as Twitter or YouTube to be discovered.
+  Make the content good enough to get people to subscribe to you off of the
+  platform.
+- Your public presence can vanish at any point. Your private presence is around
+  for as long as you want it to be.
