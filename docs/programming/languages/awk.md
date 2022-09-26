@@ -1,6 +1,6 @@
 # awk
 
-- [`sed`](/programming/sed.md) is a similar program
+- [`sed`](/programming/languages/sed.md) is a similar program
 
 Links:
 
