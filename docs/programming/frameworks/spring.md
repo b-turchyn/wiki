@@ -19,6 +19,8 @@ spring.datasource.username=<username>
 spring.datasource.password=<password>
 ```
 
+- Username should probably be the full user and domain together, i.e.
+  `user@domain`.
 - You may also need to append `trustServerCertificate=true` to
   `spring.datasource.url` if you get an error like `unable to find valid
   certification path to requested target` (or fix the certificate path
