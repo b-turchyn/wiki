@@ -19,7 +19,7 @@ spring.datasource.username=<username>
 spring.datasource.password=<password>
 ```
 
-- You may also need to append `integratedSecurity=true` to
+- You may also need to append `trustServerCertificate=true` to
   `spring.datasource.url` if you get an error like `unable to find valid
   certification path to requested target` (or fix the certificate path
   properly).
