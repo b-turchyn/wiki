@@ -32,4 +32,7 @@ spring.datasource.password=<password>
 - [Using NTLM Authentication to connect to SQL
   Server](https://learn.microsoft.com/en-us/sql/connect/jdbc/using-ntlm-authentication-to-connect-to-sql-server?source=recommendations&view=sql-server-ver16),
   Microsoft
+- [Setting the connection
+  properties](https://learn.microsoft.com/en-us/sql/connect/jdbc/setting-the-connection-properties?view=sql-server-ver16),
+  MSSQL
 
