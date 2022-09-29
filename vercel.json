@@ -1,5 +1,11 @@
 {
   "github": {
     "silent": true
-  }
+  },
+  "redirects": [
+    {
+      "source": "/books/50-days-of-writing",
+      "destination": "/books/days-of-writing"
+    }
+  ]
 }
