@@ -10,3 +10,4 @@ A semi-prioritized list of things I want to learn about.
   principles like a Schmidt Coupling which seems really cool.
 - React Native. I've worked with [Flutter](/programming/flutter.md) but it'd be
   neat to see the pros and cons to another mobile framework.
+- [Dermatomyositis.](https://www.mayoclinic.org/diseases-conditions/dermatomyositis/symptoms-causes/syc-20353188)
