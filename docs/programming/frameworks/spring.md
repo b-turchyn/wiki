@@ -4,6 +4,26 @@ tags:
 ---
 # Spring
 
+## Log Levels
+
+```properties
+# Default logging level
+logging.level.root=INFO
+# Specify logging level for a whole package
+logging.level.<package>=DEBUG
+# Specify logging level for a class
+logging.level.<package>.<class>=WARN
+
+###
+# Log Groups
+###
+# Define a group
+logging.group.foo=<package>, <package>, <package>.<class>
+# Set logging level for the group
+logging.level.foo=DEBUG
+```
+
+
 ## MSSQL Connectivity with NTLM on Non-Windows Hosts
 
 You need the following pieces of information:
@@ -35,4 +55,6 @@ spring.datasource.password=<password>
 - [Setting the connection
   properties](https://learn.microsoft.com/en-us/sql/connect/jdbc/setting-the-connection-properties?view=sql-server-ver16),
   MSSQL
+- [Logging in Spring Boot with
+  SLF4J](https://stackabuse.com/guide-to-logging-in-spring-boot/)
 
