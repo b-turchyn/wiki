@@ -9,6 +9,11 @@
     account for things like `go mod` or any of the new language features.
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 
+## Useful Frameworks
+
+- [go-kit](https://github.com/go-kit/kit)
+- [go-micro](https://github.com/go-micro/go-micro)
+
 ## Useful Libraries
 
 - [cobra](https://github.com/spf13/cobra): CLI apps made easy
