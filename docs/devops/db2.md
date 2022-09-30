@@ -15,6 +15,19 @@ solutions offered by IBM Support are to either:
   ```
   Note that this is not a surgical change and will impact all class path scanning.
 
+## Open Connections
+
+A few options:
+- From the command line:
+  ```bash
+  db2 list applications
+  ```
+- As a query:
+  ```sql
+  SELECT * FROM sysibmadm.applications;
+  ```
+  The schema changed from `sysibm` to `sysibmadm` in DB2 v8.
+
 Useful links:
 - [Stack Overflow issue](https://stackoverflow.com/q/46367851)
 - [IBM Support
