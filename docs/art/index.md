@@ -12,10 +12,14 @@ Machine Learning and AI-driven image generation:
 
 - [My blog post on the ethics of ML-based image
   generation](https://brianturchyn.net/the-ethics-of-machine-learning/)
-- [Craiyon](https://www.craiyon.com/), formerly DALL-E Mini
-- [DALL-E](https://labs.openai.com/)
-- [Lexica](https://lexica.art/)
-- [Midjourney](https://www.midjourney.com/)
+- Image Generation:
+  - [Craiyon](https://www.craiyon.com/), formerly DALL-E Mini
+  - [DALL-E](https://labs.openai.com/)
+  - [Lexica](https://lexica.art/)
+  - [Midjourney](https://www.midjourney.com/)
+- Video Generation:
+  - [Imagen Video](https://imagen.research.google/video/)
+    ([HN](https://news.ycombinator.com/item?id=33098704)) by Google
 
 Random things:
 
