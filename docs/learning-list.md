@@ -11,3 +11,6 @@ A semi-prioritized list of things I want to learn about.
 - React Native. I've worked with [Flutter](/programming/flutter.md) but it'd be
   neat to see the pros and cons to another mobile framework.
 - [Dermatomyositis.](https://www.mayoclinic.org/diseases-conditions/dermatomyositis/symptoms-causes/syc-20353188)
+- Financial reports, particularly ones issued by
+  [charities](/philanthropy/charity.md). How do I read these? How can I see that
+  my donation is getting put to good use?
