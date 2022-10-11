@@ -63,3 +63,9 @@ to the source material.
 
 Because I don't always remember why something's important, I try to put an
 explanation about why the knowledge is important in the description.
+
+## Maintaining This Wiki
+
+- Every top-level menu item needs an [emoji](/writing/emoji.md) in the title for
+  consistency. Put this in the front matter but use the non-emoji title for the
+  `h1` tag. 
