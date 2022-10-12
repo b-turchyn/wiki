@@ -226,4 +226,23 @@ list first.
 
 _See: [Swedish Death Cleaning](psychology/swedish-death-cleaning.md)_
 
+### Chapter 7: Start
+
+The first step taken by Netflix to test out the product was to mail a used CD
+from one person to the other, just to see if sending CDs and DVDs in the mail
+was even viable (in software development, we'd consider this the MVP: Minimum
+Viable Product).
+
+To begin, first take the first thing you believe you need to do. What's stopping
+you from actioning it? Find the first thing preventing you from performing the
+action. Repeat until you have something you can comfortably action. The
+remaining items are your To Do list.
+
+Apply April Perry's concept of a _Microburst_: ten minutes of highly focused
+work that has an immediate impact on your project.
+
+Do your best to avoid distractions in [the now](/psychology/the-present.md).
+Twitter and [social media](/social-media/index.md) can distract you from your
+goals.
+
 ## Part III: Effortless Results
