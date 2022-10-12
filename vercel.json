@@ -4,8 +4,8 @@
   },
   "redirects": [
     {
-      "source": "/books/50-days-of-writing",
-      "destination": "/books/days-of-writing"
+      "source": "/books/50-days-of-writing(/?)",
+      "destination": "/books/days-of-writing/"
     },
     {
       "source": "/programming/flutter(/?)",
