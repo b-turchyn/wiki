@@ -18,3 +18,5 @@ Other things:
   content](https://byronm.com/13sentences.html) ([Twitter
   thread](https://twitter.com/paulg/status/1571774245214244864))
   ([HN](https://news.ycombinator.com/item?id=32895672))
+- [Ask HN: Is there a Hacker News for
+  writers?](https://news.ycombinator.com/item?id=32750322)
