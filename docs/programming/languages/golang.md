@@ -24,6 +24,16 @@
   - [Bubble Tea](https://github.com/charmbracelet/bubbletea)
   - [Lip Gloss](https://github.com/charmbracelet/lipgloss)
 
+## Database Libraries
+
+- DB2:
+  - [ibmdb/go_ibm_db](https://github.com/ibmdb/go_ibm_db)
+- MSSQL:
+  - [denisenkom/go-mssqldb](https://github.com/denisenkom/go-mssqldb)
+  - [microsoft/go-mssqldb](https://github.com/microsoft/go-mssqldb): Microsoft
+    fork of the original project made by
+    [denisenkom](https://github.com/denisenkom)
+
 ## Apps Written in Golang
 
 - [Beehive](https://github.com/muesli/beehive)
