@@ -17,3 +17,6 @@ and focused.
 
 - [Structured distraction: how to make the most of your breaks at
   work](https://nesslabs.com/structured-distraction-breaks-at-work)
+- [Take a Break You
+  Idiot](https://www.robinrendle.com/notes/take-a-break-you-idiot/), Robin
+  Rendle ([HN](https://news.ycombinator.com/item?id=33139297))
