@@ -2,6 +2,10 @@
 ---
 # Golang
 
+- Memory usage can be retrieved using
+  [`runtime.ReadMemStats()`](https://pkg.go.dev/runtime#ReadMemStats) ([Sample
+  Gist](https://gist.github.com/j33ty/79e8b736141be19687f565ea4c6f4226))
+
 ## Learning Resources
 
 - [Effective Go](https://go.dev/doc/effective_go)
