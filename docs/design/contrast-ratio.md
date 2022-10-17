@@ -12,6 +12,13 @@ for those with colour blindness or other visual impairments.
 > It is good to have a cool design on your website, but the design is worthless
 if your users can't read your content.[^1]
 
+Examples:
+
+- In Apple's iMessage, green messages (regular SMS/MMS) have a lower contrast
+  ratio than blue messages (through iMessage)
+  ([source](https://scribe.rip/how-apple-makes-you-think-green-bubbles-gross-e03b52b12fed))
+  ([HN](https://news.ycombinator.com/item?id=33176668))
+
 ## Contrast Ratios
 
 Sourced from MDN, licened under [CC-BY-SA
