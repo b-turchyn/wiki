@@ -5,10 +5,11 @@ Useful tools:
 - [Fastlane](https://fastlane.tools/) - build and deployment automation for iOS
   and Android. Beta builds, automatic screenshots, and code signing.
 
-Reading material:
+Reference sites:
 
 - [Flutter Tap](https://fluttertap.com/?utm_source=wiki.brianturchyn.net) - a
   weekly newsletter covering Flutter development
+- [It's All Widgets](https://itsallwidgets.com/)
 
 Inspiration:
 
