@@ -42,10 +42,10 @@ GIT_FILES = `git log --name-only --since="#{DAYS_AGO} days ago" --pretty=format:
 
 files = GIT_FILES.split # Split by each line
   .uniq # De-duplicate
-  .filter {|file| file.start_with? 'docs'} # Only grab wiki pages
+  .filter {|file| file.start_with?('docs') && file.end_with?('.md')} # Only grab wiki pages
   .filter {|file| File.exist? file} # Make sure the file is still there
   .map {|file| {title: get_title(file), url: get_url(file)}} # Create the meta object
-  .sort_by {|file| file[:title]} # Sort
+  .sort_by {|file| file[:title] || "" } # Sort
   .map {|file| format_link file } # Create the link
 
 puts files # Output to stdout
