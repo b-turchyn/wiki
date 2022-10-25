@@ -17,8 +17,8 @@ const config = {
   // tagline: 'Dinosaurs are cool',
   url: 'https://wiki.brianturchyn.net',
   baseUrl: '/',
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/logo.png',
   organizationName: 'b-turchyn', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
