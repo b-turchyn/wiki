@@ -26,3 +26,8 @@ reputation with Microsoft receivers.
 
 - [DNSBL Database Lookup](https://www.dnsbl.info/dnsbl-database-check.php)
 - [Proofpoint IP Blocklist Check](https://ipcheck.proofpoint.com/)
+
+## Resources
+
+- [Falsehoods programmers believe about
+  email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
