@@ -8,6 +8,10 @@
       "destination": "/books/days-of-writing/"
     },
     {
+      "source": "/devops/bash(/?)",
+      "destination": "/programming/languages/bash/"
+    },
+    {
       "source": "/programming/flutter(/?)",
       "destination": "/programming/frameworks/flutter/"
     }
