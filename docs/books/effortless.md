@@ -245,4 +245,21 @@ Do your best to avoid distractions in [the now](/psychology/the-present.md).
 Twitter and [social media](/social-media/index.md) can distract you from your
 goals.
 
+### Chapter 8: Simplify
+
+> No matter how simple the step, it's still easier to take no step.
+
+Amazon holds the patent on one-click purchasing of online goods after Jeff Bezos
+set that as the goal for the online marketplace.
+
+For any project, ask the question: what are the minimum steps required for
+completion? The goal is to identify what is _unnecessary_. This isn't getting
+rid of critical pieces.
+
+When being asked to do something, you don't have to go the extra mile. You can
+do exactly what was asked of you. Going beyond has limited value, because by
+definition, going beyond is doing more than is necessary. Don't add anything
+extra. Similarly, don't start with complex and then make it simpler; start with
+nothing, and then add on to it.
+
 ## Part III: Effortless Results
