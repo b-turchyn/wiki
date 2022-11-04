@@ -1,3 +1,7 @@
+---
+tags:
+  - Databases
+---
 # DB2
 
 The JDBC 4 driver for DB2 contains a reference to pdq.jar. This casuses a

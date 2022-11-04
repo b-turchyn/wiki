@@ -1,3 +1,7 @@
+---
+tags:
+  - Databases
+---
 # MySQL
 
 ## Differences between MySQL and MariaDB
