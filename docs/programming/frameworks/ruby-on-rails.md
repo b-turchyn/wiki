@@ -30,4 +30,14 @@ This can be caused by a few things:
   ```rb
   gem 'psych', '< 4'
   ```
-    
+  
+## Useful Gems
+
+### Search
+
+- [pg_search](https://github.com/Casecommons/pg_search)
+  - `pg_search` and `ransack` can play nicely together per [this GitHub
+    comment](https://github.com/activerecord-hackery/ransack/issues/1138#issuecomment-1281195941).
+  - See: [Using custom scopes with Ransack gem in
+    Rails](https://profilehunt.net/blog/using-custom-scopes-with-ransack-in-rails)
+- [ransack](https://github.com/activerecord-hackery/ransack)
