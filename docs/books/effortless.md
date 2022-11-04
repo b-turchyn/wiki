@@ -245,4 +245,40 @@ Do your best to avoid distractions in [the now](/psychology/the-present.md).
 Twitter and [social media](/social-media/index.md) can distract you from your
 goals.
 
+### Chapter 8: Simplify
+
+> No matter how simple the step, it's still easier to take no step.
+
+Amazon holds the patent on one-click purchasing of online goods after Jeff Bezos
+set that as the goal for the online marketplace.
+
+For any project, ask the question: what are the minimum steps required for
+completion? The goal is to identify what is _unnecessary_. This isn't getting
+rid of critical pieces.
+
+When being asked to do something, you don't have to go the extra mile. You can
+do exactly what was asked of you. Going beyond has limited value, because by
+definition, going beyond is doing more than is necessary. Don't add anything
+extra. Similarly, don't start with complex and then make it simpler; start with
+nothing, and then add on to it.
+
+### Chapter 9: Progress
+
+> There is no mastery without mistakes. And there is no learning later without
+> the courage to be rubbish.
+
+We learn the most by making mistakes. Our goal should be to make those mistakes
+as quickly as possible, and to have the cost of those mistakes be as low as
+possible. For example, you'd rather waste $20 than $2,000, and you'd rather find
+out it was a waste now rather than in a month.
+
+Over-achievers tend to be obsessed with perfection. In this case, perfection
+means unnecessary things got done (see [Chapter 8:
+Simplify](#chapter-8-simplify)). Avoid this by starting off with the ugly.
+
+It's worth noting that this is not an excuse to not try or to deliberately
+produce garbage. The goal is to try something and have the failures come quickly
+so that you can learn from those failures and make better mistakes -- and better
+quality work -- afterward.
+
 ## Part III: Effortless Results
