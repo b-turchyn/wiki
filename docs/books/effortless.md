@@ -281,4 +281,27 @@ produce garbage. The goal is to try something and have the failures come quickly
 so that you can learn from those failures and make better mistakes -- and better
 quality work -- afterward.
 
+### Chapter 10: Pace
+
+> Slow is smooth. Smooth is fast.
+
+> Never less than X, never more than Y.
+
+A common approach to getting things done is to "power through": to push yourself
+so hard that you need to take a break. What then happens is you rest, then feel
+like you need to make up for lost time, so you "power through" again. This cycle
+repeats itself until burnout hits.
+
+Instead of setting a lower bound, set an upper bound. Set a value that is below
+your usual limit, so at the end you're wanting to do more and haven't gotten
+tired. This is, effectively, pacing yourself.
+
+Pacing yourself has two benefits. The first is the aforementioned lack of
+burnout. The other is your focus is more maintained. If you get tired, you're
+more likely to go off on tangents.
+
+Pacing yourself means being able to handle the unexpected issues that will get
+in the way of your goals. You have "gas in the tank" so you can respond
+appropriately and still be able to maintain your momentum going forward.
+
 ## Part III: Effortless Results
