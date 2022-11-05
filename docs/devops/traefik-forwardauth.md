@@ -57,9 +57,7 @@ Assuming you are using Keycloak, you should be able to use the following steps:
 The ForwardAuth container requires, at minimum, these client scopes to be
 assigned: `email`, `groups`, and `profile`. It's possible you may need more or
 less depending on your configuration. (Is yours different? Let me know in the
-[GitHub Issues](https://github.com/b-turchyn/wiki/issues) or the [blog
-comments](https://brianturchyn.net/traefik-forwardauth-support-with-keycloak/)
-so I can keep this up-to-date!)
+[GitHub Issues](https://github.com/b-turchyn/wiki/issues).
 
 1. Open the admin console for Keycloak, and select the realm you are using
 2. Select "Clients", then select the client you created above
@@ -80,6 +78,12 @@ which is a fork of an older version that does not support generic OIDC.
 It’s generally easiest to run this in the same docker-compose.yaml file as your
 Traefik install. This is the assumption with the rest of this guide.
 
+#### Generate an encryption key
+
+As of `mesosphere/traefik-forward-auth` version 3.0, an encryption key is now
+required. You can generate your own key by any secure means. This will be used
+in the `ENCRYPTION_KEY` configuration below.
+
 #### Create a new container definition
 
 ```yaml
@@ -92,6 +96,7 @@ Traefik install. This is the assumption with the rest of this guide.
       - PROVIDER_URI=https://<your-domain>/auth/realms/btdev
       - CLIENT_ID=<client-id>
       - CLIENT_SECRET=<client-secret>
+      - ENCRYPTION_KEY=<encryption-key>
     labels:
       - "traefik.enable=true"
       - "traefik.docker.network=traefik_webgateway"
@@ -132,7 +137,7 @@ the following labels to it, then re-deploy that container:
 - "traefik.http.routers.traefik-forward-auth.middlewares=traefik-forward-auth"
 ```
 
-## Debugging
+## Troubleshooting
 
 ### Getting Extra Information
 Set the `LOG_LEVEL` environment variable to `debug` or `trace` for additional
@@ -152,8 +157,20 @@ To fix this, assign the client scopes defined in the error description in the
 URL, then try again. See the section "Assign client scopes for your client"
 above.
 
+### Invalid Key Size Error
+
+ForwardAuth may display the following error in its logs:
+```
+error generating secure session cookie: securecookie: error - caused by: crypto/aes: invalid key size 0
+```
+
+As of `traefik-forward-auth` version 3.0, the environment variable `SESSION_KEY`
+has been renamed to `ENCRYPTION_KEY` and is now required. Provide an encryption
+key in your environment variables.
+
 ## Changelog
 - 2021-08-01: Published.
 - 2022-01-16: Added section on assigning client scopes, based on provided
   feedback from [@pbitante](https://github.com/pbitante) and
   [@PierrePetit](https://github.com/PierrePetit) in the blog comments.
+- 2022-11-05: Preliminary changes for mesosphere/traefik-forward-auth v3.x
