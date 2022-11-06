@@ -305,3 +305,41 @@ in the way of your goals. You have "gas in the tank" so you can respond
 appropriately and still be able to maintain your momentum going forward.
 
 ## Part III: Effortless Results
+
+### Chapter 11: Learn
+
+If our goal is residual results, we want to focus on learning things that can be
+applied over and over, rather than one specific thing for a specific purpose.
+While those can be useful, they yield linear results instead.
+
+Aim to learn principles, not methods. A principle is a concept that can be
+applied broadly and repeatedly. An example of this is understanding _why_
+something is done a certain way or _how_ something works.
+
+Look for commonalities between seemingly distinct principles. By doing so,
+you'll be able to apply principles from different disciplines to new areas.
+Newton's third law has applications across the world.
+
+Aim to understand the core concepts first. As you learn more, you will begin to
+figure out what is critical, what is not, and what can be related to other
+topics.
+
+Combining principles from different disciplines pays off. You get to combine the
+best knowledge gathered by some of the smartest people in each discipline into
+something new. The combining of that knowledge breeds novelty and new ideas.
+
+Reading is an excellent way to gain this knowledge. But don't read to say that
+you've read; instead, your goal should be to absorb as much of that information
+as possible.
+
+ - Take a few minutes after each chapter to summarize the key points from what
+   you just read. Distill it down into no more than a single page.
+ - Collect and share that information in a
+   [Zettelkasten](/writing/zettelkasten.md) or [digital
+   garden](/writing/digital-garden.md) so you have an easy-to-use reference.
+
+Our goal is residual results; taking this knowledge and synthesizing it means we
+can gain a reputation as someone who knows things that nobody else knows.
+Leverage what others know, combine together, and produce something that nobody
+else knows.
+
