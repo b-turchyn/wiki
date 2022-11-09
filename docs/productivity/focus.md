@@ -10,6 +10,11 @@
 It's important to remember that this is not a linear progression. There will be
 ups and downs, just like any sort of training and exercise, physical or mental.
 
+## Interesting Links
+
+- [Body Doubling](https://bodydoubling.com/) - Work together with somebody
+  ([HN](https://news.ycombinator.com/item?id=33478562))
+
 ## References
 
 - [You're not supposed to be good at focusing out of the

@@ -17,6 +17,9 @@ Privacy-respecting frontends for services:
   - [Scribe](https://scribe.rip)
     ([source](https://sr.ht/~edwardloveall/Scribe/)) ([Instance
     list](https://git.sr.ht/~edwardloveall/scribe/tree/main/docs/instances.md))
+- TikTok:
+  - [ProxiTok](https://github.com/pablouser1/ProxiTok)
+    ([Instance](https://proxitok.pabloferreiro.es/))
 - YouTube:
   - [SmartTubeNext](https://smarttubenext.com/) - YouTube app compatible with
     multiple smart TVs, Fire TV, etc.

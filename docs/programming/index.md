@@ -3,6 +3,8 @@ title: "💻 Programming"
 ---
 # Programming
 
+Why do I program? [Just for fun. No, really.](https://justforfunnoreally.dev/)
+
 Interesting links:
 
 - [mame/quine-relay](https://github.com/mame/quine-relay)
