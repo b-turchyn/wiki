@@ -343,3 +343,18 @@ can gain a reputation as someone who knows things that nobody else knows.
 Leverage what others know, combine together, and produce something that nobody
 else knows.
 
+### Chapter 12: Lift
+
+Two effective ways of exponentially passing along information to others:
+
+1. Stories. Stories connect the past and present together, keeping the knowledge
+   and the lessons alive.
+2. Teaching others to teach. First learn how to teach. Then teach others how to
+   teach what you've learned. Don't just teach what you know; that's just
+   regurgitating knowledge. Someone truly knows the information when they can
+   teach it to somebody else. The _Sesame Street Rule_ is that you should go for
+   the straightforward message that can be easily understood and repeated.
+
+Teaching others has an exponential effect. If you teach a small group about
+something and they are able to teach that information, then they can go and do
+the same thing.
