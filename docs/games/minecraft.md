@@ -43,6 +43,7 @@ Mods I use:
     - This design can also be done as a 90-degree design, meaning it can be used
       in corners too. Very handy!
   - [Original non-tileable design](https://youtu.be/REq58LDPLFQ)
+- [Detect rising or falling signal strength](https://v.redd.it/9i2ls27yymw91)
 
 ## Plugins
 
