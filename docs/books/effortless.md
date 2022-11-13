@@ -358,3 +358,20 @@ Two effective ways of exponentially passing along information to others:
 Teaching others has an exponential effect. If you teach a small group about
 something and they are able to teach that information, then they can go and do
 the same thing.
+
+### Chapter 13: Automate
+
+> The limits of human memory breed avoidable errors.
+
+There's only so many things that the human brain can remember or retain for
+quick access. Especially for complex tasks, we are likely going to forget some
+critical part of the process.
+
+We can offload this cognitive complexity by writing down lists. For example, if
+you need to winterize your home, writing down each tasks required will prevent
+you from missing something critical each year. This frees up your mind to think
+about other tasks.
+
+Another form of automation with high value is automatic scheduling. Tasks such
+as automatic re-booking of appointments, automatically ordering a consumable on
+a regular basis, etc eliminates the need to remember to do them.
