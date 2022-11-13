@@ -375,3 +375,37 @@ about other tasks.
 Another form of automation with high value is automatic scheduling. Tasks such
 as automatic re-booking of appointments, automatically ordering a consumable on
 a regular basis, etc eliminates the need to remember to do them.
+
+### Chapter 14: Trust
+
+When working in a team, high levels of trust are required for a high-performing
+team. Information is openly shared, team members ask questions, and work is
+split quickly between others. If you have low trust in your team, then
+communication slows and you feel the need to constantly check the work of
+others. No delegation takes place.
+
+Trust is made up of several factors:
+
+- That they will do the right thing when nobody is around
+- That they will uphold their responsibilities
+- That they will use good judgment
+- That they'll do what they say they'll do, and do it well.
+
+Warren Buffet looks for integrity, intelligence, and initiative.
+
+This is critical when hiring employees.
+
+> While hiring quickly may lighten the load at first, hiring _well_ will
+> lighten the load consistently and repeatedly, saving you many more headaches
+> in the long run.
+
+Develop a high-trust structure around your team. Goals are shared. Rules and
+standards are understood and communicated. The right results are prioritized and
+rewarded consistently. That agreement should ask:
+
+- What results do we want?
+- Who is doing what_
+- What minimum viable standards must be kept?
+- What resources are available and needed?
+- How will progress be evaluated and rewarded?
+
