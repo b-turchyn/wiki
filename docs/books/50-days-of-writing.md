@@ -588,3 +588,21 @@ _See: [sentence compression](/writing/sentence-compression.md)_
   platform.
 - Your public presence can vanish at any point. Your private presence is around
   for as long as you want it to be.
+
+### Day 43: The Soulja Boy Strategy
+
+[(source)](https://perell.com/note/the-soulja-boy-strategy/)
+
+- You can grow as a writer and creator by curating content for others
+- Note that curation is not aggregation; anybody can collect a bunch of links
+  together, but the point is to find things that you think are worthwhile,
+  provide commentary, and to get others to discover you because of what you
+  curate.
+- Quality matters more than quantity. By curating content, you are also
+  endorsing it. Believe in the content you curate.
+
+### Day 44: Don't Find a Niche. Create One.
+
+[(source)](https://perell.com/note/dont-find-a-niche-create-one/)
+
+- 
