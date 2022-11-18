@@ -5,6 +5,14 @@
 - Memory usage can be retrieved using
   [`runtime.ReadMemStats()`](https://pkg.go.dev/runtime#ReadMemStats) ([Sample
   Gist](https://gist.github.com/j33ty/79e8b736141be19687f565ea4c6f4226))
+- Avoid moving data to the heap for a performance improvement. When assigning
+  variables, if you can work with the reference to your data rather than copying
+  it out, that reduces heap usage. 
+
+  Compile your code with the `-gcflags=-m` look for occurrences of `moved to
+  heap`. See if you can avoid that.
+  ([source](https://hmarr.com/blog/go-allocation-hunting/),
+  [HN](https://news.ycombinator.com/item?id=33594676))
 
 ## Learning Resources
 
