@@ -1,6 +1,4 @@
 ---
-tags:
-  - Incomplete
 ---
 
 # Effortless
@@ -409,3 +407,14 @@ rewarded consistently. That agreement should ask:
 - What resources are available and needed?
 - How will progress be evaluated and rewarded?
 
+### Chapter 15: Prevent
+
+Avoid problems before they occur in the first place.
+
+Identify something that causes you a lot of frustration. Take one small step to
+reducing that ([obligatory xkcd](https://m.xkcd.com/1205/)).
+
+When taking action to prevent problems, deal with the root cause, not a symptom.
+
+Look for ways to be proactive rather than reactive. If you're reactive, then
+everything is a crisis.
