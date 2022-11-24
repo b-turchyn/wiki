@@ -11,3 +11,7 @@ Interesting blogging platforms:
   Can be [self-hosted](https://wordpress.org).
 - [write.as](https://write.as/): another minimalist platform. Offers free and
   paid options.
+
+Curated blog lists:
+
+- [ooh.directory](https://ooh.directory/?ref=brianturchyn.net)
