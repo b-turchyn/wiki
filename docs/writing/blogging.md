@@ -14,4 +14,5 @@ Interesting blogging platforms:
 
 Curated blog lists:
 
+- [Blogroll](https://blogroll.org/?ref=brianturchyn.net)
 - [ooh.directory](https://ooh.directory/?ref=brianturchyn.net)
