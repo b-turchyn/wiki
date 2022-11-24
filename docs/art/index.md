@@ -17,6 +17,7 @@ Machine Learning and AI-driven image generation:
   - [DALL-E](https://labs.openai.com/)
   - [Lexica](https://lexica.art/)
   - [Midjourney](https://www.midjourney.com/)
+  - [Stable Diffusion v2](https://stability.ai/blog/stable-diffusion-v2-release)
 - Video Generation:
   - [Imagen Video](https://imagen.research.google/video/)
     ([HN](https://news.ycombinator.com/item?id=33098704)) by Google
