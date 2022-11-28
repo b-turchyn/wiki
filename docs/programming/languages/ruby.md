@@ -4,6 +4,9 @@ tags:
 ---
 # Ruby
 
+[Dev meeting logs](https://github.com/ruby/dev-meeting-log) are stored in
+GitHub.
+
 ## Time Zones
 
 _(Sourced from [Thoughtbot](https://thoughtbot.com/blog/its-about-time-zones))_
