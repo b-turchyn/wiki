@@ -46,6 +46,11 @@ spring.datasource.password=<password>
 - Unless you have a good reason to (you probably don't), append `encrypt=true`
   to the data source URL.
 
+## Validation
+
+- [Validation in Spring
+  Boot](https://www.geeksforgeeks.org/validation-in-spring-boot/), GeeksForGeeks
+
 
 ## Links
 - [Spring Website](https://spring.io)

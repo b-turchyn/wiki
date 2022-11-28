@@ -6,6 +6,10 @@ title: "🎵 Music"
 I love music. I almost always have something playing depending on what I'm doing
 or what mood I'm in.
 
+Many artists have explicitly allowed streaming their music on Twitch.
+
+- [Alan Gogoll](https://www.alangogoll.com/twitch)
+
 ## Analytics
 
 - [volt.fm profile](https://volt.fm/bturchyn)
