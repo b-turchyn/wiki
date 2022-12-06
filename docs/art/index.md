@@ -27,6 +27,9 @@ Random things:
 - The cracks that form in old pieces of art are called
   [craquelure](https://en.wikipedia.org/wiki/Craquelure). ([Phil Edwards video
   on it](https://www.youtube.com/watch?v=BcVNGeWmd6I))
+- [Isometric Pixel
+  Art](https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art),
+  Raymond Schlitter
 
 ## Tattoo Artists
 
