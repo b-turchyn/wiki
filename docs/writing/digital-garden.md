@@ -42,3 +42,6 @@
   blog](https://joelhooks.com/digital-garden) (Joel Hooks)
 - [The Digital Garden](https://dev.to/jbranchaud/the-digital-garden-l10), by
   Josh Branchaud
+- [Digital gardening](https://nicolasbouliane.com/blog/digital-gardening), by
+  [Nicolas Bouliane](https://nicolasbouliane.com/)
+  ([HN](https://news.ycombinator.com/item?id=33213753))
