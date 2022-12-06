@@ -30,5 +30,6 @@
 ## Inspiration
 
 - [32 free Flutter templates for great mobile
-  apps](https://blog.logrocket.com/32-free-flutter-templates-mobile-apps/?utm_source=wiki.brianturchyn.net),
+  apps](https://blog.logrocket.com/32-free-flutter-templates-mobile-apps/?ref=wiki.brianturchyn.net),
   LogRocket Blog
+- [Made With Flutter](https://madewithflutter.net/?ref=wiki.brianturchyn.net)

@@ -6,3 +6,7 @@ Campaigns are saved in one of two places on Windows:
 
 ([Source](https://www.reddit.com/r/GloomhavenDigital/comments/kt4bk4/scenario_import_callback_error_help/gijwwon/),
 Reddit)
+
+## Class Guides
+
+- [Spellweaver](https://imgur.com/a/AwBiV7S), unknown author

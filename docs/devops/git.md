@@ -5,6 +5,12 @@ tags:
 ---
 # Git
 
+Interesting reading about Git:
+
+- [Git Notes: Git's Coolest, Most Unloved
+  Feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/?ref=wiki.brianturchyn.net)
+  by [Tyler Cipriani](https://tylercipriani.com/)
+
 ## Aliases
 
 Aliases are managed through [oh-my-zsh](/devops/oh-my-zsh).
