@@ -10,4 +10,4 @@ JSON viewers:
 
 - [JSON Hero](https://jsonhero.io/)
   ([HN](https://news.ycombinator.com/item?id=33783504))
-- [JSON Lint](jsonlint.com/)
+- [JSON Lint](https://jsonlint.com/)
