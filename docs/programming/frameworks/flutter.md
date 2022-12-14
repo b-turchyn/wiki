@@ -7,7 +7,7 @@
 
 ## Reference Sites
 
-- [Flutter Tap](https://fluttertap.com/?utm_source=wiki.brianturchyn.net) - a
+- [Flutter Tap](https://fluttertap.com/) - a
   weekly newsletter covering Flutter development
 - [It's All Widgets](https://itsallwidgets.com/)
 
@@ -30,6 +30,6 @@
 ## Inspiration
 
 - [32 free Flutter templates for great mobile
-  apps](https://blog.logrocket.com/32-free-flutter-templates-mobile-apps/?ref=wiki.brianturchyn.net),
+  apps](https://blog.logrocket.com/32-free-flutter-templates-mobile-apps/),
   LogRocket Blog
-- [Made With Flutter](https://madewithflutter.net/?ref=wiki.brianturchyn.net)
+- [Made With Flutter](https://madewithflutter.net/)

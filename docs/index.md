@@ -43,6 +43,8 @@ Some articles you may find interesting:
 - [Additional syntax
   highlighting](https://docusaurus.io/docs/markdown-features/code-blocks#supported-languages)
   added to theme configuration
+- `utm_source` added to all external URLs via
+  [brechtcs/rehype-urls](https://github.com/brechtcs/rehype-urls)
 
 [^1]: [Instructions](https://docusaurus.io/docs/markdown-features/math-equations)
 
