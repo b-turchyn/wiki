@@ -3,7 +3,7 @@
 How others blog (their workflows):
 - [Dang Hoang Tuan (Tsuki)](https://tsk.bearblog.dev/the-tools-i-use-to-write-blogs/)
 - [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
-  by [Simon Willison](https://simonwillison.net/?ref=wiki.brianturchyn.net)
+  by [Simon Willison](https://simonwillison.net/)
 
 Interesting blogging platforms:
 - [Bear](https://bearblog.dev/): minimalist, privacy-first blogging platform.
@@ -16,5 +16,5 @@ Interesting blogging platforms:
 
 Curated blog lists:
 
-- [Blogroll](https://blogroll.org/?ref=brianturchyn.net)
-- [ooh.directory](https://ooh.directory/?ref=brianturchyn.net)
+- [Blogroll](https://blogroll.org/)
+- [ooh.directory](https://ooh.directory/)

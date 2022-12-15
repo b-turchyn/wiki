@@ -10,6 +10,16 @@ const math = require('remark-math');
 const katex = require('rehype-katex');
 const importPartial = require('remark-import-partial');
 const smartypants = require('@silvenon/remark-smartypants');
+const urls = require('rehype-urls');
+
+const urlRewriteConfig = function(url, node) {
+  if (url.host && url.host !== 'wiki.brianturchyn.net') {
+    // Update the URL
+    const tmpUrl = new URL(url.href);
+    tmpUrl.searchParams.set('utm_source', 'wiki.brianturchyn.net');
+    url.parse(tmpUrl.href);
+  }
+}
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -43,7 +53,7 @@ const config = {
           // Please change this to your repo.
           editUrl: 'https://github.com/b-turchyn/wiki/tree/main/',
           remarkPlugins: [math, importPartial, smartypants],
-          rehypePlugins: [katex]
+          rehypePlugins: [katex, [urls, urlRewriteConfig]]
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
