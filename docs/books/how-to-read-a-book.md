@@ -54,3 +54,9 @@ There are four different levels of reading:
    understood to then construct an analysis of the topic. That analysis may or
    may not be in any of the books, but you have understood enough to be able to
    produce a new take on things.
+
+Any level of reading above elementary reading requires [active
+reading](/reading/active-reading.md); without active reading, we will never
+achieve the other levels. This active reading can be facilitated with pencil
+in-hand, writing in the book. Underline, ask questions, reference other pages,
+and so on.
