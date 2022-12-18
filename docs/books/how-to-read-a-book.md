@@ -33,3 +33,22 @@ Authors: Mortimer J. Adler and Charles Van Doren
   _to know more_. You are building up the ability to comprehend more information
   in the future, not specifically retain more information.
 - Both of these constitute learning, but in different forms.
+
+There are four different levels of reading:
+
+1. Elementary reading. Can you recognize the letters and words on the page? What
+   does the sentence say? (See: [Learning To
+   Read](/reading/learning-to-read.md))
+2. Inspectional reading. The goal with this style is to skim the book as fast as
+   possible, and get a feel for high-level questions about the text. What is the
+   structure of the book? What kind of book is it? Much of this information can
+   be gained simply by looking at the table of contents.
+3. Analytical reading. Thorough reading, with an unlimited amount of time. This
+   is very active reading, and is the minimum level required to _understand_ the
+   contents of what you're reading. The previous two levels simply aren't active
+   enough to provide any sufficient understanding.
+4. Syntopical reading. This involves reading multiple books about the same
+   topic, and then comparing and contrasting what you have learned and
+   understood to then construct an analysis of the topic. That analysis may or
+   may not be in any of the books, but you have understood enough to be able to
+   produce a new take on things.
