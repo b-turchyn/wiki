@@ -19,4 +19,4 @@ tags:
 ## Further Reading
 
 - How To Take Smart Notes - Sonke Ahrens
-- How To Read A Book - Mortimer J. Adler, Charles Van Doren
+- [How To Read A Book](/books/how-to-read-a-book.md) - Mortimer J. Adler, Charles Van Doren

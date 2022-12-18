@@ -43,6 +43,8 @@ There are four different levels of reading:
    possible, and get a feel for high-level questions about the text. What is the
    structure of the book? What kind of book is it? Much of this information can
    be gained simply by looking at the table of contents.
+
+   See: [Skimming](/reading/skimming.md)
 3. Analytical reading. Thorough reading, with an unlimited amount of time. This
    is very active reading, and is the minimum level required to _understand_ the
    contents of what you're reading. The previous two levels simply aren't active
