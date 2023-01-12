@@ -1,0 +1,380 @@
+<svg width="657" height="824" viewBox="0 0 492.75 618" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="graph0" class="graph" transform="translate(1.4838514850156699,550.7676248369471) scale(0.37096287125391747)">
+<title>regexp</title>
+<polygon fill="white" stroke="transparent" points="-4,4 -4,-1307.46 1324.3,-1307.46 1324.3,4 -4,4"/>
+<!-- root -->
+<g id="node1" class="node">
+<title>root</title>
+<ellipse fill="none" stroke="black" cx="506.97" cy="-894.78" rx="28.39" ry="18"/>
+<text text-anchor="middle" x="506.97" y="-890.58" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Java</text>
+</g>
+<!-- spring -->
+<!-- root&#45;&gt;g -->
+<g id="edge7" class="edge">
+<title>root-&gt;annotations</title>
+<path fill="none" stroke="black" d="M481.66,-903C451.83,-912.69 401.54,-929.03 363.68,-941.33"/>
+<polygon fill="black" stroke="black" points="362.29,-938.11 353.86,-944.53 364.45,-944.77 362.29,-938.11"/>
+</g><g id="edge6" class="edge">
+<title>root-&gt;access</title>
+<path fill="none" stroke="black" d="M496.59,-877.82C441.91,-788.55 187.31,-372.9 119.77,-262.62"/>
+<polygon fill="black" stroke="black" points="122.56,-260.47 114.35,-253.77 116.59,-264.13 122.56,-260.47"/>
+</g>
+<g id="node15" class="node">
+<title>spring</title>
+<ellipse fill="none" stroke="black" cx="1044.8" cy="-502.74" rx="36.58" ry="18"/>
+<text text-anchor="middle" x="1044.8" y="-498.54" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Spring</text>
+</g>
+<!-- build -->
+<!-- root&#45;&gt;s -->
+<g id="edge8" class="edge">
+<title>root-&gt;builds</title>
+<path fill="none" stroke="black" d="M504.23,-876.77C489.4,-779.23 418.7,-314.26 400.48,-194.43"/>
+<polygon fill="black" stroke="black" points="403.89,-193.6 398.93,-184.24 396.97,-194.65 403.89,-193.6"/>
+</g>
+<g id="node4" class="node">
+<title>builds</title>
+<ellipse fill="none" stroke="black" cx="396.18000000000006" cy="-166.20000000000005" rx="85.15" ry="18"/>
+<text text-anchor="middle" x="396.18000000000006" y="-162" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Build Management</text>
+</g>
+<!-- maven -->
+<g id="node22" class="node">
+<title>maven</title>
+<ellipse fill="none" stroke="black" cx="277.28999999999996" cy="-244.31999999999994" rx="36.56" ry="18"/>
+<text text-anchor="middle" x="277.28999999999996" y="-240.1199999999999" font-family="Helvetica,Arial,sans-serif" font-size="14.00">maven</text>
+</g>
+<!-- builds&#45;&gt;maven -->
+<g id="edge14" class="edge">
+<title>builds-&gt;maven</title>
+<path fill="none" stroke="black" d="M370.09,-183.35C351.72,-195.42 327.06,-211.63 307.77,-224.29"/>
+<polygon fill="black" stroke="black" points="305.77,-221.42 299.33,-229.84 309.61,-227.27 305.77,-221.42"/>
+</g><g id="edge9" class="edge">
+<title>root-&gt;frameworks</title>
+<path fill="none" stroke="black" d="M520.24,-878.58C571.39,-816.14 756.12,-590.65 818.99,-513.9"/>
+<polygon fill="black" stroke="black" points="822.07,-515.66 825.7,-505.71 816.66,-511.22 822.07,-515.66"/>
+</g>
+<!-- gradle -->
+<g id="node23" class="node">
+<title>gradle</title>
+<ellipse fill="none" stroke="black" cx="386.01" cy="-24.309999999999945" rx="35.33" ry="18"/>
+<text text-anchor="middle" x="386.01" y="-20.1099999999999" font-family="Helvetica,Arial,sans-serif" font-size="14.00">gradle</text>
+</g>
+<!-- builds&#45;&gt;gradle -->
+<g id="edge15" class="edge">
+<title>builds-&gt;gradle</title>
+<path fill="none" stroke="black" d="M394.87,-147.94C393.14,-123.78 390.07,-80.95 388.04,-52.59"/>
+<polygon fill="black" stroke="black" points="391.52,-52.22 387.31,-42.5 384.54,-52.72 391.52,-52.22"/>
+</g><g id="edge12" class="edge">
+<title>root-&gt;streams</title>
+<path fill="none" stroke="black" d="M532.14,-886.57C640.55,-851.22 1068.44,-711.71 1207.03,-666.52"/>
+<polygon fill="black" stroke="black" points="1208.46,-669.74 1216.88,-663.31 1206.29,-663.08 1208.46,-669.74"/>
+</g><g id="edge10" class="edge">
+<title>root-&gt;jpa</title>
+<path fill="none" stroke="black" d="M519.26,-878.49C591.76,-782.37 963.58,-289.47 1051.49,-172.93"/>
+<polygon fill="black" stroke="black" points="1054.54,-174.7 1057.77,-164.6 1048.95,-170.48 1054.54,-174.7"/>
+</g>
+<!-- jen -->
+<g id="node24" class="node">
+<title>jenkins</title>
+<ellipse fill="none" stroke="black" cx="524.08" cy="-228.5" rx="38.86" ry="18"/>
+<text text-anchor="middle" x="524.08" y="-224.29999999999995" font-family="Helvetica,Arial,sans-serif" font-size="14.00">jenkins</text>
+</g>
+<!-- builds&#45;&gt;jen -->
+<!-- builds&#45;&gt;jenkins -->
+<g id="edge16" class="edge">
+<title>builds-&gt;jenkins</title>
+<path fill="none" stroke="black" d="M430.12,-182.73C447.89,-191.39 469.66,-201.99 487.77,-210.81"/>
+<polygon fill="black" stroke="black" points="486.34,-214.01 496.87,-215.24 489.41,-207.72 486.34,-214.01"/>
+</g><g id="edge11" class="edge">
+<title>root-&gt;patterns</title>
+<path fill="none" stroke="black" d="M515.13,-877.45C561.86,-778.23 795.39,-282.35 852.72,-160.61"/>
+<polygon fill="black" stroke="black" points="855.89,-162.09 856.99,-151.56 849.56,-159.11 855.89,-162.09"/>
+</g>
+<!-- di -->
+
+<g id="edge13" class="edge">
+<title>root-&gt;versions</title>
+<path fill="none" stroke="black" d="M518.88,-911.17C539.7,-939.83 582.86,-999.22 607.77,-1033.52"/>
+<polygon fill="black" stroke="black" points="604.98,-1035.63 613.69,-1041.66 610.65,-1031.52 604.98,-1035.63"/>
+</g>
+<!-- frameworks -->
+<g id="node5" class="node">
+<title>frameworks</title>
+<ellipse fill="none" stroke="black" cx="840.12" cy="-488.11" rx="59.12" ry="18"/>
+<text text-anchor="middle" x="840.12" y="-483.91" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Frameworks</text>
+</g><g id="node3" class="node">
+<title>annotations</title>
+<ellipse fill="none" stroke="black" cx="313.35000000000014" cy="-957.69" rx="58.49" ry="18"/>
+<text text-anchor="middle" x="313.35000000000014" y="-953.49" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Annotations</text>
+</g>
+<!-- fram -->
+<g id="edge17" class="edge">
+<title>frameworks-&gt;spring</title>
+<path fill="none" stroke="black" d="M897.95,-492.25C929.68,-494.51 968.49,-497.29 998.24,-499.41"/>
+<polygon fill="black" stroke="black" points="998.14,-502.91 1008.36,-500.13 998.64,-495.93 998.14,-502.91"/>
+</g>
+<!-- spring&#45;&gt;di -->
+<g id="node8" class="node">
+<title>streams</title>
+<ellipse fill="none" stroke="black" cx="1250.6" cy="-652.31" rx="42.3" ry="18"/>
+<text text-anchor="middle" x="1250.6" y="-648.11" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Streams</text>
+</g><g id="node6" class="node">
+<title>jpa</title>
+<ellipse fill="none" stroke="black" cx="1070.14" cy="-148.21" rx="27.28" ry="18"/>
+<text text-anchor="middle" x="1070.14" y="-144.01" font-family="Helvetica,Arial,sans-serif" font-size="14.00">JPA</text>
+</g><g id="node2" class="node">
+<title>access</title>
+<ellipse fill="none" stroke="black" cx="103.27999999999997" cy="-235.71000000000004" rx="103.06" ry="18"/>
+<text text-anchor="middle" x="103.27999999999997" y="-231.51" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Access Level Modifiers</text>
+</g>
+<!-- spr -->
+<g id="node17" class="node">
+<title>spr_boot</title>
+<ellipse fill="none" stroke="black" cx="1248.55" cy="-408.22" rx="57.97" ry="18"/>
+<text text-anchor="middle" x="1248.55" y="-404.02" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Spring Boot</text>
+</g>
+<!-- spring&#45;&gt;spr_boot -->
+<g id="edge20" class="edge">
+<title>spring-&gt;spr_boot</title>
+<path fill="none" stroke="black" d="M1071.86,-490.19C1106.33,-474.19 1166.28,-446.38 1206.68,-427.64"/>
+<polygon fill="black" stroke="black" points="1208.39,-430.7 1215.99,-423.32 1205.45,-424.35 1208.39,-430.7"/>
+</g>
+<!-- spr_framework -->
+<g id="node19" class="node">
+<title>spr_framework</title>
+<ellipse fill="none" stroke="black" cx="1041.34" cy="-612.74" rx="83.95" ry="18"/>
+<text text-anchor="middle" x="1041.34" y="-608.54" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Spring Framework</text>
+</g><g id="edge32" class="edge">
+<title>annotations-&gt;v8_repeatingannotations</title>
+<path fill="none" stroke="black" d="M313.35,-975.76C313.35,-1011.3 313.35,-1090.52 313.35,-1133.03"/>
+<polygon fill="black" stroke="black" points="309.85,-1133.25 313.35,-1143.25 316.85,-1133.25 309.85,-1133.25"/>
+</g>
+<!-- spring&#45;&gt;spr_framework -->
+<g id="edge23" class="edge">
+<title>spring-&gt;spr_framework</title>
+<path fill="none" stroke="black" d="M1044.23,-520.9C1043.69,-538.18 1042.86,-564.43 1042.23,-584.45"/>
+<polygon fill="black" stroke="black" points="1038.73,-584.44 1041.91,-594.55 1045.72,-584.66 1038.73,-584.44"/>
+</g><g id="edge21" class="edge">
+<title>spring-&gt;spr_cloud</title>
+<path fill="none" stroke="black" d="M1079.54,-509.08C1090.82,-511.14 1103.7,-513.5 1116.38,-515.81"/>
+<polygon fill="black" stroke="black" points="1116.01,-519.3 1126.48,-517.66 1117.27,-512.42 1116.01,-519.3"/>
+</g><g id="node7" class="node">
+<title>patterns</title>
+<ellipse fill="none" stroke="black" cx="865.45" cy="-133.59" rx="71.84" ry="18"/>
+<text text-anchor="middle" x="865.45" y="-129.39" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Design Patterns</text>
+</g>
+<!-- sprsecurity -->
+<!-- spr_security -->
+<!-- spr_security -->
+<g id="node20" class="node">
+<title>spr_security</title>
+<ellipse fill="none" stroke="black" cx="870.51" cy="-613.2" rx="71.28" ry="18"/>
+<text text-anchor="middle" x="870.51" y="-609" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Spring Security</text>
+</g><g id="edge5" class="edge">
+<title>jpa-&gt;spr_data</title>
+<path fill="none" stroke="black" d="M1078.57,-165.58C1094.25,-197.84 1127.97,-267.24 1146.66,-305.72"/>
+<polygon fill="black" stroke="black" points="1143.55,-307.33 1151.07,-314.79 1149.85,-304.27 1143.55,-307.33"/>
+</g>
+<!-- spring&#45;&gt;sprsecurity -->
+<!-- spring&#45;&gt;spr_security -->
+<!-- spring&#45;&gt;spr_security -->
+<!-- spring&#45;&gt;spr_security -->
+<!-- spring&#45;&gt;spr_security -->
+<!-- spring&#45;&gt;spr_security -->
+<!-- spring&#45;&gt;spr_security -->
+<!-- spring&#45;&gt;spr_security -->
+<!-- spring&#45;&gt;spr_security -->
+<!-- spring&#45;&gt;spr_security -->
+<g id="node27" class="node">
+<title>v14</title>
+<ellipse fill="none" stroke="black" cx="809.52" cy="-1059.48" rx="40.03" ry="18"/>
+<text text-anchor="middle" x="809.52" y="-1055.28" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Java 14</text>
+</g>
+<!-- spring&#45;&gt;spr_security -->
+<g id="node28" class="node">
+<title>v17</title>
+<ellipse fill="none" stroke="black" cx="795.97" cy="-1156.76" rx="40.03" ry="18"/>
+<text text-anchor="middle" x="795.97" y="-1152.56" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Java 17</text>
+</g>
+<g id="edge24" class="edge">
+<title>spring-&gt;spr_security</title>
+<path fill="none" stroke="black" d="M1022.02,-517.18C992.46,-535.91 940.57,-568.8 905.87,-590.79"/>
+<polygon fill="black" stroke="black" points="903.58,-588.1 897.01,-596.41 907.33,-594.01 903.58,-588.1"/>
+</g><g id="edge22" class="edge">
+<title>spring-&gt;spr_data</title>
+<path fill="none" stroke="black" d="M1056.46,-485.51C1076.68,-455.63 1118.35,-394.06 1142.14,-358.91"/>
+<polygon fill="black" stroke="black" points="1145.07,-360.82 1147.78,-350.57 1139.27,-356.9 1145.07,-360.82"/>
+</g><g id="node12" class="node">
+<title>p_factory</title>
+<ellipse fill="none" stroke="black" cx="824.53" cy="-60.389999999999986" rx="40.57" ry="18"/>
+<text text-anchor="middle" x="824.53" y="-56.19" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Factory</text>
+</g><g id="node10" class="node">
+<title>p_composition</title>
+<ellipse fill="none" stroke="black" cx="731.97" cy="-134.58" rx="60.88" ry="18"/>
+<text text-anchor="middle" x="731.97" y="-130.38" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Composition</text>
+</g>
+<!-- spr -->
+<!-- spr_data -->
+<!-- spr_data -->
+<!-- spr_data -->
+<g id="node14" class="node">
+<title>spr_data</title>
+<ellipse fill="none" stroke="black" cx="1159.81" cy="-332.79" rx="57.37" ry="18"/>
+<text text-anchor="middle" x="1159.81" y="-328.59" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Spring Data</text>
+</g><g id="node18" class="node">
+<title>spr_cloud</title>
+<ellipse fill="none" stroke="black" cx="1179.7" cy="-527.38" rx="62.63" ry="18"/>
+<text text-anchor="middle" x="1179.7" y="-523.18" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Spring Cloud</text>
+</g><g id="edge1" class="edge">
+<title>patterns-&gt;p_composition</title>
+<path fill="none" stroke="black" d="M793.24,-134.12C793.18,-134.12 793.12,-134.13 793.06,-134.13"/>
+<polygon fill="black" stroke="black" points="802.84,-130.55 792.87,-134.13 802.9,-137.55 802.84,-130.55"/>
+</g><g id="edge2" class="edge">
+<title>patterns-&gt;p_di</title>
+<path fill="none" stroke="black" d="M853.36,-151.45C835.07,-178.48 799.95,-230.37 775.87,-265.96"/>
+<polygon fill="black" stroke="black" points="772.71,-264.38 770,-274.63 778.51,-268.31 772.71,-264.38"/>
+</g>
+
+<g id="edge3" class="edge">
+<title>patterns-&gt;p_factory</title>
+<path fill="none" stroke="black" d="M855.34,-115.49C850.49,-106.83 844.6,-96.29 839.27,-86.76"/>
+<polygon fill="black" stroke="black" points="842.32,-85.04 834.39,-78.02 836.21,-88.46 842.32,-85.04"/>
+</g>
+<g id="node11" class="node">
+<title>p_di</title>
+<ellipse fill="none" stroke="black" cx="750.44" cy="-303.54" rx="98.39" ry="29.33"/>
+<text text-anchor="middle" x="750.44" y="-307.74" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Dependency Injection</text>
+<text text-anchor="middle" x="750.44" y="-290.94" font-family="Helvetica,Arial,sans-serif" font-size="14.00">(DI)</text>
+</g><g id="edge18" class="edge">
+<title>spring-&gt;p_di</title>
+<path fill="none" stroke="black" d="M1023.16,-488.09C976.14,-456.27 863.71,-380.19 798.84,-336.29"/>
+<polygon fill="black" stroke="black" points="800.64,-333.28 790.4,-330.58 796.72,-339.08 800.64,-333.28"/>
+</g><g id="node13" class="node">
+<title>p_fp</title>
+<ellipse fill="none" stroke="black" cx="943.91" cy="-29.42" rx="65.51" ry="29.33"/>
+<text text-anchor="middle" x="943.91" y="-33.620000000000005" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Functional</text>
+<text text-anchor="middle" x="943.91" y="-16.820000000000007" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Programming</text>
+</g>
+<g id="edge4" class="edge">
+<title>patterns-&gt;p_fp</title>
+<path fill="none" stroke="black" d="M879.12,-115.44C889.46,-101.71 903.99,-82.42 916.67,-65.58"/>
+<polygon fill="black" stroke="black" points="919.51,-67.64 922.73,-57.55 913.91,-63.43 919.51,-67.64"/>
+</g>
+
+
+<g id="edge19" class="edge">
+<title>spring-&gt;spr_batch</title>
+<path fill="none" stroke="black" d="M1060.18,-486.15C1097.27,-446.11 1191.82,-344.06 1235.64,-296.77"/>
+<polygon fill="black" stroke="black" points="1238.24,-299.11 1242.47,-289.4 1233.1,-294.36 1238.24,-299.11"/>
+</g><g id="node9" class="node">
+<title>versions</title>
+<ellipse fill="none" stroke="black" cx="626.64" cy="-1059.48" rx="76.98" ry="18"/>
+<text text-anchor="middle" x="626.64" y="-1055.28" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Version Features</text>
+</g>
+
+<g id="node25" class="node">
+<title>v8</title>
+<ellipse fill="none" stroke="black" cx="506.97" cy="-1224.18" rx="35.38" ry="18"/>
+<text text-anchor="middle" x="506.97" y="-1219.98" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Java 8</text>
+</g>
+<g id="edge26" class="edge">
+<title>versions-&gt;v8</title>
+<path fill="none" stroke="black" d="M613.6,-1077.42C592.25,-1106.81 549.76,-1165.3 525.35,-1198.89"/>
+<polygon fill="black" stroke="black" points="522.32,-1197.11 519.27,-1207.25 527.98,-1201.22 522.32,-1197.11"/>
+</g>
+<g id="node26" class="node">
+<title>v11</title>
+<ellipse fill="none" stroke="black" cx="795.97" cy="-962.2" rx="40.03" ry="18"/>
+<text text-anchor="middle" x="795.97" y="-958" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Java 11</text>
+</g>
+<g id="edge27" class="edge">
+<title>versions-&gt;v11</title>
+<path fill="none" stroke="black" d="M655.75,-1042.76C685.35,-1025.75 731.19,-999.42 762.33,-981.53"/>
+<polygon fill="black" stroke="black" points="764.17,-984.51 771.1,-976.49 760.68,-978.44 764.17,-984.51"/>
+</g>
+<g id="edge28" class="edge">
+<title>versions-&gt;v14</title>
+<path fill="none" stroke="black" d="M703.4,-1059.48C722.1,-1059.48 741.64,-1059.48 758.78,-1059.48"/>
+<polygon fill="black" stroke="black" points="759.12,-1062.98 769.12,-1059.48 759.12,-1055.98 759.12,-1062.98"/>
+</g>
+<!-- spr_session -->
+<!-- spr_session -->
+<!-- spr_session -->
+<g id="node21" class="node">
+<title>spr_session</title>
+<ellipse fill="none" stroke="black" cx="736.15" cy="-533.23" rx="68.94" ry="18"/>
+<text text-anchor="middle" x="736.15" y="-529.03" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Spring Session</text>
+</g><g id="node16" class="node">
+<title>spr_batch</title>
+<ellipse fill="none" stroke="black" cx="1258.57" cy="-272.02" rx="61.96" ry="18"/>
+<text text-anchor="middle" x="1258.57" y="-267.82" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Spring Batch</text>
+</g><g id="edge29" class="edge">
+<title>versions-&gt;v17</title>
+<path fill="none" stroke="black" d="M655.75,-1076.2C685.35,-1093.21 731.19,-1119.54 762.33,-1137.43"/>
+<polygon fill="black" stroke="black" points="760.68,-1140.52 771.1,-1142.47 764.17,-1134.45 760.68,-1140.52"/>
+</g>
+
+
+<!-- spring&#45;&gt;spr_session -->
+<!-- spring&#45;&gt;spr_session -->
+<!-- spring&#45;&gt;spr_session -->
+<!-- spring&#45;&gt;spr_session -->
+<g id="edge25" class="edge">
+<title>spring-&gt;spr_session</title>
+<path fill="none" stroke="black" d="M1008.49,-506.33C960.11,-511.11 873.34,-519.68 810.73,-525.86"/>
+<polygon fill="black" stroke="black" points="810.12,-522.41 800.51,-526.87 810.8,-529.37 810.12,-522.41"/>
+</g>
+
+
+
+<!-- v_8 -->
+
+<!-- v_11 -->
+<!-- v_11 -->
+
+<!-- v_14 -->
+
+<!-- v_14 -->
+
+<!-- v_17 -->
+<!-- v_17 -->
+
+<!-- v_17 -->
+
+
+
+<!-- v_8_stream -->
+<g id="node29" class="node">
+<title>v8_lambdas</title>
+<ellipse fill="none" stroke="black" cx="526.88" cy="-1285.46" rx="46.37" ry="18"/>
+<text text-anchor="middle" x="526.88" y="-1281.26" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Lambdas</text>
+</g>
+<!-- v8&#45;&gt;v8_lambdas -->
+<!-- v8&#45;&gt;v8_lambdas -->
+<!-- v8&#45;&gt;v8_lambdas -->
+<!-- v8&#45;&gt;v8_lambdas -->
+<!-- v8&#45;&gt;v8_lambdas -->
+<g id="edge30" class="edge">
+<title>v8-&gt;v8_lambdas</title>
+<path fill="none" stroke="black" d="M512.84,-1242.24C514.4,-1247.06 516.13,-1252.38 517.83,-1257.59"/>
+<polygon fill="black" stroke="black" points="514.57,-1258.9 520.99,-1267.33 521.23,-1256.73 514.57,-1258.9"/>
+</g>
+
+
+
+
+<!-- v8_repeatingannotations -->
+<g id="node30" class="node">
+<title>v8_repeatingannotations</title>
+<ellipse fill="none" stroke="black" cx="313.35" cy="-1161.27" rx="99.62" ry="18"/>
+<text text-anchor="middle" x="313.35" y="-1157.07" font-family="Helvetica,Arial,sans-serif" font-size="14.00">Repeating Annotations</text>
+</g>
+<!-- v8&#45;&gt;v8_repeatingannotations -->
+<!-- v8&#45;&gt;v8_repeatingannotations -->
+<g id="edge31" class="edge">
+<title>v8-&gt;v8_repeatingannotations</title>
+<path fill="none" stroke="black" d="M476.72,-1214.35C448.62,-1205.22 406.03,-1191.39 371.38,-1180.13"/>
+<polygon fill="black" stroke="black" points="372.43,-1176.79 361.84,-1177.03 370.27,-1183.44 372.43,-1176.79"/>
+</g>
+
+</g>
+</svg>

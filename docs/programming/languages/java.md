@@ -8,6 +8,12 @@ tags:
 - [Baeldung](https://www.baeldung.com) continues to be one of the best online
   resources for Java and Spring developers. Their content is very well written.
 
+I am working on a tech tree to cover several popular, valuable concepts that I
+feel Java developers should know. This is a work-in-progress. Clicking on the
+image below will take you to the Graphviz source.
+
+[![](./java-tech-tree.svg)](https://r.btdev.org/java-tech-tree)
+
 ## Libraries
 
 - [Jackson](/programming/libraries/jackson.md)
