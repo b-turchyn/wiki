@@ -8,6 +8,10 @@
       "destination": "/books/days-of-writing/"
     },
     {
+      "source": "/productivity/email(/?)",
+      "destination": "/computers/email/"
+    },
+    {
       "source": "/devops/bash(/?)",
       "destination": "/programming/languages/bash/"
     },
