@@ -1,6 +1,7 @@
 ---
 sidebar_position: 0
 title: 🏠 Home
+description: "An ever-changing digital garden of notes and information I find interesting"
 ---
 
 # Everything I Know

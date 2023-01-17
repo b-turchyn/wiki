@@ -70,7 +70,10 @@ const config = {
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
+      metadata: [
+        {name: 'keywords', content: 'Productivity, Psychology, Programming, Books, Digital Garden'},
+      ],
       navbar: {
         title: 'Everything I Know',
         logo: {
@@ -118,7 +121,7 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ['awk', 'java', 'properties', 'ruby', 'vim'],
       },
-    }),
+    },
   stylesheets: [
     {
       href: 'https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css',
