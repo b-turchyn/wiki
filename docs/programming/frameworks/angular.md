@@ -6,6 +6,9 @@ tags:
 
 # Angular
 
+Angular is an MVC framework built with
+[JavaScript](/programming/languages/javascript.md) and Typescript.
+
 ## Making a Directive Input Required
 
 ([source
