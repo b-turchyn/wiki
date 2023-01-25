@@ -30,3 +30,17 @@ Use the following instead:
 * Time.zone.parse("2015-07-04 17:05:37")
 * Time.strptime(string, "%Y-%m-%dT%H:%M:%S%z").in_time_zone
 ```
+
+## Installing `pq` gem on Mac OS X
+
+The Postgres gem requires the `postgresql` Homebrew package to be installed; the
+command `pg_config` is requried to compile the `pg` gem.
+
+```bash
+# Install dependencies
+brew install postgresql@14
+
+# Run one of the following depending on how you are installing the gem
+bundle # The preferred way
+gem install pq
+```
