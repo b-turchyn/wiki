@@ -1,5 +1,7 @@
 # Vim
 
+- [MacVim is Vim with more OS integration](https://stackoverflow.com/a/5894021)
+
 ## Patterns and Anti-Patterns
 
 - Pressing motion keys multiple times should be avoided (i.e. `jjjjj`). Instead,
