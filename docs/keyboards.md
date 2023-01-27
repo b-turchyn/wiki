@@ -3,6 +3,15 @@ title: "⌨ Keyboards"
 ---
 # Keyboards
 
+Keycaps come in tons of different styles. The following sites have useful
+information about them:
+
+- [Keycap Profiles: The Ultimate
+  Guide](https://teksbit.com/keycap-profiles-guide/), TEKSBIT
+- [A Guide to Keycap Profiles and
+  Materials](https://switchandclick.com/ultimate-guide-to-picking-a-keycap-set-for-your-mechanical-keyboard/),
+  Switch and Click
+
 ## Switches
 
 Clicky switches can be made clicky by click jackets or click bars.
