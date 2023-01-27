@@ -18,6 +18,10 @@
     {
       "source": "/programming/flutter(/?)",
       "destination": "/programming/frameworks/flutter/"
+    },
+    {
+      "source": "/technology/keyboards(/?)",
+      "destination": "/keyboards/"
     }
   ]
 }
