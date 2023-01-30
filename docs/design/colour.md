@@ -11,5 +11,6 @@ aliases:
 
 ## Tools
 
+- [Colorhunt](https://colorhunt.co/)
 - [Huemint](https://huemint.com) - generates colour palettes using machine
   learning.

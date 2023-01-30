@@ -8,6 +8,10 @@
       "destination": "/books/days-of-writing/"
     },
     {
+      "source": "/design/color(/?)",
+      "destination": "/design/colour/"
+    },
+    {
       "source": "/productivity/email(/?)",
       "destination": "/computers/email/"
     },
