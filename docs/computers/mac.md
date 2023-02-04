@@ -30,3 +30,20 @@ A list of what I install on new machines:
     still like direct integration with Tmux, but I think Warp has a lot of
     potential.
 
+## Display Scaling Issues
+
+A common issue people seem to have with external monitors is getting display
+scaling to work correctly. The external display seems to end up looking
+pixelated.
+
+Some potential solutions for this:
+
+- [bbhardin/A-Guide-to-MacOS-Scaled-Resolutions](https://github.com/bbhardin/A-Guide-to-MacOS-Scaled-Resolutions):
+  A guide explaining some of the internals and some workarounds available.
+- [avibrazil/RDM](https://github.com/avibrazil/RDM): I assume RDM stands for
+  "Retina Display Manager". Lets you set your display to unsupported
+  resolutions, helping you achieve the pixel density you actually want.
+- [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay): A much
+  more full-featured alternative to RDM. This has a ton of features around
+  XDR/HDR brightness upscaling, dummy displays, DDC controls, and more. Much of
+  it seems to be behind a paywall, but as of writing the price is only $15 USD.
