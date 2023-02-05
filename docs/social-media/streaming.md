@@ -22,3 +22,10 @@
   - Version 1.x of this will stop functioning on February 18, 2023 for slash
     commands [per the developer
     announcement](https://discuss.dev.twitch.tv/t/deprecation-of-chat-commands-through-irc/40486).
+
+
+## OBS Plugins
+
+- [Vertical](https://aitum.tv/#vertical) - Adds a vertical canvas to OBS
+  along-side your regular horizontal one.
+  - [GitHub](https://github.com/Aitum/obs-vertical-canvas/)
