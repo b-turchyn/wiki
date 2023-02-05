@@ -15,3 +15,7 @@ Options for to-do lists:
     dates.
   - Great API integrations.
 
+Open-source and self-hosted options:
+
+- [Vikunja](https://vikunja.io/)
+  ([HN](https://news.ycombinator.com/item?id=34469078))
