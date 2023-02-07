@@ -4,7 +4,20 @@ tags:
 ---
 # Sleep
 
-Sleep is critical to be able to function at your peak level and to be [happy](/health/mental-health/happiness.md). Adults should aim for roughly 8 hours of sleep per night. There seems to be valid reasons for [waking up early](waking-up-early.md).
+Sleep is critical to be able to function at your peak level and to be
+[happy](/health/mental-health/happiness.md). Adults should aim for roughly 8
+hours of sleep per night. There seems to be valid reasons for [waking up
+early](waking-up-early.md).
+
+## Sleep Calculators
+
+- [Sleep Time Calculator](https://sleeptimecalculator.com/)
+  - This works off of when you want to go to bed or when you want to wake up and
+    provides some suggested times, but the only input is one of those two times.
+- [Sleep Calculator](https://www.sleepfoundation.org/sleep-calculator) by Sleep
+  Foundation
+  - This one takes age into consideration, although once you are an adult it
+    effectively has no impact on the calculation.
 
 ## Deep Sleep
 
