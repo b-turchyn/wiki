@@ -5,6 +5,13 @@ title: "🖼 Design"
 
 - [Can't Unsee](https://cantunsee.space/): test how good of an eye you have for
   UI design
+- [Visual design rules you can safely follow every
+  time](https://anthonyhobday.com/sideprojects/saferules/)
+  - [HN discussion](https://news.ycombinator.com/item?id=34684761)
+  - This has some great examples, showing both bad and good for each paradigm.
+    Some of these I've followed just out of habit. The "Nest Corners Properly"
+    rule was one that I had never thought about before, but the moment I saw it
+    in practice I realized how easy it was to actually do that in the future.
 
 Inspiration:
 
