@@ -44,3 +44,11 @@ brew install postgresql@14
 bundle # The preferred way
 gem install pq
 ```
+
+## Interesting Projects and Frameworks
+
+- [Hanami](https://hanamirb.org)
+  - This showed up on Hacker News. Interesting framework. Lighter than [Ruby on
+    Rails](/programming/frameworks/ruby-on-rails.md), but seems to have a solid
+    amount of features. A middle ground between Sinatra and Rails, maybe?
+  - Has a dedicated [Hanami Guides](https://guides.hanamirb.org/) site.
