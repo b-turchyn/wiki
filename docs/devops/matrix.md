@@ -60,3 +60,10 @@ message via Signal, double puppeting will make it show up in my Matrix chat.
   the message `ping-matrix`. If working correctly, you should receive the
   message `Your Matrix login is working.`.
 
+## API Usage
+
+The [Matrix API](https://matrix.org/docs/api/) is fairly well-documented. Access
+is through an `access_token` issued by your homeserver. The easiest way I've
+found to get an access token is through the [Element
+client](https://app.element.io). Once logged in, go to `Settings`, `Help &
+About`, `Advanced`. Your access token will be in a collapsed section.
