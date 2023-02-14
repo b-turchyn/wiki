@@ -12,6 +12,10 @@
       "destination": "/design/colour/"
     },
     {
+      "source": "/productivity/automation(/?)",
+      "destination": "/automation/"
+    },
+    {
       "source": "/productivity/email(/?)",
       "destination": "/computers/email/"
     },
