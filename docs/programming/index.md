@@ -13,6 +13,10 @@ Interesting links and projects:
   a Ruby quine that can have any one character removed and it will still work
 - [The Architecture of Open Source
   Applications](https://aosabook.org/en/index.html)
+- [Coding Curves](https://www.bit-101.com/blog/2022/11/coding-curves/) by [Keith
+  Peters](https://www.bit-101.com/)
+  - A great collection of information about how computers draw curves using math
+    (lots and lots of math). Lots of visuals, reads fairly easy. It's great. 
 
 ## Concepts
 
