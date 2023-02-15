@@ -10,3 +10,8 @@ Some interesting dotfiles:
 - [Nick Janetakis (nickjj)](https://github.com/nickjj/dotfiles)
   - I learned about [Vim's](devops/vim.md)'s `autocomplete` and `spell` features
     from [a YouTube video](https://youtu.be/2f8h45YR494) he published.
+
+Information about dotfiles and config file management:
+
+- [Dotfiles Management](https://mitxela.com/projects/dotfiles_management) by
+  Mitxela
