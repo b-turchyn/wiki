@@ -29,3 +29,17 @@
 - [Vertical](https://aitum.tv/#vertical) - Adds a vertical canvas to OBS
   along-side your regular horizontal one.
   - [GitHub](https://github.com/Aitum/obs-vertical-canvas/)
+
+## Stream Assets
+
+- [PixelPro](https://pixelpro.io/)
+- [Visuals by Impulse](https://visualsbyimpulse.com/)
+  - They have a bunch of semi-custom stuff available for generation on their
+    site with no Photoshop/After Effects required. Neat.
+- [Nerd or Die](https://nerdordie.com/)
+  - I've bought two packs from them, and their support team is fairly
+    responsive. Their pre-made packs don't always work great with Mac OS out of
+    the box since the text boxes they use are on the Windows version of OBS
+    Studio only.
+  - There are lots of coupon codes available online for discounts on their
+    products.
