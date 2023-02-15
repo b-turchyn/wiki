@@ -12,6 +12,8 @@ title: "🖼 Design"
     Some of these I've followed just out of habit. The "Nest Corners Properly"
     rule was one that I had never thought about before, but the moment I saw it
     in practice I realized how easy it was to actually do that in the future.
+- [Nerd Fonts](https://www.nerdfonts.com/font-downloads), a collection of fonts
+  for developers with tons of extra icons loaded into them.
 
 Inspiration:
 
