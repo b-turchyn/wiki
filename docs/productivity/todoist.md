@@ -21,3 +21,17 @@ app](/productivity/to-do.md). I've been a paying customer for years.
 
   I found this generally pretty flaky to get working; when I tried it once it
   seemed to work, but trying with a brand new task didn't work.
+
+## Templates
+
+Some interesting official templates for projects:
+
+- [Internet Privacy &
+    Security](https://todoist.com/templates/internet-privacy-security)
+- [To-do list refresh](https://todoist.com/templates/todoist-refresh)
+  - Ideas for cleaning up your Todoist instance
+- [Personal Blogging](https://todoist.com/templates/personal-blogging)
+  - This is more for the creation of a blog or personal website rather than the
+      ongoing maintenance of it.
+- [Side Hustle](https://todoist.com/templates/side-hustle)
+- [Social Media Calendar](https://todoist.com/templates/social-media-calendar)
