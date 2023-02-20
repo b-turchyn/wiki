@@ -8,6 +8,8 @@ aliases:
 A list of what I install on new machines:
 
 - Desktop Applications:
+  - [Anki](learning/anki.md) - a spaced-repetition flashcard app available on
+    Windows, Mac, Linux, Android, and iOS
   - [soffes/Countdown](https://github.com/soffes/Countdown) - A countdown
     screensaver
   - [Discord](/technology/discord.md)

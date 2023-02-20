@@ -1,12 +1,21 @@
 ---
 title: "📖 Reading"
 ---
+
 # Reading
 
+> Who cares what you read; what matters is what you read.  
+> -- Epictetus
+
 I really enjoy reading, although the majority of my prior reading has been
-around technical documentation for [programming](/programming/index.md) or [blog
-posts](/writing/blogging.md) about [productivity](/productivity/index.md). I've
-started to read more long-form [books](/books/index.md) starting in 2022.
+around technical documentation for [programming](/programming/index.md) or
+[blog posts](/writing/blogging.md) about [productivity](/productivity/index.md).
+I've started to read more long-form [books](/books/index.md) starting in 2022.
+
+The [stoic philosophers](philosophy/stoicism.md) believed that you should
+re-read books frequently, as we grow and learn and change over time.
+
+> We never step in the same river twice.
 
 ## Applications
 
@@ -23,8 +32,8 @@ Various applications, web clippers, etc.
   - Has a free and paid offering; the free offering does not support exporting,
     so you effectively need to pay to get your data out of the system.
 - [Reading Notes](http://reading-notes.com/), a Kindle clipping manager.
-  - Free and open source with [code hosted on
-    GitHub](https://github.com/mammuth/kindle-clippings)
+  - Free and open source with
+    [code hosted on GitHub](https://github.com/mammuth/kindle-clippings)
   - Seems like a good, but lesser-featured app. I don't see tagging support, and
     the export functionality and API are still on the roadmap.
 - [Instapaper](https://www.instapaper.com/), a place to collect items to read
@@ -33,10 +42,10 @@ Various applications, web clippers, etc.
     searching of everything you upload, and unlimited notes rather than the
     current limit of 5 notes per month.
 - [Wallabag](https://wallabag.org/), a read-it-later app, similar to Instapaper
-  - Free and open source with [code hosted on
-    GitHub](https://github.com/wallabag/wallabag).
+  - Free and open source with
+    [code hosted on GitHub](https://github.com/wallabag/wallabag).
   - I use this for storing articles. Overall it works pretty well. The Android
     app doesn't look very nice, but it works just fine and that's what matters.
-  - Someone has created a [native Kindle
-    app](https://github.com/cekage/wallindle) for Wallabag, but it requires a
-    jailbroken Kindle.
+  - Someone has created a
+    [native Kindle app](https://github.com/cekage/wallindle) for Wallabag, but
+    it requires a jailbroken Kindle.
