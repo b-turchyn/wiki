@@ -1,3 +1,8 @@
+---
+aliases:
+  - Mac
+---
+
 # Mac OS X
 
 A list of what I install on new machines:
@@ -5,30 +10,33 @@ A list of what I install on new machines:
 - Desktop Applications:
   - [soffes/Countdown](https://github.com/soffes/Countdown) - A countdown
     screensaver
-  - Discord
+  - [Discord](/technology/discord.md)
   - Firefox
   - Magnet - Better window snapping
-  - Obsidian - for writing personal notes in my
+  - Obsidian - for writing personal [notes](writing/notes.md) in my
     [zettelkasten](/writing/zettelkasten.md)
   - RescueTime
   - Signal
   - Spotify
-  - Todoist
+  - [Todoist](/productivity/todoist.md)
   - WhatPulse
+  - A [screen keep-awake](/computers/keep-screen-awake.md) application like
+    Amphetamine.
 - Development Tools:
   - Xcode
   - [Homebrew](https://brew.sh)
   - [oh-my-zsh](https://ohmyz.sh)
-  - [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) - Ruby Version
+  - [nvm](https://github.com/nvm-sh/nvm#installing-and-updating) -
+    [Node](programming/languages/node.md) Version Manager
+  - [rvm](https://rvm.io) - [Ruby](/programming/languages/ruby.md) Version
     Manager
-  - [rvm](https://rvm.io) - Ruby Version Manager
   - [My dotfiles](https://github.com/b-turchyn/dotfiles)
   - [iTerm2](https://iterm2.com/) - Terminal
-  - [Warp](https://app.warp.dev/referral/7GMRLL) (Referral link) - Terminal
-    I've been following Warp's development for a while. It looks really
-    interesting and overall I'm enjoying it. iTerm2 definitely has some benefits
-    still like direct integration with Tmux, but I think Warp has a lot of
-    potential.
+  - [Warp](https://app.warp.dev/referral/7GMRLL) (Referral link) - Terminal I've
+    been following Warp's development for a while. It looks really interesting
+    and overall I'm enjoying it. iTerm2 definitely has some benefits still like
+    direct integration with [Tmux](devops/tmux.md), but I think Warp has a lot
+    of potential.
 
 ## Display Scaling Issues
 
