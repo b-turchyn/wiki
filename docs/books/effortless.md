@@ -15,10 +15,10 @@ Author: Greg McKeown
 > Burnout is not a badge of honor.
 
 The focus of this book is to do things the _right way_ such that you're
-accomplishing what you want to get done without burning yourself out. Motivation
-isn't enough to get things done. One challenge is to do the right things, the
-second (which this book addresses) is _how_ to do those things so that you don't
-burn out.
+accomplishing what you want to get done without burning yourself out.
+[Motivation](productivity/motivation.md) isn't enough to get things done. One
+challenge is to do the right things, the second (which this book addresses) is
+_how_ to do those things so that you don't burn out.
 
 The goal: easy but pointless things become harder, and hard but worthwhile
 things become easier.
@@ -39,8 +39,8 @@ This process is broken down into three parts:
 
 The _Effortless State_ can be defined as _feeling lighter_. This is both from
 the feeling of being burdened (i.e. "I feel like there's a weight off my
-shoulders"), but also a from a happiness perspective (i.e. "I'm not about to
-snap at everything").
+shoulders"), but also a from a [happiness](health/mental-health/happiness.md)
+perspective (i.e. "I'm not about to snap at everything").
 
 ### Chapter 1: Invert
 
@@ -104,8 +104,9 @@ Other examples provided:
 - Putting on Disney songs while cleaning up after dinner so the whole family
   sings along.
 
-Find rituals to form our habits around. Rituals are _how_ you perform the habit.
-If you can embrace the ritual, the habit will also form.
+Find rituals to form our [habits](psychology/habits.md) around. Rituals are
+_how_ you perform the habit. If you can embrace the ritual, the habit will also
+form.
 
 ### Chapter 3: Release
 
@@ -136,11 +137,12 @@ things.
 
 Similarly, avoid holding onto grudges. They're easier to focus on than being
 grateful for things, but is far more toxic to your mental well-being. Holding a
-grudge means that someone who slighted you holds agency over your happiness.
+grudge means that someone who slighted you holds agency over your
+[happiness](health/mental-health/happiness.md).
 
 Accept the things you can't control. People have their flaws. If you can't
-control something, you have the choice to ruminate on it or to accept it as it
-is. The latter frees you from having to worry about it.
+control something, you have the [choice](psychology/choice.md) to ruminate on it
+or to accept it as it is. The latter frees you from having to worry about it.
 
 > "When someone shows you who they are, believe them the first time." -- Maya
 > Angelou
@@ -183,9 +185,9 @@ When a full night's sleep isn't possible, take a nap. (See:
 
 ### Chapter 5: Notice
 
-There are countless things competing for our attention. This interferes with
-our ability to observe and notice things. If we can train our "attention
-muscles", then we can take more information in with less effort.
+There are countless things competing for our attention. This interferes with our
+ability to observe and notice things. If we can train our "attention muscles",
+then we can take more information in with less effort.
 
 > Listening isn't hard; it's stopping our mind from wandering that's hard.
 
@@ -213,9 +215,9 @@ Accomplish what matters by trying less.
 
 ### Chapter 6: Define
 
-The easiest way to kill a project is to not define what "done" looks like.
-By defining "done", you can perform the steps required, finish it up, then move
-on to something else.
+The easiest way to kill a project is to not define what "done" looks like. By
+defining "done", you can perform the steps required, finish it up, then move on
+to something else.
 
 When you have lots of things to get done, consider a "done for the day" list.
 When looking at your to-do list, if you see something on there that will haunt
@@ -240,8 +242,8 @@ Apply April Perry's concept of a _Microburst_: ten minutes of highly focused
 work that has an immediate impact on your project.
 
 Do your best to avoid distractions in [the now](/psychology/the-present.md).
-Twitter and [social media](/social-media/index.md) can distract you from your
-goals.
+[Twitter](social-media/twitter.md) and [social media](/social-media/index.md)
+can distract you from your goals.
 
 ### Chapter 8: Simplify
 
@@ -271,8 +273,9 @@ possible. For example, you'd rather waste $20 than $2,000, and you'd rather find
 out it was a waste now rather than in a month.
 
 Over-achievers tend to be obsessed with perfection. In this case, perfection
-means unnecessary things got done (see [Chapter 8:
-Simplify](#chapter-8-simplify)). Avoid this by starting off with the ugly.
+means unnecessary things got done (see
+[Chapter 8: Simplify](#chapter-8-simplify)). Avoid this by starting off with the
+ugly.
 
 It's worth noting that this is not an excuse to not try or to deliberately
 produce garbage. The goal is to try something and have the failures come quickly
@@ -330,11 +333,12 @@ Reading is an excellent way to gain this knowledge. But don't read to say that
 you've read; instead, your goal should be to absorb as much of that information
 as possible.
 
- - Take a few minutes after each chapter to summarize the key points from what
-   you just read. Distill it down into no more than a single page.
- - Collect and share that information in a
-   [Zettelkasten](/writing/zettelkasten.md) or [digital
-   garden](/writing/digital-garden.md) so you have an easy-to-use reference.
+- Take a few minutes after each chapter to summarize the key points from what
+  you just read. Distill it down into no more than a single page.
+- Collect and share that information in a
+  [Zettelkasten](/writing/zettelkasten.md) or
+  [digital garden](/writing/digital-garden.md) so you have an easy-to-use
+  reference.
 
 Our goal is residual results; taking this knowledge and synthesizing it means we
 can gain a reputation as someone who knows things that nobody else knows.
@@ -393,16 +397,16 @@ Warren Buffet looks for integrity, intelligence, and initiative.
 
 This is critical when hiring employees.
 
-> While hiring quickly may lighten the load at first, hiring _well_ will
-> lighten the load consistently and repeatedly, saving you many more headaches
-> in the long run.
+> While hiring quickly may lighten the load at first, hiring _well_ will lighten
+> the load consistently and repeatedly, saving you many more headaches in the
+> long run.
 
 Develop a high-trust structure around your team. Goals are shared. Rules and
 standards are understood and communicated. The right results are prioritized and
 rewarded consistently. That agreement should ask:
 
 - What results do we want?
-- Who is doing what_
+- Who is doing what\_
 - What minimum viable standards must be kept?
 - What resources are available and needed?
 - How will progress be evaluated and rewarded?

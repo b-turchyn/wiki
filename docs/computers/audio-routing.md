@@ -4,7 +4,7 @@ Internal audio routing on computers seems to generally be a pain.
 
 ## Mac OS
 
-The best option I've found for Mac is
+The best option I've found for [Mac](computers/mac.md) is
 [Loopback](https://rogueamoeba.com/loopback/). It's easy to use with a
 drag-and-drop interface and seems to allow you to connect any source to any
 destination, including virtual destinations. The only drawback is the price; as

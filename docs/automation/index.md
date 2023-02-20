@@ -4,9 +4,11 @@
 
 - [Beehive](https://github.com/muesli/beehive) (written in
   [Golang](/programming/languages/golang.md))
-- [Home Assistant](/devops/home-assistant.md) (written in Ruby)
-- [Huginn](https://github.com/huginn/huginn/) (written in Ruby)
-- [n8n](http://n8n.io/) (written in Node)
+- [Home Assistant](/devops/home-assistant.md) (written in
+  [Ruby](programming/languages/ruby.md))
+- [Huginn](https://github.com/huginn/huginn/) (written in
+  [Ruby](programming/languages/ruby.md))
+- [n8n](http://n8n.io/) (written in [Node](programming/languages/node.md))
 
 ## Interesting Projects
 

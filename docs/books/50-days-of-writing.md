@@ -30,8 +30,8 @@ latter, define that person as soon as possible to provide context.
   - At least, these are the ones we see. What about the people we don't see?
 - The writing and editing process helps someone re-think their thoughts to
   distill them into sharper, clearer thoughts.
-  - This is likely why journaling is effective for focusing the mind. These seem
-    to support each other.
+  - This is likely why [journaling](writing/journaling.md) is effective for
+    focusing the mind. These seem to support each other.
 - The most effective way to learn something is to participate in the activity.
   In the case of processing a thought, that is writing about it.
 - Starting tips:
@@ -44,8 +44,8 @@ latter, define that person as soon as possible to provide context.
   > "If you wish you would take something more seriously, do it publicly… Social
   > pressure forces you to up your game.” -- James Clear
 - Value the time of your audience. Every word, phrase, and sentence should be
-  valuable and not waste their time. 
-- Discipline is the only thing required to write online. 
+  valuable and not waste their time.
+- Discipline is the only thing required to write online.
 
 ### Day 3: The Serendipity of Note-Taking
 
@@ -54,7 +54,6 @@ latter, define that person as soon as possible to provide context.
 - Note-taking system should both save and generate ideas.
 - Re-reading notes or writing notes should help jog ideas from other notes that
   you've written.
-
 
 ### Day 4: Writing is More than Typing
 
@@ -87,7 +86,7 @@ latter, define that person as soon as possible to provide context.
 - Notes have no shelf life. They last forever. My wiki is a great place to store
   these notes.
 
-From the video: 
+From the video:
 
 - Ideas can be reused in multiple articles
 - The ideas generated from one piece can seed ideas for other articles
@@ -127,7 +126,8 @@ Next video talked about [writer's block](writing/writers-block.md).
 
 [(source)](https://perell.com/note/learn-like-an-athlete/)
 
-- Implementing a strict _learning plan_ helps knowledge workers accelerate
+- Implementing a strict _[learning](learning.md) plan_ helps knowledge workers
+  accelerate
 - Learning Plan Goals
   - Build skills
   - Complete projects
@@ -282,7 +282,7 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 [(source)](https://perell.com/note/assume-youre-not-original/)
 
 - Just as Derek Sivers says that you should assume you're below average, you
-  should also assume you're not original. 
+  should also assume you're not original.
   - Assuming you're below average puts you into a learning mindset
   - Assuming you're not original encourages you to seek out people who are
     original so you can learn from them
@@ -305,16 +305,15 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 [(source)](https://perell.com/note/create-a-story-box/)
 
 - Create a place that you can easily dump writing ideas into
-- When you need inspiration for what to write, look through this story box for
-  ideas
+- When you need [inspiration](creativity/inspiration.md) for what to write, look
+  through this story box for ideas
 - The stories won't be the main focus of what you're writing, but can serve two
   purposes:
   1. If you are frequently writing stories about the same general theme, then
-  that theme can be written about
+     that theme can be written about
   2. If you need a story to lead into a point you want to make, then the story
-  box can provide that
-- This approach is used by designers using sites like Pinterest. 
-
+     box can provide that
+- This approach is used by designers using sites like Pinterest.
 
 ### Day 24: Leave a Summary for Yourself
 
@@ -364,7 +363,7 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 - Something to think about: how does this compare to _Show Your Work!_? These
   two concepts seem to contradict each other. David is targeting writers;
   perhaps it depends on the medium in which you're working? Both are for
-  creatives, based on how Seth Godin defines a creative in _The Practice_. 
+  creatives, based on how Seth Godin defines a creative in _The Practice_.
 
 ### Day 27: Imitate, Then Innovate
 
@@ -391,7 +390,7 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 
 [(source)](https://perell.com/note/the-raymond-chandler-rule/)
 
-- Aim for some sort of mini-epiphany every 250 words or so. 
+- Aim for some sort of mini-epiphany every 250 words or so.
 - This stems from the novelist Raymond Chandler, who used to use index cards in
   his typewriter, and every index card had to have something happen on it (and
   not be just filler words).
@@ -405,7 +404,7 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 
 - We have an expectation that everything has to be original, but most things
   have been written about already. That's okay.
-- Innovation comes from rehashing what others before us have done. 
+- Innovation comes from rehashing what others before us have done.
 
 > Study hard what interests you the most in the most undisciplined, irreverent
 > and original manner possible. -- Richard Feynman
@@ -478,6 +477,7 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
 - When we speak, we have the benefit of tone to help convey information. We lose
   this ability when writing.
 - Perell suggests that there are three types of words for writers to consider:
+
   1. Words that people know and use
   2. Words that people know but don't use
   3. Words that people don't know nor use
@@ -493,8 +493,8 @@ See: Day 18, [Writer's Block](writing/writers-block.md)
   recommends this approach for those that can't dedicate their entire lives to
   writing (i.e. almost all of us).
 - _Find_: passively research and collect information. You need to do this before
-  you even know what you're going to write about. Consider a [second
-  brain](/writing/second-brain.md) to store this info.
+  you even know what you're going to write about. Consider a
+  [second brain](/writing/second-brain.md) to store this info.
 - _Assemble_: write down a list of scattered ideas about the topic. If you're
   starting to write, you should already know what you're talking about, not
   learning about it while you write. Collect your notes together before actually
@@ -583,9 +583,9 @@ _See: [sentence compression](/writing/sentence-compression.md)_
 
 - In order to grow your audience, you need to convince people to be willing to
   be contacted by some sort of private means, such as by an email newsletter.
-- Publish content on public sites such as Twitter or YouTube to be discovered.
-  Make the content good enough to get people to subscribe to you off of the
-  platform.
+- Publish content on public sites such as [Twitter](social-media/twitter.md) or
+  YouTube to be discovered. Make the content good enough to get people to
+  subscribe to you off of the platform.
 - Your public presence can vanish at any point. Your private presence is around
   for as long as you want it to be.
 
@@ -598,11 +598,11 @@ _See: [sentence compression](/writing/sentence-compression.md)_
   together, but the point is to find things that you think are worthwhile,
   provide commentary, and to get others to discover you because of what you
   curate.
-- Quality matters more than quantity. By curating content, you are also
-  endorsing it. Believe in the content you curate.
+- [Quality](writing/quality.md) matters more than quantity. By curating content,
+  you are also endorsing it. Believe in the content you curate.
 
 ### Day 44: Don't Find a Niche. Create One.
 
 [(source)](https://perell.com/note/dont-find-a-niche-create-one/)
 
-- 
+-

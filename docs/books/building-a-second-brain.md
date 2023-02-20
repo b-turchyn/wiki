@@ -2,6 +2,7 @@
 tags:
   - Incomplete
 ---
+
 # Building a Second Brain
 
 ## Book Notes
@@ -31,14 +32,15 @@ other notes to create something more.
 ### Chapter 3: How a Second Brain Works
 
 There are four key roles to a Second Brain:
+
 1. Make ideas concrete. We can offload knowledge to the Second Brain so that our
    mind can focus on working with those ideas.
 2. Reveal associations between ideas. Those who are more creative are better at
    making and recognizing relationships and associations between ideas. Keeping
    all of your ideas together helps facilitate that.
-3. Incubate ideas over time. This helps avoid [recency
-   bias](psychology/recency-bias.md) by collecting ideas over months and years,
-   rather than in the heat of the moment.
+3. Incubate ideas over time. This helps avoid
+   [recency bias](psychology/recency-bias.md) by collecting ideas over months
+   and years, rather than in the heat of the moment.
 4. Sharpen your unique perspective. The key part of a Second Brain is to refine
    your own thinking so that you can actually use it. You need to be abel to not
    only take in information, but actually use it. If you want to persuade
@@ -46,19 +48,21 @@ There are four key roles to a Second Brain:
    help with [Writer's Block](writing/writers-block.md).
 
 A digital note-taking app should fulfill the following requirements:
+
 - Be able to interact with multimedia. Images, audio, etc.
 - Be informal. Notes will be messy.
 - Open-ended. Working with your PKM is a continuous process.
 - Be action-oriented. You want to be able to capture thoughts and move on as
-  fast as possible. 
+  fast as possible.
 
-The app you end up using will not be perfect. It will also be a personal choice. 
+The app you end up using will not be perfect. It will also be a personal choice.
 
 There are three stages of working with a Personal Knowledge Management system:
+
 1. Remembering. Writing things down, making comments and annotations.
 2. Connecting. This changes a PKM system from a memory tool to a thinking tool.
 3. Creating. Using the information gathered to create something new, rather than
-just information hoarding.
+   just information hoarding.
 
 Use the [CODE Method](writing/code-method.md) for feeding knowledge into your
 PKM system.
@@ -95,6 +99,7 @@ need. You can and should still link back to the original source. The content you
 save should be curated. Take charge of what is saved. Collection is the first
 step of the [CODE Method](writing/code-method.md), so being selective up front
 makes the remaining three steps more efficient.
+
 - This is a similar thought process to the cost to fix a software defect; it
   goes exponentially up as the defect moves through the SDLC.
 
@@ -132,8 +137,9 @@ The whole point of this information gathering is to _get stuff done_, not just
 collect information. The collecting isn't the end goal: it's a means to complete
 your projects. This is why PARA prioritizes putting information where it will be
 used the soonest, not where it came from. Organize for action and what's
-currently relevant. There is no perfect place for a note. Just like a [digital
-garden](writing/digital-garden.md), your notes will move around over time.
+currently relevant. There is no perfect place for a note. Just like a
+[digital garden](writing/digital-garden.md), your notes will move around over
+time.
 
 Structurally, PARA should reflect the state of your work and life priorities.
 Your organization here means your workspace is organized, which means you can
@@ -148,6 +154,7 @@ actively committed to working on it. If not, move that project into the
 archives.
 
 To find the projects you have ongoing:
+
 - Ask yourself what's on your mind.
-- Check your calendar, to-do list, your browser tabs/history, downloads, and
-  documents. Look for recurring topics.
+- Check your calendar, [to-do](productivity/to-do.md) list, your browser
+  tabs/history, downloads, and documents. Look for recurring topics.

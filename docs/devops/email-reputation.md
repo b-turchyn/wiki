@@ -1,7 +1,7 @@
 # Email Reputation
 
-Managing an email server's reputation is a constant struggle. Blocklists and
-ISPs can cause havoc for sending emails.
+Managing an email server's reputation is a constant struggle.
+[Blocklists](devops/blocklists.md) and ISPs can cause havoc for sending emails.
 
 ## Sender Reputation
 
@@ -29,5 +29,4 @@ reputation with Microsoft receivers.
 
 ## Resources
 
-- [Falsehoods programmers believe about
-  email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)
+- [Falsehoods programmers believe about email](https://beesbuzz.biz/code/439-Falsehoods-programmers-believe-about-email)

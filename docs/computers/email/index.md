@@ -5,7 +5,7 @@ description: |
 
 # Email
 
-Email should be treated as a system for _collecting new inputs_ rather than a 
+Email should be treated as a system for _collecting new inputs_ rather than a
 personal knowledge system, a [Zettelkasten](/writing/zettelkasten.md), or other
 knowledgebase.
 
@@ -30,10 +30,10 @@ Reports from DMARC come in two different formats:
 
 ### Implementing DMARC For Your Domain
 
-Setting up DMARC for your own domain is relatively simple, done via DNS records.
-The `_dmarc.` prefix is used on the domain that's sending emails. For
-`example.com`, a TXT DNS record of `_dmarc.example.com` needs to be published,
-such as the following:
+Setting up DMARC for your own domain is relatively simple, done via
+[DNS](devops/networking/dns.md) records. The `_dmarc.` prefix is used on the
+domain that's sending emails. For `example.com`, a TXT DNS record of
+`_dmarc.example.com` needs to be published, such as the following:
 
 ```
 v=DMARC1;p=none;sp=quarantine;pct=100;rua=mailto:dmarcreports@example.com;
@@ -75,5 +75,5 @@ reports:
 
 ## References
 
-- [How I Answer Email in 17 Minutes a Day - My
-  System](https://www.youtube.com/watch?v=uXdEVeoGRRc) (Tiago Forte, YouTube)
+- [How I Answer Email in 17 Minutes a Day - My System](https://www.youtube.com/watch?v=uXdEVeoGRRc)
+  (Tiago Forte, YouTube)
