@@ -23,9 +23,19 @@ Some articles you may find interesting:
 
 - [My Workflow](workflow.md)
 
-## Statistics
-
 {@import ../loc.txt}
+
+## Contact
+
+I can be found online in the following locations:
+
+- [My personal website](https://brianturchyn.net), of which there's a weekly
+    newsletter
+- On [Twitter](https://twitter.com/btwritescode) and
+    [Mastodon](https://mastodon.social/@btwritescode)
+- On [GitHub](https://github.com/b-turchyn)
+
+My identity can be verified through [Keybase](https://keybase.io/bturchyn).
 
 ## Customizations
 
@@ -48,6 +58,31 @@ Some articles you may find interesting:
   [brechtcs/rehype-urls](https://github.com/brechtcs/rehype-urls)
 
 [^1]: [Instructions](https://docusaurus.io/docs/markdown-features/math-equations)
+
+## Contributing
+
+Feel free to add or amend as you feel is appropriate. While the primary consumer
+of this is myself so I have my own reference, please don't let that dissuade you
+from contributing if you feel like there's value.
+
+The expectations:
+
+- The code of conduct is simple: _don't be a dick_. Treat everyone with respect.
+- Submit a PR with proposed changes. Please include why you think I should
+  accept it.
+- If you have any potential conflict of interest (such as you being the owner of
+  the site you're submitting to a list), then divulge this in the PR.
+
+Some notes for "future Brian":
+
+* Clone the repository
+* Run `git submodule update --init` to grab Obsidian config (if you have access
+  😉)
+* Contribute!
+
+## Deployment
+
+Deployment is driven automatically by Vercel. Handy.
 
 ## Usage
 
