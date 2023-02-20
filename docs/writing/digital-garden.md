@@ -17,6 +17,7 @@
 - [Nikita Voloboev](https://wiki.nikiv.dev/)
 - [Andy Matuschak](https://notes.andymatuschak.org/)
 - [Mental Nodes](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
+- [Eoin Kelly](https://github.com/eoinkelly/notes)
 
 ## Software
 
