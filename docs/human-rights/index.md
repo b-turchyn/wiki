@@ -1,8 +1,8 @@
 ---
-title: "Human Rights"
+title: "⚖ Human Rights"
 ---
 
-# ⚖ Human Rights
+# Human Rights
 
 All humans are equal. We all have the same rights.
 

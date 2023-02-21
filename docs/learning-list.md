@@ -20,3 +20,6 @@ A semi-prioritized list of things I want to learn about.
 - Financial reports, particularly ones issued by
   [charities](/philanthropy/charity.md). How do I read these? How can I see that
   my donation is getting put to good use?
+- Data Flow Diagrams (DFDs). I need to know how to properly draw these. There
+    are specific symbols used to indicate certain things. This is important for
+    [threat modeling](security/threat-modeling.md)
