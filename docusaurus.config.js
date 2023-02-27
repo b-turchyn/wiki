@@ -11,6 +11,7 @@ const katex = require('rehype-katex');
 const importPartial = require('remark-import-partial');
 const smartypants = require('@silvenon/remark-smartypants');
 const urls = require('rehype-urls');
+const fontaine = require('fontaine');
 
 const urlRewriteConfig = function(url, node) {
   if (url.host && url.host !== 'wiki.brianturchyn.net') {
@@ -40,6 +41,35 @@ const config = {
         docsRouteBasePath: '/'
       }
     ]
+  ],
+  plugins: [
+    function fontainePlugin(_context, _options) {
+      return {
+        name: 'fontaine-plugin',
+        configureWebpack(_config, _isServer) {
+          return {
+            plugins: [
+              fontaine.FontaineTransform.webpack({
+                fallbacks: [
+                  'system-ui',
+                  '-apple-system',
+                  'BlinkMackSystemFont',
+                  'Segoe UI',
+                  'Roboto',
+                  'Oxygen',
+                  'Ubuntu',
+                  'Cantarell',
+                  'Open Sans',
+                  'Helvetica Neue',
+                  'sans-serif',
+                ],
+                resolvePath: (id) => '../fonts/' + id,
+              }),
+            ],
+          };
+        },
+      };
+    }
   ],
 
   presets: [

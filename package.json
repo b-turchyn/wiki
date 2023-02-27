@@ -34,6 +34,7 @@
     "@docusaurus/module-type-aliases": "^2.3.1",
     "@silvenon/remark-smartypants": "^1.0.0",
     "@tsconfig/docusaurus": "^1.0.5",
+    "fontaine": "^0.2.3",
     "prettier": "^2.7.1",
     "remark-import-partial": "^0.0.2",
     "typescript": "^4.6.3"
