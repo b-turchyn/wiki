@@ -1,4 +1,5 @@
 ---
+description: Notes on the book "Tribes" by Seth Godin
 tags:
   - Incomplete
 ---
@@ -45,6 +46,28 @@ interconnect. Tesla[^2] as an example disrupted the automotive market by
 bringing a fully electric vehicle to mainstream markets.
 
 > Intractable problems fall in the face of movements.
+
+When trying to improve a tribe, most leaders focus solely on growing and gaining
+new members. While important, time is better spent helping the current tribe
+effectively communicate by providing the right tools (such as
+[Discord](technology/discord.md), a Subreddit, or a social media hashtag), or
+"transforming the shared interest into a passionate goal and desire for change".
+
+Ultimately, the goal of your tribe is to create a _movement_: viral change for
+the better.
+
+That movement comes from three key points, as defined by
+[Bill Bradley](https://en.wikipedia.org/wiki/Bill_Bradley):
+
+1. A story about the future the tribe is striving to achieve
+2. A connection between the leader and the members of the tribe
+3. A goal -- something to do and to work toward
+
+Godin uses Wikipedia as an example here; Jimmy Wales provides all of this. The
+fundraising emails sent out describe a story of free, open knowledge. The emails
+themselves are a means of connecting to him. And the Wikipedia software provides
+the necessary tooling to achieve both the communication amongst the tribe
+members and the means of achieving their goal.
 
 [^1]: Joel was also a co-founder of Stack Overflow, along-side Jeff Atwood.
 [^2]:
