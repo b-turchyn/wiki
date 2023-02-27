@@ -1,5 +1,11 @@
 # Streaming
 
+The best guide I've read for doing a coding stream is by
+[Suz Hinton](https://twitter.com/noopkat).
+([Archive.org snapshot](https://web.archive.org/web/20190225001622/https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21),
+since the original post is no longer available). The screenshots of OBS are old,
+but much of the fundamentals still apply.
+
 ## Streaming Sites
 
 - [Twitch](https://twitch.tv)
@@ -20,9 +26,8 @@
 - [tmi.js](https://github.com/tmijs/tmi.js) - Javascript library for the Twitch
   Messaging Interface
   - Version 1.x of this will stop functioning on February 18, 2023 for slash
-    commands [per the developer
-    announcement](https://discuss.dev.twitch.tv/t/deprecation-of-chat-commands-through-irc/40486).
-
+    commands
+    [per the developer announcement](https://discuss.dev.twitch.tv/t/deprecation-of-chat-commands-through-irc/40486).
 
 ## OBS Plugins
 
