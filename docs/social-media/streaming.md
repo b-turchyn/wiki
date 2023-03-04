@@ -4,7 +4,9 @@ The best guide I've read for doing a coding stream is by
 [Suz Hinton](https://twitter.com/noopkat).
 ([Archive.org snapshot](https://web.archive.org/web/20190225001622/https://medium.com/@suzhinton/my-twitch-live-coding-setup-b2516672fb21),
 since the original post is no longer available). The screenshots of OBS are old,
-but much of the fundamentals still apply.
+but much of the fundamentals still apply. Suz's earlier article about
+[lessons learned from streaming on Twitch](https://web.archive.org/web/20190226221418/https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)
+is a good read for those who are looking at getting into streaming.
 
 ## Streaming Sites
 
