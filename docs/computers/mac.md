@@ -40,6 +40,10 @@ A list of what I install on new machines:
     direct integration with [Tmux](devops/tmux.md), but I think Warp has a lot
     of potential.
 
+Collections of what others use on their Mac computers:
+
+- [nikitavoloboev/my-mac](https://github.com/nikitavoloboev/my-mac)
+
 ## Display Scaling Issues
 
 A common issue people seem to have with external monitors is getting display
