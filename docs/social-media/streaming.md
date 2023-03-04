@@ -20,6 +20,11 @@ is a good read for those who are looking at getting into streaming.
   directly.
 - [OBS Studio](https://obsproject.com/) - The OG stream tool. Connects to all
   major streaming platforms. A must-use for any streamer.
+- [NowPlaying](https://nowplaying.site/) - Browser source for streaming
+  programs. Watches what you're currently playing in Spotify and shows a
+  notification widget when the song changes.
+  - [Royalty-Free Music](music/royalty-free-music.md) has a list of artists and
+    songs that are safe to play while streaming.
 - [StreamElements](https://streamelements.com/) - I use this for a chat bot and
   for overlays.
 
