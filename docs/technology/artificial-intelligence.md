@@ -16,3 +16,7 @@
   - Seems to be some healthy concerns around the company's privacy policy,
     specifically what is done with the data being uploaded and how it can be
     used by third parties. I'd use this if I could 100% self-host it
+- [Opinionate.io](https://opinionate.io/) - Have ChatGPT debate itself with a
+  given debate topic
+
+I also keep a list of [computer-generated music](music/computer-generated.md).
