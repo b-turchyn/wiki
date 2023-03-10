@@ -69,6 +69,21 @@ themselves are a means of connecting to him. And the Wikipedia software provides
 the necessary tooling to achieve both the communication amongst the tribe
 members and the means of achieving their goal.
 
+A _crowd_ is different than a _tribe_. Crowds lack leaders and lack
+communication.
+
+Godin argues that having 1,000 [true fans](marketing/true-fan.md) is enough to
+support yourself, and that 1,000 true fans will form a tribe around you and your
+work. Getting even one true fan is difficult and requires engaging with them. Be
+generous and open with them (not unlike what Austin Kleon recommends in
+[Show Your Work!](books/show-your-work.md)). Provide something exceptional and
+novel.
+
+> The party didn't take four minutes to organize; it took four years.
+
+The internet has provided a means of reaching the masses; this means that almost
+anyone has the potential to build something big.
+
 [^1]: Joel was also a co-founder of Stack Overflow, along-side Jeff Atwood.
 [^2]:
     Ignoring the current tailspin the CEO is in and the resulting collateral
