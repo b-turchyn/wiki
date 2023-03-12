@@ -7,7 +7,7 @@ CommonJS as ESmodules are the two main Javascript module systems. CommonJS was
 the initial implementation which worked on [Node](programming/languages/node.md)
 applications only. ESmodules were introduced with ES6 (2015).
 
-## CommonJS
+## CommonJS (CJS)
 
 CommonJS looks like the following:
 
@@ -44,7 +44,7 @@ math.subtract(3, 2);
 CommonJS module files can have the `.cjs` extension to explicitly denote them as
 a CommonJS module.
 
-## ESmodules
+## ESmodules (ESM)
 
 ESmodules, in their `package.json`, have an attribute of `"type": "module"`
 added to them.
@@ -114,3 +114,18 @@ directory with `npm init -y` and serving it with `npx serve`.
 
 This approach to loading modules can definitely work, but the general consensus
 is to use a bundler like Webpack to reduce the number of HTTP requests.
+
+## Universal Module Definition (UMD)
+
+UMD is an API for having Javascript modules run anywhere (server or client).
+It's typically used in bundlers in the event that [ESmodules](#esmodules-esm)
+are not available.
+
+- [UMD](https://github.com/umdjs/umd/), GitHub
+
+## Asynchronous Module Definition (AMD)
+
+AMD is a frontend, asynchronous module definition.
+
+- [AMD documentation](https://requirejs.org/docs/whyamd.html), via
+  [RequireJS](https://requirejs.org/)
