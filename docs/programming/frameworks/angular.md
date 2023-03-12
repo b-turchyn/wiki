@@ -7,12 +7,11 @@ tags:
 # Angular
 
 Angular is an MVC framework built with
-[JavaScript](/programming/languages/javascript.md) and Typescript.
+[JavaScript](/programming/languages/javascript/index.md) and Typescript.
 
 ## Making a Directive Input Required
 
-([source
- information](https://stackoverflow.com/q/35528395))
+([source information](https://stackoverflow.com/q/35528395))
 
 Options:
 
@@ -23,6 +22,7 @@ Options:
    })
    ```
 2. Check required fields during `ngOnInit()` and `ngOnChanges()`
+
    ```ts
    @Component({})
    export class MyComponent implements OnInit, OnChanges {
@@ -30,25 +30,26 @@ Options:
      @Input() b: number;
 
      ngOnInit(): void {
-      this.checkRequiredFields();
+       this.checkRequiredFields();
      }
 
      ngOnChanges(): void {
-      this.checkRequiredFields();
+       this.checkRequiredFields();
      }
 
      checkRequiredFields(): void {
-       this.checkField('a', this.a);
-       this.checkField('b', this.b);
+       this.checkField("a", this.a);
+       this.checkField("b", this.b);
      }
 
      checkField(name: string, input: any): void {
-       if (input === null | input === undefined) {
+       if ((input === null) | (input === undefined)) {
          throw new Error(`Attribute '${name}' is required`);
        }
      }
    }
    ```
+
 3. Create a `Required` decorator
    ```ts
    function Required(target: object, propertyKey: string) {
@@ -63,7 +64,7 @@ Options:
            configurable: true,
          });
        },
-       configurable: true
+       configurable: true,
      });
    }
    ```
@@ -71,4 +72,3 @@ Options:
    ```ts
    @Input @Required a: string;
    ```
-
