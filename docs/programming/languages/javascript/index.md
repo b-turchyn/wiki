@@ -16,9 +16,12 @@ There are lots of awesome JavaScript libraries and resources on
 
 - [Airbnb](https://github.com/airbnb/javascript)
 
-
 Interesting projects written in JavaScript:
 
 - [nthitz/turndownforwhatjs](https://github.com/nthitz/turndownforwhatjs): A
   bookmarklet that embeds a YouTube video of "Turn Down For What" and shakes
   components on the UI around.
+
+## Modules
+
+See: [Javascript Modules](programming/languages/javascript/modules.md)
