@@ -1,7 +1,8 @@
 # JavaScript
 
 There are lots of awesome JavaScript libraries and resources on
-[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript).
+[sorrycc/awesome-javascript](https://github.com/sorrycc/awesome-javascript). See
+[TypeScript](programming/languages/typescript.md) for TypeScript-related things.
 
 ## Frameworks
 
@@ -15,6 +16,8 @@ There are lots of awesome JavaScript libraries and resources on
 ## Style Guides
 
 - [Airbnb](https://github.com/airbnb/javascript)
+- [publint](https://publint.dev/)
+  - Analyzes NPM packages to see if they have been published correctly
 
 Interesting projects written in JavaScript:
 
