@@ -45,6 +45,16 @@ Recommended changes:
 - [Vimified](https://www.vimified.com/)
   ([HN](https://news.ycombinator.com/item?id=32034625))
 
+## Fun Stuff
+
+- [tenderlove/initial-v](https://github.com/tenderlove/initial-v), a BMW shifter
+    which controls which Vim mode you're in by triggering keyboard inputs
+  - [HN comments](https://news.ycombinator.com/item?id=35004828)
+- [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch), a hardware
+    pedal that will move you in and out of insert mode when you press and
+    release the pedal
+
+
 ## References
 
 - [My Dotfiles](https://github.com/b-turchyn/dotfiles), GitHub
