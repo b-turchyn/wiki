@@ -24,3 +24,9 @@ Procedural generation:
     algorithm](https://en.wikipedia.org/wiki/Random_walker_algorithm), Wikipedia
     - I don't understand a lot of the math behind this algorithm yet. I have
       more reading to do here.
+
+Creating game assets:
+
+- [Creating Isometric RPG Game
+    Backgrounds](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
+    ([HN](https://news.ycombinator.com/item?id=34989407))
