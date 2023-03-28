@@ -22,3 +22,9 @@ Inspiration:
   dashboard](https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero%404x.15e3a396.jpg&w=3840&q=75).
   Clean look, high contrast, excellent colour scheme. There are a few areas that
   I would adjust, but that's okay.
+
+Image placeholder libraries:
+
+- [ThumbHash](https://evanw.github.io/thumbhash/)
+- [BlurHash](https://blurha.sh/)
+- An alternative option is to use a WebP file with 0% quality at a very low resolution, and then scaling it back up.

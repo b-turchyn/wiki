@@ -2,6 +2,10 @@
 
 My favourite home automation system.
 
+Collections:
+
+- [Awesome Home Assistant](https://www.awesome-ha.com/)
+
 Interesting integrations:
 
 - [HACS](https://hacs.xyz/) - Home Assistant Community Store. Lots of
