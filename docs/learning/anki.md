@@ -15,3 +15,11 @@ subjects that the community has contributed. Some that I use:
   - The author has created a more comprehensive
     [Japanese Hiragana](https://ankiweb.net/shared/info/195754716) deck with the
     full set of Hiragana characters
+
+## Configuration Changes
+
+Here's my Anki configuration. There are a number of key changes from the default
+values, based on
+[this YouTube video](https://www.youtube.com/watch?v=Eo1HbXEiJxo)
+
+![](anki-settings.png)
