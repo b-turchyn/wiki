@@ -28,6 +28,13 @@ is a good read for those who are looking at getting into streaming.
 - [StreamElements](https://streamelements.com/) - I use this for a chat bot and
   for overlays.
 
+### Stream Automation
+
+- [Aitum](https://aitum.tv)
+- [Lumia Stream](https://lumiastream.com/)
+- [SAMMI](https://sammi.solutions/), formerly
+  [LioranBoard 2](https://github.com/LioranBoard/LioranBoard-2-Official/releases)
+
 ## Development Libraries
 
 - [tmi.js](https://github.com/tmijs/tmi.js) - Javascript library for the Twitch
