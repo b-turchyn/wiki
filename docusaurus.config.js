@@ -171,7 +171,8 @@ const config = {
       'data-domain': 'wiki.brianturchyn.net',
       src: 'https://plausible.io/js/script.outbound-links.js',
     },
-  ]
+  ],
+  clientModules: [require.resolve('./titleChange.ts')]
 };
 
 module.exports = config;
