@@ -37,9 +37,10 @@ const config = {
   themes: [
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
-      {
-        docsRouteBasePath: '/'
-      }
+      ({
+        docsRouteBasePath: '/',
+        hashed: true
+      })
     ]
   ],
   plugins: [
