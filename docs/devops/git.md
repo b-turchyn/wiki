@@ -3,23 +3,28 @@ title: Git
 tags:
   - Tool
 ---
+
 # Git
 
-Interesting reading about Git:
+## Writing Commit Messages
 
-- [Git Notes: Git's Coolest, Most Unloved
-  Feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
+- [Conventional Commits](https://www.conventionalcommits.org/)
+- [Git Commit Conventions](https://gist.github.com/robertpainsi/b632364184e70900af4ab688decf6f53)
+
+## Interesting Reading
+
+- [Git Notes: Git's Coolest, Most Unloved Feature](https://tylercipriani.com/blog/2022/11/19/git-notes-gits-coolest-most-unloved-feature/)
   by [Tyler Cipriani](https://tylercipriani.com/)
 
 ## Aliases
 
 Aliases are managed through [oh-my-zsh](/devops/oh-my-zsh).
 
-* `gcl`: Clone
-* `gl`: Pull
-* `gp`: Push
-* `gst`: Git Status
-* `gc`: Commit
+- `gcl`: Clone
+- `gl`: Pull
+- `gp`: Push
+- `gst`: Git Status
+- `gc`: Commit
 
 ## Push A Specific Commit
 
