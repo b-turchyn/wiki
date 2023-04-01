@@ -1,7 +1,11 @@
 ---
 title: "🎛 Automation"
 ---
+
 # Automation
+
+For [streaming](social-media/streaming.md#stream-automation), I've used Aitum.
+Overall it's pretty good for working with OBS.
 
 ## Applications
 

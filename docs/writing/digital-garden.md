@@ -20,6 +20,10 @@
 - [Andy Matuschak](https://notes.andymatuschak.org/)
 - [Mental Nodes](https://www.mentalnodes.com/a-gardening-guide-for-your-mind)
 - [Eoin Kelly](https://github.com/eoinkelly/notes)
+- [Brad Woods](https://garden.bradwoods.io/)
+  - I found this on Hacker News when someone submitted his link to
+    [Juice](https://garden.bradwoods.io/notes/design/juice) in
+    [design](design/index.md).
 
 ## Software
 
