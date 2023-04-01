@@ -9,6 +9,11 @@ tags:
 Angular is an MVC framework built with
 [JavaScript](/programming/languages/javascript/index.md) and Typescript.
 
+Useful Links:
+
+- [Testing Angular](https://testing-angular.com)
+  - I found this while Googling around for Angular testing best practices.
+
 ## Making a Directive Input Required
 
 ([source information](https://stackoverflow.com/q/35528395))

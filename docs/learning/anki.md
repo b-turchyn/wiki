@@ -16,6 +16,13 @@ subjects that the community has contributed. Some that I use:
     [Japanese Hiragana](https://ankiweb.net/shared/info/195754716) deck with the
     full set of Hiragana characters
 
+Info about Anki and why to use it:
+
+- [Anki-ify Your Life](https://abouttolearn.substack.com/p/anki-fy-your-life),
+  [Moses Liew](https://substack.com/profile/124002016-moses-liew)
+  - [HN Comments](https://news.ycombinator.com/item?id=35209775)
+- [How to write good prompts](https://andymatuschak.org/prompts/)
+
 ## Configuration Changes
 
 Here's my Anki configuration. There are a number of key changes from the default

@@ -6,3 +6,4 @@
   - This was a really good description of what it takes to run a site as big as
     Twitter and what Site Reliability Engineers do. A good guide for
     [DevOps](devops/index.md)
+- [Recurring hashtags](https://business.twitter.com/en/blog/recurring-twitter-hashtags-for-every-day-of-the-week.html)
