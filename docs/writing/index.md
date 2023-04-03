@@ -6,6 +6,8 @@ title: "📝 Writing"
 > "Every writer writes for an audience"
 > ([link](https://youtu.be/aRln8atkNaY?t=212))
 
+- [Just Write](https://robert.bearblog.dev/just-write/), Robert Birming
+
 Some techniques for writing:
 - From [Derek Sivers](https://sive.rs/1s):
   - Write one sentence per line (don't publish this way, but edit this way;
