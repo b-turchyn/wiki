@@ -6,6 +6,7 @@ action, and instead relying on discipline and habit.
 ## My Daily Schedule
 
 I have several key things I want to get done in a given day:
+
 - Exercise
 - [Journal](/writing/journaling.md)
 - Read
@@ -20,8 +21,8 @@ A few key considerations when building your own schedule:
 
 By having a routine, you stop thinking about the individual tasks to be done and
 just start doing the work. This reduces the number of decisions you need to make
-in a given day, helping to prevent [decision
-fatigue](/productivity/decision-fatigue.md).
+in a given day, helping to prevent
+[decision fatigue](/productivity/decision-fatigue.md).
 
 ### Identify The Priorities
 

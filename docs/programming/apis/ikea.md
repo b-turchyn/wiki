@@ -19,11 +19,13 @@ this API are:
   (`70367444`).
 
 Example:
+
 ```
 https://api.ingka.ikea.com/cia/availabilities/ru/ca?itemNos=70367444&expand=StoresList,Restocks,SalesLocations
 ```
 
 cURL Example:
+
 ```bash
 curl
 'https://api.ingka.ikea.com/cia/availabilities/ru/us?itemNos=70367444&expand=StoresList,Restocks,SalesLocations' \

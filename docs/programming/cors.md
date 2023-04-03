@@ -5,6 +5,7 @@ description: |
 tags:
   - HTTP
 ---
+
 # CORS
 
 Cross-Origin Resource Sharing allows a server to indicate who should be allowed

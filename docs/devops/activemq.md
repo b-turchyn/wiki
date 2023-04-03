@@ -7,7 +7,7 @@ aliases:
 # ActiveMQ
 
 ActiveMQ is a message broker owned by the Apache Foundation, written in
-[Java](programming/languages/java.md).
+[Java](programming/languages/java/index.md).
 
 ActiveMQ has two variants: ActiveMQ Classic and ActiveMQ Artemis (AMQ). Red Hat
 also has a proprietary, supported version of AMQ Artemis.

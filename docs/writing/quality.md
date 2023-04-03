@@ -1,17 +1,20 @@
 ---
 ---
+
 # Quality
 
 Three levels of quality:
+
 - Technical quality. Is it built to spec? Are the tolerances good?
 - Luxury quality. Is it highly desired? Is it expensive?
 - Creative magic quality.
 
 Ideally you want to create content that is valuable to your readers. Content is
 valuable if it is:
-* Entertaining
-* Inspiring
-* Educational
+
+- Entertaining
+- Inspiring
+- Educational
 
 ## Distribution
 

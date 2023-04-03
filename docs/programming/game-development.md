@@ -1,6 +1,6 @@
 # Game Development
 
-I'm a big fan of video games. To me, games are interactive art.  Understanding
+I'm a big fan of video games. To me, games are interactive art. Understanding
 the internal mechanics of how games work makes me appreciate them more.
 
 ## Game Engines
@@ -12,21 +12,18 @@ the internal mechanics of how games work makes me appreciate them more.
 ## Resources
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
-- [How to Make a
-  Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
+- [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
   ([archive](https://archive.ph/CTukV))
 
 Procedural generation:
 
-- [How to code your own procedural dungeon map generator using the Random Walk
-  Algorithm](https://www.freecodecamp.org/news/how-to-make-your-own-procedural-dungeon-map-generator-using-the-random-walk-algorithm-e0085c8aa9a/)
-  - [Random walker
-    algorithm](https://en.wikipedia.org/wiki/Random_walker_algorithm), Wikipedia
+- [How to code your own procedural dungeon map generator using the Random Walk Algorithm](https://www.freecodecamp.org/news/how-to-make-your-own-procedural-dungeon-map-generator-using-the-random-walk-algorithm-e0085c8aa9a/)
+  - [Random walker algorithm](https://en.wikipedia.org/wiki/Random_walker_algorithm),
+    Wikipedia
     - I don't understand a lot of the math behind this algorithm yet. I have
       more reading to do here.
 
 Creating game assets:
 
-- [Creating Isometric RPG Game
-    Backgrounds](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
-    ([HN](https://news.ycombinator.com/item?id=34989407))
+- [Creating Isometric RPG Game Backgrounds](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
+  ([HN](https://news.ycombinator.com/item?id=34989407))

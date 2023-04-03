@@ -4,6 +4,7 @@
 
   You can stop Vercel from commenting on each deploy by adding an option to
   `vercel.json` in the root of your repository:
+
   ```json
   {
     "github": {
@@ -11,8 +12,8 @@
     }
   }
   ```
-- [Redirect
-  logic](https://vercel.com/guides/does-vercel-support-permanent-redirects)
+
+- [Redirect logic](https://vercel.com/guides/does-vercel-support-permanent-redirects)
   ```json
   {
     "redirects": [

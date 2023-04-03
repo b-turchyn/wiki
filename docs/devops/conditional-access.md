@@ -2,6 +2,7 @@
 tags:
   - Azure
 ---
+
 # Conditional Access
 
 Conditional access is functionality within Azure Active Directory that will
@@ -20,4 +21,3 @@ may be blocked entirely.
 # References
 
 - https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/
-

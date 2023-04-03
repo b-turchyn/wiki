@@ -1,16 +1,17 @@
 ---
 ---
+
 # Golang
 
 - Memory usage can be retrieved using
-  [`runtime.ReadMemStats()`](https://pkg.go.dev/runtime#ReadMemStats) ([Sample
-  Gist](https://gist.github.com/j33ty/79e8b736141be19687f565ea4c6f4226))
+  [`runtime.ReadMemStats()`](https://pkg.go.dev/runtime#ReadMemStats)
+  ([Sample Gist](https://gist.github.com/j33ty/79e8b736141be19687f565ea4c6f4226))
 - Avoid moving data to the heap for a performance improvement. When assigning
   variables, if you can work with the reference to your data rather than copying
-  it out, that reduces heap usage. 
+  it out, that reduces heap usage.
 
-  Compile your code with the `-gcflags=-m` look for occurrences of `moved to
-  heap`. See if you can avoid that.
+  Compile your code with the `-gcflags=-m` look for occurrences of
+  `moved to heap`. See if you can avoid that.
   ([source](https://hmarr.com/blog/go-allocation-hunting/),
   [HN](https://news.ycombinator.com/item?id=33594676))
 
@@ -20,9 +21,8 @@
   - Hasn't been updated since 2009, but the core concepts still remain. Does not
     account for things like `go mod` or any of the new language features.
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
-- [Building a BitTorrent client from the ground up in
-  Go](https://blog.jse.li/posts/torrent/), Jesse Li
-  ([HN](https://news.ycombinator.com/item?id=33495328))
+- [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/),
+  Jesse Li ([HN](https://news.ycombinator.com/item?id=33495328))
 
 ## Useful Frameworks
 

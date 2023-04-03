@@ -11,8 +11,8 @@ tags:
 > people get to where they hope to go. Marketing is work that matters for people
 > who care, a chance to create products and services that lead to change.
 >
-> --Seth Godin, ["Marketing vs.
-> Promotion"](https://seths.blog/2022/06/marketing-vs-promotion/)
+> --Seth Godin,
+> ["Marketing vs. Promotion"](https://seths.blog/2022/06/marketing-vs-promotion/)
 
 If I promote a product or service, that's the equivalent of putting a sign
 outside somewhere while I'm performing that. Marketing is getting others to
@@ -26,9 +26,7 @@ America; the product self-markets my effectively owning the name of the product.
 
 Interesting reads:
 
-- [Why do so many brands change their logos and look like everyone
-  else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
+- [Why do so many brands change their logos and look like everyone else?](https://velvetshark.com/articles/why-do-brands-change-their-logos-and-look-like-everyone-else)
   ([Archive](https://archive.ph/3sNvf))
-- [Ask HN: What made your business take off that you wish you'd done much
-  earlier?](https://news.ycombinator.com/item?id=30329762), Hacker News
-  ([Archive](https://archive.ph/lbwtV))
+- [Ask HN: What made your business take off that you wish you'd done much earlier?](https://news.ycombinator.com/item?id=30329762),
+  Hacker News ([Archive](https://archive.ph/lbwtV))

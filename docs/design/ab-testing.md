@@ -2,6 +2,7 @@
 tags:
   - SEO
 ---
+
 # A/B Testing
 
 A/B testing is when two different design options are tried for a website. Each
@@ -17,7 +18,7 @@ registrations.
 
 Ideas you have with a medium amount of confidence should be A/B tested. If your
 confidence is low in an idea, gather more evidence and postpone testing it. If
-your confidence is very high in an idea, then just implement the idea. 
+your confidence is very high in an idea, then just implement the idea.
 
 ## Prioritizing testing
 
@@ -32,6 +33,6 @@ In other words: aim for maximum
 
 ## References
 
-- [Should You A/B Test Your Idea, Or
-  Not?](https://goodui.org/blog/should-you-ab-test-your-idea-or-not/) (GoodUI)
+- [Should You A/B Test Your Idea, Or Not?](https://goodui.org/blog/should-you-ab-test-your-idea-or-not/)
+  (GoodUI)
 - [What To A/B Test Next](https://goodui.org/blog/what-to-test-next/) (GoodUI)

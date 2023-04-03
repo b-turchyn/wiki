@@ -1,12 +1,14 @@
 ---
 sidebar_position: 0
 title: 🏠 Home
-description: "An ever-changing digital garden of notes and information I find interesting"
+description:
+  "An ever-changing digital garden of notes and information I find interesting"
 ---
 
 # Everything I Know
 
-> "If it's worth caring about, it's worth writing down." -- [Seth Godin](https://seths.blog/2022/07/a-good-spec/)
+> "If it's worth caring about, it's worth writing down." --
+> [Seth Godin](https://seths.blog/2022/07/a-good-spec/)
 
 A collection of random notes.
 
@@ -30,9 +32,9 @@ Some articles you may find interesting:
 I can be found online in the following locations:
 
 - [My personal website](https://brianturchyn.net), of which there's a weekly
-    newsletter
+  newsletter
 - On [Twitter](https://twitter.com/btwritescode) and
-    [Mastodon](https://mastodon.social/@btwritescode)
+  [Mastodon](https://mastodon.social/@btwritescode)
 - On [GitHub](https://github.com/b-turchyn)
 
 My identity can be verified through [Keybase](https://keybase.io/bturchyn).
@@ -45,19 +47,19 @@ My identity can be verified through [Keybase](https://keybase.io/bturchyn).
 - ~~Overriding header IDs to match Obsidian's auto-complete style
   ([source](https://github.com/b-turchyn/wiki/blob/main/src/plugins/section-prefix.js))~~
   Disabled for now since I use [Vim](devops/vim.md) for editing this instead of
-  [Obsidian](https://obsidian.md). Waiting for [GFM-style slugs to be
-  supported](https://forum.obsidian.md/t/support-gfm-style-kebab-case-heading-slug-anchor-targets/30350)
+  [Obsidian](https://obsidian.md). Waiting for
+  [GFM-style slugs to be supported](https://forum.obsidian.md/t/support-gfm-style-kebab-case-heading-slug-anchor-targets/30350)
 - Smartypants support using
   [@silvenon/remark-smartypants](https://github.com/silvenon/remark-smartypants)
 - Local search using
   [easyops-cn/docusaurus-search-local](https://github.com/easyops-cn/docusaurus-search-local)
-- [Additional syntax
-  highlighting](https://docusaurus.io/docs/markdown-features/code-blocks#supported-languages)
+- [Additional syntax highlighting](https://docusaurus.io/docs/markdown-features/code-blocks#supported-languages)
   added to theme configuration
 - `utm_source` added to all external URLs via
   [brechtcs/rehype-urls](https://github.com/brechtcs/rehype-urls)
 
-[^1]: [Instructions](https://docusaurus.io/docs/markdown-features/math-equations)
+[^1]:
+    [Instructions](https://docusaurus.io/docs/markdown-features/math-equations)
 
 ## Contributing
 
@@ -75,10 +77,10 @@ The expectations:
 
 Some notes for "future Brian":
 
-* Clone the repository
-* Run `git submodule update --init` to grab Obsidian config (if you have access
+- Clone the repository
+- Run `git submodule update --init` to grab Obsidian config (if you have access
   😉)
-* Contribute!
+- Contribute!
 
 ## Deployment
 

@@ -10,8 +10,7 @@ Artists I like:
 
 Machine Learning and AI-driven image generation:
 
-- [My blog post on the ethics of ML-based image
-  generation](https://brianturchyn.net/the-ethics-of-machine-learning/)
+- [My blog post on the ethics of ML-based image generation](https://brianturchyn.net/the-ethics-of-machine-learning/)
 - Image Generation:
   - [Craiyon](https://www.craiyon.com/), formerly DALL-E Mini
   - [DALL-E](https://labs.openai.com/)
@@ -25,10 +24,9 @@ Machine Learning and AI-driven image generation:
 Random things:
 
 - The cracks that form in old pieces of art are called
-  [craquelure](https://en.wikipedia.org/wiki/Craquelure). ([Phil Edwards video
-  on it](https://www.youtube.com/watch?v=BcVNGeWmd6I))
-- [Isometric Pixel
-  Art](https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art),
+  [craquelure](https://en.wikipedia.org/wiki/Craquelure).
+  ([Phil Edwards video on it](https://www.youtube.com/watch?v=BcVNGeWmd6I))
+- [Isometric Pixel Art](https://www.slynyrd.com/blog/2022/11/28/pixelblog-41-isometric-pixel-art),
   Raymond Schlitter
 
 ## Tattoo Artists

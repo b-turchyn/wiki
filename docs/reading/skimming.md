@@ -1,13 +1,15 @@
 ---
-description: "How to learn as much as possible about a book in a short, limited time"
+description:
+  "How to learn as much as possible about a book in a short, limited time"
 ---
+
 # Skimming
 
 The goal of skimming, or _pre-reading_, is to learn as much about the general
 concepts of a book as possible with a limited time -- far less time than would
 be required to read the book. It is the second phase of learning to read a book,
-referred to as _inspectional reading_ in the book [How To Read A
-Book](/books/how-to-read-a-book.md).
+referred to as _inspectional reading_ in the book
+[How To Read A Book](/books/how-to-read-a-book.md).
 
 Steps:
 
@@ -25,10 +27,10 @@ Steps:
    opening and closing paragraphs of the chapters that you believe are the most
    crucial to the book's arguments. The book [Effortless](/books/effortless.md)
    had a point-form summary of each chapter and the book up until that point at
-   the end of each chapter and section, respectively. 
+   the end of each chapter and section, respectively.
 6. Jump in and out of the book, reading a few paragraph or pages here and there.
    In addition to this, look for a summary chapter or epilogue where tho author
-   will almost certainly summarize their book's main talking points. 
+   will almost certainly summarize their book's main talking points.
 
    This approach came from [How To Read A Book](/books/how-to-read-a-book.md),
    which first came out in the 1940s; for this random jumping around, is there a

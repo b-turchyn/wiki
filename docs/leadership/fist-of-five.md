@@ -3,8 +3,8 @@
 The Fist of Five is a technique for quickly evaluating how people feel about a
 particular topic. Two common uses for it are:
 
- 1. Assessing comfort level with a decision or design
- 2. Assessing how effective people felt a meeting was
+1.  Assessing comfort level with a decision or design
+2.  Assessing how effective people felt a meeting was
 
 In in-person discussions, this is simply done by everyone raising their hand
 with between zero and five fingers out. No fingers out is the equivalent of a
@@ -20,6 +20,5 @@ This voting technique is common in [Agile](/devops/scrum.md) development.
 
 ## References
 
-[What is fist to
-five?](https://www.techtarget.com/whatis/definition/fist-to-five-fist-of-five),
+[What is fist to five?](https://www.techtarget.com/whatis/definition/fist-to-five-fist-of-five),
 TechTarget

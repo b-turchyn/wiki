@@ -2,6 +2,7 @@
 tags:
   - Psychology
 ---
+
 # Self-Image
 
 Your self-image is how you see yourself. How you see yourself impacts how you

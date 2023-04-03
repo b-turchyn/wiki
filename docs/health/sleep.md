@@ -2,12 +2,13 @@
 tags:
   - Incomplete
 ---
+
 # Sleep
 
 Sleep is critical to be able to function at your peak level and to be
 [happy](/health/mental-health/happiness.md). Adults should aim for roughly 8
-hours of sleep per night. There seems to be valid reasons for [waking up
-early](waking-up-early.md).
+hours of sleep per night. There seems to be valid reasons for
+[waking up early](waking-up-early.md).
 
 ## Sleep Calculators
 

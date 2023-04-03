@@ -2,6 +2,7 @@
 tags:
   - Novelty/Medium
 ---
+
 # Journaling
 
 Journaling can have a positive impact on your life when done properly. You set
@@ -28,11 +29,11 @@ to reflect on them, helping you to reason through them.
 
 ## Getting Started
 
-* Use [habit-forming techniques](/psychology/habits.md) to get started and keep
+- Use [habit-forming techniques](/psychology/habits.md) to get started and keep
   contributing.
-* Write 2-3 sentences a day to start. Contribute only as much as you feel like;
+- Write 2-3 sentences a day to start. Contribute only as much as you feel like;
   you will contribute more over time.
-* Start with talking about key things that happened during the day so you can
+- Start with talking about key things that happened during the day so you can
   reflect back on them later.
 
 ## Digital vs Physical
@@ -40,25 +41,28 @@ to reflect on them, helping you to reason through them.
 I have personally found that journaling in a physical notebook to me more
 effective for me. Because I write slower than I type, I have time to think
 things through while writing. Phones and computers also are distraction
-machines, and so without those in front of me I am able to [focus better](/productivity/focus.md).
+machines, and so without those in front of me I am able to
+[focus better](/productivity/focus.md).
 
-I have used a [Rhodia Webbie Dot Grid A5
-notebook](https://www.amazon.ca/dp/B006CQSRDS/), and will be trying out a
+I have used a
+[Rhodia Webbie Dot Grid A5 notebook](https://www.amazon.ca/dp/B006CQSRDS/), and
+will be trying out a
 [Leuchtturm1917 Medium A5 Dotted notebook](https://www.amazon.ca/dp/B002TSIMW4/)
 next. While you can use any kind of paper, I find that using something that's
-[high quality](/writing/quality.md) incentivizes me to journal more; this triggers the ["make it
-fun"](/psychology/habits.md#Forming%20Habits) aspect of habit forming.
+[high quality](/writing/quality.md) incentivizes me to journal more; this
+triggers the ["make it fun"](/psychology/habits.md#Forming%20Habits) aspect of
+habit forming.
 
 ## Apps
 
 I have, at one point or another, used the following apps:
 
-* [Daylio](https://daylio.net/) (Android, iOS). I still use this. Local phone
+- [Daylio](https://daylio.net/) (Android, iOS). I still use this. Local phone
   storage with cloud backup. Good for doing frequent check-ins with how you're
   generally feeling. 1-5 scale of how you're feeling, then you can tag that with
   activities. Takes me less than a minute a few times a day. I don't use the
   freeform section of this.
-* [Day One](https://dayoneapp.com/) (Android, iOS). I don't use this any more. I
+- [Day One](https://dayoneapp.com/) (Android, iOS). I don't use this any more. I
   learned about this app from an Ali Abdaal video. The Android version seems to
   not get a lot of love, as the website barely advertises it. I ran into issues
   when it came to tagging. Occasionally what I wrote would get removed (as of
@@ -69,6 +73,7 @@ I have, at one point or another, used the following apps:
 
 Sourced from the Daily Stoic Podcast, March 20 2022 (7 Ways Marcus Aurelius Will
 Help You Journal Like A Pro)
+
 1. Prepare in the morning. Journal in the morning. Look at what today will bring
    and how you will respond.
 2. Keep it to yourself. The content is for you and you only.
@@ -85,10 +90,9 @@ Help You Journal Like A Pro)
 
 ## References
 
-- [Why I started journaling](https://herman.bearblog.dev/why-i-journal/),
-  Herman Martinus
-- [How I finally get daily journaling done with a workflow on my
-  iPhone](https://michael.team/journal/), Michael Sliwinski
-- [7 Ways Marcus Arelius Will Help You Journal Like A
-  Pro](https://open.spotify.com/episode/2Pd8FVETCKTsZJEDanxgRT?si=eee3daf897ca4f0a),
+- [Why I started journaling](https://herman.bearblog.dev/why-i-journal/), Herman
+  Martinus
+- [How I finally get daily journaling done with a workflow on my iPhone](https://michael.team/journal/),
+  Michael Sliwinski
+- [7 Ways Marcus Arelius Will Help You Journal Like A Pro](https://open.spotify.com/episode/2Pd8FVETCKTsZJEDanxgRT?si=eee3daf897ca4f0a),
   Daily Stoic Podcast

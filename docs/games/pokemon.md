@@ -1,5 +1,6 @@
 ---
 ---
+
 # Pokémon
 
 I first started playing Pokemon as a child when the Red and Blue versions came
@@ -8,16 +9,16 @@ own a few other versions as well, but the original hold a special place for me.
 
 ## Mods, Randomizers, and More
 
-- [Pokemon Infinite
-  Fusion](https://www.pokemoncoders.com/pokemon-infinite-fusion/) is a
-  Windows-only fan creation that takes the concept of the [Pokemon Fusion
-  Generator](https://pokemon.alexonsager.net) and brings it into the game by
-  adding fusing of Pokemon as a core game mechanic. 
-- The [Pokemon Coders](https://www.pokemoncoders.com/) has [a list of ROM
-  hacks](https://www.pokemoncoders.com/pokemon-rom-hacks/) made by fans.
-- I have used the [Universal Pokemon Game
-  Randomizer](https://pokehacks.dabomstew.com/randomizer/) to play
-  [Nuzlocke](#nuzlockes) runs.
+- [Pokemon Infinite Fusion](https://www.pokemoncoders.com/pokemon-infinite-fusion/)
+  is a Windows-only fan creation that takes the concept of the
+  [Pokemon Fusion Generator](https://pokemon.alexonsager.net) and brings it into
+  the game by adding fusing of Pokemon as a core game mechanic.
+- The [Pokemon Coders](https://www.pokemoncoders.com/) has
+  [a list of ROM hacks](https://www.pokemoncoders.com/pokemon-rom-hacks/) made
+  by fans.
+- I have used the
+  [Universal Pokemon Game Randomizer](https://pokehacks.dabomstew.com/randomizer/)
+  to play [Nuzlocke](#nuzlockes) runs.
 
 ## Nuzlockes
 
@@ -52,4 +53,3 @@ Some PokeLink resources:
 
 - [Cysha/pokelink-web](https://github.com/Cysha/pokelink-web) contains different
   themes available as web sources for PokeLink.
-

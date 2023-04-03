@@ -2,6 +2,7 @@
 tags:
   - Azure
 ---
+
 # Management Group
 
 A managament group manages access, policies, and compliance across multiple

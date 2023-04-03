@@ -67,5 +67,4 @@ Shift your weight back and forth, toward your heels.
 
 # References
 
-- [GMB Wrist Strengthening
-  Cheatsheet](https://www.dropbox.com/s/rmuwe05ufkxdici/GMB%20Wrist%20Strengthening%20Cheatsheet.pdf?dl=0&__s=ueqithmabdswqb30i2u3)
+- [GMB Wrist Strengthening Cheatsheet](https://www.dropbox.com/s/rmuwe05ufkxdici/GMB%20Wrist%20Strengthening%20Cheatsheet.pdf?dl=0&__s=ueqithmabdswqb30i2u3)

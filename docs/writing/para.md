@@ -2,11 +2,12 @@
 tags:
   - Productivity
 ---
+
 # PARA Method
 
 - PARA is a method for organizing digital information
-  - Does this make sense to apply to a [digital
-    garden](writing/digital-garden.md)?
+  - Does this make sense to apply to a
+    [digital garden](writing/digital-garden.md)?
 - Defined by [Tiago Forte](https://fortelabs.co/)
 - _PARA_ stands for **P**rojects, **A**reas, **R**esources, **A**rchives
 

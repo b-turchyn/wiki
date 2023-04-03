@@ -22,6 +22,11 @@ I also keep a list of [computer-generated music](music/computer-generated.md).
 AI projects for fun:
 
 - [Future](https://future.attejuvonen.fi/), a dystopian text adventure.
-    ([GitHub](https://github.com/baobabKoodaa/future))
+  ([GitHub](https://github.com/baobabKoodaa/future))
 - [Opinionate.io](https://opinionate.io/) - Have ChatGPT debate itself with a
   given debate topic
+
+Interesting articles about AI:
+
+- [Using ChatGPT to make Bash palatable](https://brev.dev/blog/ai-wont-replace-you-write-bash),
+  [Nader Khalil](https://twitter.com/naderlikeladder)

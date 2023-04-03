@@ -2,6 +2,7 @@
 tags:
   - Idioms
 ---
+
 # Juice-to-Squeeze Ratio
 
 Juice-to-Squeeze is a saying I use to describe the ratio between effort and

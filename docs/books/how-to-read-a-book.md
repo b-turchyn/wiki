@@ -2,6 +2,7 @@
 tags:
   - Incomplete
 ---
+
 # How To Read A Book
 
 Authors: Mortimer J. Adler and Charles Van Doren
@@ -37,14 +38,15 @@ Authors: Mortimer J. Adler and Charles Van Doren
 There are four different levels of reading:
 
 1. Elementary reading. Can you recognize the letters and words on the page? What
-   does the sentence say? (See: [Learning To
-   Read](/reading/learning-to-read.md))
+   does the sentence say? (See:
+   [Learning To Read](/reading/learning-to-read.md))
 2. Inspectional reading. The goal with this style is to skim the book as fast as
    possible, and get a feel for high-level questions about the text. What is the
    structure of the book? What kind of book is it? Much of this information can
    be gained simply by looking at the table of contents.
 
    See: [Skimming](/reading/skimming.md)
+
 3. Analytical reading. Thorough reading, with an unlimited amount of time. This
    is very active reading, and is the minimum level required to _understand_ the
    contents of what you're reading. The previous two levels simply aren't active
@@ -55,8 +57,8 @@ There are four different levels of reading:
    may not be in any of the books, but you have understood enough to be able to
    produce a new take on things.
 
-Any level of reading above elementary reading requires [active
-reading](/reading/active-reading.md); without active reading, we will never
-achieve the other levels. This active reading can be facilitated with pencil
-in-hand, writing in the book. Underline, ask questions, reference other pages,
-and so on.
+Any level of reading above elementary reading requires
+[active reading](/reading/active-reading.md); without active reading, we will
+never achieve the other levels. This active reading can be facilitated with
+pencil in-hand, writing in the book. Underline, ask questions, reference other
+pages, and so on.

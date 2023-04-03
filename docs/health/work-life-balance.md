@@ -32,4 +32,3 @@ the day.
   regularly-scheduled amount? Is the total amount going down month-to-month?
 - Time Off. When was the last time you took vacation? Do you have vacation
   scheduled? If not, schedule time off.
-

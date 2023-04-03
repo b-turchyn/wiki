@@ -2,11 +2,13 @@
 tags:
   - Incomplete
 ---
+
 # Writing Styles
 
 ## Starting Off
 
-- Classism encourages us to write poetically like how old philosophers or playwrights used to
+- Classism encourages us to write poetically like how old philosophers or
+  playwrights used to
   - See: the quotes that are in The Daily Stoic
 - Start simple
 - Focus on writing clearly: the _fundamentals_ first
@@ -30,7 +32,7 @@ tags:
 ## Editing
 
 _TODO_
-  
+
 ## References
 
 - [How To Write Like An Amazonian](https://preview.mailerlite.com/o7j1g2p9d0)

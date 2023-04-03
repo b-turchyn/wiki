@@ -3,6 +3,7 @@
 Collections of configuration files, typically used on \*nix-based environments.
 
 Some interesting dotfiles:
+
 - [Mine!](https://github.com/b-turchyn/dotfiles)
 - [Ben Orenstein (r00k)](https://github.com/r00k/dotfiles)
   - His talk on [Expert-Level Vim](https://youtu.be/SkdrYWhh-8s) is still one of

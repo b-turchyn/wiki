@@ -2,6 +2,7 @@
 tags:
   - Untools.co
 ---
+
 # Minto Pyramid
 
 A Minto Pyramid is a way to effectively communicate an idea in the most
@@ -11,6 +12,7 @@ efficient way possible.
 
 To successfully use the Minto Pyramid, communicate your ideas in the following
 order:
+
 1. Conclusion first. Lead with the punchline. Those reading what you've written
    should not have to wait until the end to understand what you want.
 2. Provide the key points. You have reasons for your conclusion; back up each of

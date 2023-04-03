@@ -2,6 +2,7 @@
 tags:
   - Incomplete
 ---
+
 # Decision Fatigue
 
 Decision fatigue is the idea that, as your day progresses, you are less likely

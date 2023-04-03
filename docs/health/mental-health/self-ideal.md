@@ -2,6 +2,7 @@
 tags:
   - Psychology
 ---
+
 # Self-Ideal
 
 Your self-ideal is composed of the values you most admire in others and most

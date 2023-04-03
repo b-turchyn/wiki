@@ -10,8 +10,8 @@ lag.
 Some reasons why you may want to wake up early. If none of these fit you, then
 perhaps waking up early isn't for you.
 
-_Sourced from Lefie's video [WHY wake up at
-4am?](https://www.youtube.com/watch?v=2lkSngu9nSM)_
+_Sourced from Lefie's video
+[WHY wake up at 4am?](https://www.youtube.com/watch?v=2lkSngu9nSM)_
 
 1. You aren't as physically active as you'd like to be. You will have the most
    discipline and willpower when you first wake up.
@@ -28,4 +28,4 @@ _Sourced from Lefie's video [WHY wake up at
    dislike mornings for (more prep time, time to de-stress, etc).
 
 I like the idea of waking up early, although my schedule doesn't always allow
-for it. I have to work late sometimes, or social activities go later. 
+for it. I have to work late sometimes, or social activities go later.

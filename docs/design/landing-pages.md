@@ -2,6 +2,7 @@
 tags:
   - SEO
 ---
+
 # Landing Pages
 
 Some key areas to focus on when building a good landing page:
@@ -18,20 +19,20 @@ Some key areas to focus on when building a good landing page:
    Without the context of a flashy landing page, what you write should still
    make sense.
    > "Don’t address your readers as though they were gathered together in a
-   stadium. When people read your copy, they are alone. Pretend you are writing
-   to each of them a letter on behalf of your client."
+   > stadium. When people read your copy, they are alone. Pretend you are
+   > writing to each of them a letter on behalf of your client."
    >
    > --David Ogilvy
-5. Your content above [the fold](/design/the-fold.md) needs to be good enough
-   so that you "earn" the user scrolling further down the page.
+5. Your content above [the fold](/design/the-fold.md) needs to be good enough so
+   that you "earn" the user scrolling further down the page.
    > To earn the scroll, your above the fold must include these elements:
-   > 
+   >
    > - A value-focused headline
    > - A complimentary sub-headline
    > - A product photo
    > - Social Proof
    > - Next Step
-   > 
+   >
    > When done right, you subconsciously tell the consumer that the value
    > continues.
 

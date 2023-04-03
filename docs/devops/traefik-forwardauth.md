@@ -2,10 +2,10 @@
 tags:
   - DevOps Cookbook
 ---
+
 # Traefik ForwardAuth Support with Keycloak
 
-:::info
-Original blog post over on
+:::info Original blog post over on
 [BrianTurchyn.net](https://brianturchyn.net/traefik-forwardauth-support-with-keycloak/)
 :::
 
@@ -20,8 +20,8 @@ Original blog post over on
 
 - A signing secret for the ForwardAuth container. This can be any random string.
 - The realm provider URI. This URI will have `/.well-known/openid-configuration`
-  appended to it to retrieve the OIDC configuration from your identity
-  provider, so be sure to have this available.
+  appended to it to retrieve the OIDC configuration from your identity provider,
+  so be sure to have this available.
 - Realm Client ID (this will be created below)
 - Realm Client Secret (this will be created below)
 - Traefik’s Docker network name (assuming traefik-webgateway for this guide)
@@ -49,8 +49,8 @@ Assuming you are using Keycloak, you should be able to use the following steps:
    - Access Type: `confidential`
    - Valid Redirect URIs: Add each domain you want to authenticate against with
      `/_oauth` set as the path (example: `https://example.com/_oauth`)
-5. Navigate to the "Credentials" tab. Get the value in the "Secret" field.
-   This is your client secret, required below.
+5. Navigate to the "Credentials" tab. Get the value in the "Secret" field. This
+   is your client secret, required below.
 
 ### Assign client scopes to your client
 
@@ -63,8 +63,8 @@ less depending on your configuration. (Is yours different? Let me know in the
 2. Select "Clients", then select the client you created above
 3. In the "Realm Scopes" section, select each of the scopes above from the list
    of available scopes, then click "Add Selected" (note: depending on your
-   configuration, those scopes could be either in the "Default Client Scopes"
-   or "Optional Client Scopes" section).
+   configuration, those scopes could be either in the "Default Client Scopes" or
+   "Optional Client Scopes" section).
 
 ![Configuration of client scopes within Keycloak](./traefik-forwardauth-scopes.png)
 
@@ -87,26 +87,26 @@ in the `ENCRYPTION_KEY` configuration below.
 #### Create a new container definition
 
 ```yaml
-  forwardauth:
-    image: mesosphere/traefik-forward-auth
-    networks:
-      - webgateway
-    environment:
-      - SECRET=<signing-secret>
-      - PROVIDER_URI=https://<your-domain>/auth/realms/btdev
-      - CLIENT_ID=<client-id>
-      - CLIENT_SECRET=<client-secret>
-      - ENCRYPTION_KEY=<encryption-key>
-    labels:
-      - "traefik.enable=true"
-      - "traefik.docker.network=traefik_webgateway"
-      - "traefik.http.services.forwardauth.loadbalancer.server.port=4181"
-      - "traefik.http.routers.forwardauth.entrypoints=websecure"
-      - "traefik.http.routers.forwardauth.rule=Path(`/_oauth`)"
-      - "traefik.http.routers.forwardauth.middlewares=traefik-forward-auth"
-      - "traefik.http.middlewares.traefik-forward-auth.forwardauth.address=http://forwardauth:4181"
-      - "traefik.http.middlewares.traefik-forward-auth.forwardauth.authResponseHeaders=X-Forwarded-User"
-      - "traefik.http.middlewares.traefik-forward-auth.forwardauth.trustForwardHeader=true"
+forwardauth:
+  image: mesosphere/traefik-forward-auth
+  networks:
+    - webgateway
+  environment:
+    - SECRET=<signing-secret>
+    - PROVIDER_URI=https://<your-domain>/auth/realms/btdev
+    - CLIENT_ID=<client-id>
+    - CLIENT_SECRET=<client-secret>
+    - ENCRYPTION_KEY=<encryption-key>
+  labels:
+    - "traefik.enable=true"
+    - "traefik.docker.network=traefik_webgateway"
+    - "traefik.http.services.forwardauth.loadbalancer.server.port=4181"
+    - "traefik.http.routers.forwardauth.entrypoints=websecure"
+    - "traefik.http.routers.forwardauth.rule=Path(`/_oauth`)"
+    - "traefik.http.routers.forwardauth.middlewares=traefik-forward-auth"
+    - "traefik.http.middlewares.traefik-forward-auth.forwardauth.address=http://forwardauth:4181"
+    - "traefik.http.middlewares.traefik-forward-auth.forwardauth.authResponseHeaders=X-Forwarded-User"
+    - "traefik.http.middlewares.traefik-forward-auth.forwardauth.trustForwardHeader=true"
 ```
 
 This does a few things:
@@ -114,8 +114,8 @@ This does a few things:
 1. Creates the ForwardAuth container with the needed configuration (via
    `environment` variables), defined as `forwardauth` in the router
    configuration
-2. Announces the container to Traefik and makes it accessible via any domain
-   via the `/_oauth` path
+2. Announces the container to Traefik and makes it accessible via any domain via
+   the `/_oauth` path
 3. Defines a new middleware called `traefik-forward-auth` which will be used by
    other containers to route authentication requests through
 
@@ -140,10 +140,12 @@ the following labels to it, then re-deploy that container:
 ## Troubleshooting
 
 ### Getting Extra Information
+
 Set the `LOG_LEVEL` environment variable to `debug` or `trace` for additional
 log information, and then re-deploy your container.
 
 ### Bad Gateway Error
+
 You may receive an error where the error message "Bad Gateway" is displayed.
 This is likely accompanied by the URL having changed and having an error in it
 that mentions invalid scopes:
@@ -160,6 +162,7 @@ above.
 ### Invalid Key Size Error
 
 ForwardAuth may display the following error in its logs:
+
 ```
 error generating secure session cookie: securecookie: error - caused by: crypto/aes: invalid key size 0
 ```
@@ -169,6 +172,7 @@ has been renamed to `ENCRYPTION_KEY` and is now required. Provide an encryption
 key in your environment variables.
 
 ## Changelog
+
 - 2021-08-01: Published.
 - 2022-01-16: Added section on assigning client scopes, based on provided
   feedback from [@pbitante](https://github.com/pbitante) and

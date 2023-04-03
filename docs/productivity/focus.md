@@ -17,6 +17,5 @@ ups and downs, just like any sort of training and exercise, physical or mental.
 
 ## References
 
-- [You're not supposed to be good at focusing out of the
-  gate](https://blog.rescuetime.com/youre-not-supposed-to-be-good-at-focusing-out-of-the-gate/),
+- [You're not supposed to be good at focusing out of the gate](https://blog.rescuetime.com/youre-not-supposed-to-be-good-at-focusing-out-of-the-gate/),
   RescueTime

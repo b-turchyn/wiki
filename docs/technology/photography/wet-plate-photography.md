@@ -2,6 +2,7 @@
 tags:
   - Photography
 ---
+
 # Wet Plate Photography
 
 Wet plate photography was one of the earliest forms of photography. The name
@@ -22,6 +23,5 @@ This emulsion contained silver halides, which reacted when exposed to light.
 
 # References
 
-- ["What is Wet Plate Photography? (And How to Do It
-  Yourself)"](https://expertphotography.com/wet-plate-photography/)
+- ["What is Wet Plate Photography? (And How to Do It Yourself)"](https://expertphotography.com/wet-plate-photography/)
   - Annoying popup warning

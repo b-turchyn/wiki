@@ -2,6 +2,7 @@
 tags:
   - Azure
 ---
+
 # Resource Locks
 
 Resource locks are used in Azure Active Directory to prevent accidental

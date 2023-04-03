@@ -3,6 +3,7 @@ title: Pipeline Design Pattern
 description: |
   Description of the Pipeline design pattern with an example written in Java
 ---
+
 # Pipeline
 
 The Pipeline is a design pattern used to process data through a series of steps.
@@ -22,7 +23,7 @@ additional steps can be included.
 /**
  * A Step describes just that: a <em>step</em> in the pipeline. The Input and
  * Output types are defined by the I and O generics for compile-time validation.
- * 
+ *
  * A pipeline's steps do not have to have the same input and output types.
  */
 interface Step<I, O> {
@@ -86,6 +87,5 @@ public class UsageExample {
 
 - [Pipeline](https://java-design-patterns.com/patterns/pipeline/), Java Design
   Patterns
-- [The Pipeline Design
-  Pattern](https://medium.com/@bonnotguillaume/software-architecture-the-pipeline-design-pattern-from-zero-to-hero-b5c43d8a4e60),
+- [The Pipeline Design Pattern](https://medium.com/@bonnotguillaume/software-architecture-the-pipeline-design-pattern-from-zero-to-hero-b5c43d8a4e60),
   Guillaume Bonnot

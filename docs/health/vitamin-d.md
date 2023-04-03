@@ -2,6 +2,7 @@
 tags:
   - Vitamins
 ---
+
 # Vitamin D
 
 The main source of vitamin D is via UVB radiation; typically this is from the
@@ -19,5 +20,5 @@ but not enough to recommend vitamin D as a universal treatment.
 
 - [Vitamin D](https://en.wikipedia.org/wiki/Vitamin_D), via Wikipedia
 
-[^1]: [Vitamin D and Depression: A Critical Appraisal of the Evidence and Future
-Directions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)
+[^1]:
+    [Vitamin D and Depression: A Critical Appraisal of the Evidence and Future Directions](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6970300/)

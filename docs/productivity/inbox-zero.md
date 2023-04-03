@@ -5,6 +5,7 @@ have no items in it. The goal is to action each email enough that it gets moved
 into the correct place.
 
 Each item that comes in should be actioned as follows:
+
 - Unsubscribed from, if it's some sort of mass mailing that you don't absolutely
   need.
 - Archive or delete it

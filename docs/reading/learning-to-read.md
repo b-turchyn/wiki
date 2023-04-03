@@ -3,7 +3,7 @@
 Reading in the United States has been taught in a number of different ways.
 Until the late 1800's, an "ABC"-style of teaching was used. Students would learn
 to sound out each letter. After that, students would learn two-letter syllables
-and how they sound, then three-letter syllables, and so on. 
+and how they sound, then three-letter syllables, and so on.
 
 Two alternative methods of teaching children to read came out of this:
 

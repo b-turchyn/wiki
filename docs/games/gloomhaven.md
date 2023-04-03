@@ -1,6 +1,7 @@
 # Gloomhaven
 
 Campaigns are saved in one of two places on Windows:
+
 - `C:\Users\<username>\AppData\LocalLow\FlamingFowlStudios\Gloomhaven\GloomSaves`
 - `C:\Users\<username>\AppData\LocalLow\FlamingFowlStudios\Gloomhaven\GloomSavesBeta`
 

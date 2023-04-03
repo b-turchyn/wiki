@@ -6,8 +6,7 @@ into webpages.
 
 ## Recommended Userscripts
 
-- [Favicons for Hacker
-  News](https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a?permalink_comment_id=4139524#gistcomment-4139524)
+- [Favicons for Hacker News](https://gist.github.com/frabert/48b12088441f6195ea9292c2a5a77e3a?permalink_comment_id=4139524#gistcomment-4139524)
 
 ## Userscript Plugins
 

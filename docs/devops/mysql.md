@@ -2,18 +2,19 @@
 tags:
   - Databases
 ---
+
 # MySQL
 
 ## Differences between MySQL and MariaDB
 
 - An official list, maintained by MariaDB, is located in their knowledgebase:
-  [Compatibility &
-  Differences](https://mariadb.com/kb/en/compatibility-differences/)
+  [Compatibility & Differences](https://mariadb.com/kb/en/compatibility-differences/)
 
 ### SubSelects
 
 MariaDB only sees references one level up from its current scope. For example,
 the following will work in MySQL, but not in MariaDB:
+
 ```sql
 SELECT posts.*,
   (WITH c AS (
@@ -26,6 +27,7 @@ SELECT posts.*,
 
 This query is functionally equivalent and compatible with both MariaDB and
 MySQL.
+
 ```sql
 SELECT posts.*,
   (WITH c AS (

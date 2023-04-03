@@ -13,4 +13,5 @@ Some podcasts I listen to:
 
 ## Podcasting Software
 
-- [Zencastr](https://zencastr.com) - Seems to run entirely in the browser and will do both audio and video recording.
+- [Zencastr](https://zencastr.com) - Seems to run entirely in the browser and
+  will do both audio and video recording.

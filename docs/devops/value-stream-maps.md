@@ -6,6 +6,7 @@ information, a team should aim to create a process that delivers maximum value
 with minimum waste.
 
 Some values to consider:
+
 - _Process time_ is how long the team spends on tasks that _provide value_.
 - _Total lead time_ is how long it takes the team to get that feature to the
   customer.
@@ -17,6 +18,5 @@ Some values to consider:
 
 ## Resources:
 
-- [Assess process efficiency with value stream
-  maps](https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/4-assess-process-efficiency),
+- [Assess process efficiency with value stream maps](https://docs.microsoft.com/en-us/learn/modules/assess-your-development-process/4-assess-process-efficiency),
   Microsoft Learn

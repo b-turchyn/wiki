@@ -6,8 +6,10 @@ of its use.
 
 Memoization comes from the Latin word "memorandum", meaning "to be remembered".
 
-(Sourced from [Jason Swett's
-post](https://www.codewithjason.com/ruby-memoization/) on memoization)
+(Sourced from
+[Jason Swett's post](https://www.codewithjason.com/ruby-memoization/) on
+memoization)
+
 ```ruby
 class Product
 
@@ -18,7 +20,7 @@ class Product
   def memoized_price
     @memoized_price || expensive_calculation
   end
-  
+
   def expensive_calculation
     sleep 1
     500

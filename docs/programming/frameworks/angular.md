@@ -13,6 +13,9 @@ Useful Links:
 
 - [Testing Angular](https://testing-angular.com)
   - I found this while Googling around for Angular testing best practices.
+- [Showing a loading spinner delayed with rxjs](https://ckjaersig.dk/2020/05/showing-a-loading-spinner-delayed-with-rxjs/)
+  - I used this while working on [CallToAr.ms](https://calltoar.ms). Such a
+    simple, elegant design.
 
 ## Making a Directive Input Required
 

@@ -9,8 +9,8 @@ effectively.
 
 ## Elizabeth Filips
 
-_Sourced from Elizabeth's video [Become a Better Reader in 8
-Minutes](https://www.youtube.com/watch?v=2I44oMVd4Cw)_
+_Sourced from Elizabeth's video
+[Become a Better Reader in 8 Minutes](https://www.youtube.com/watch?v=2I44oMVd4Cw)_
 
 Each page of book notes should contain the following sections:
 
@@ -19,16 +19,18 @@ Each page of book notes should contain the following sections:
    the book that speaks to you, that you think you could apply to your life? Who
    should read this book? This can be written like it's a general review of the
    book, similar to what you would read in a newspaper.
-   
-   This can be 3-5 sentences. 
+
+   This can be 3-5 sentences.
+
 2. Actionable takeaways. This is a step past the highlighting of passages in the
    book. For each highlight or bookmark you put down, take that one step further
    and describe how that concept can be changed into an action that can be used
-   to better your life in some way. 
-   
+   to better your life in some way.
+
    Elizabeth limits her actionable takeaways to at most 10 items. You can
    highlight more in your book, but the actionable takeaways should be limited
    so you can actually use the information.
+
 3. Favourite Quotes. This is for information that should be preserved in its
    original form, either because it's beautifully worded or you think you would
    want to use this quote in the future. Again, at most 10 quotes.

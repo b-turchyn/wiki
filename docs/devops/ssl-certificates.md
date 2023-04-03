@@ -5,7 +5,7 @@
 Outputted certificate prefix: `testcert`
 
 This creates a self-signed certificate, valid for 365 days. Swap out the two
-instances of `365` for another time as required. 
+instances of `365` for another time as required.
 
 ```bash
 # Create certificate signing request (CSR)

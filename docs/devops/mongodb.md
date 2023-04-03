@@ -2,10 +2,10 @@
 tags:
   - Databases
 ---
+
 # MongoDB
 
-- [Installing and Running on
-  MacOS](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/)
+- [Installing and Running on MacOS](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/)
 
 ## MongoDB With Spring Data
 
@@ -20,7 +20,6 @@ tags:
 
 ## Useful Links
 
-- [Query and Projection
-  Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
+- [Query and Projection Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
   - I can never remember the various operators available when writing queries;
     here's the official reference.

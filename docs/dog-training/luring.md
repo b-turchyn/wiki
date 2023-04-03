@@ -2,6 +2,7 @@
 tags:
   - Elicited Behaviours
 ---
+
 # Luring
 
 Luring is a training technique that uses a food to direct a dog to perform an

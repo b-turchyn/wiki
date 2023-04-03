@@ -9,9 +9,8 @@
 
 Links:
 
-- [What does $0=$2 in awk
-  do?](https://kau.sh/blog/awk-1-oneliner-dollar-explanation/),  Kaushik Gopal
-    ([HN](https://news.ycombinator.com/item?id=32969238))
+- [What does $0=$2 in awk do?](https://kau.sh/blog/awk-1-oneliner-dollar-explanation/),
+  Kaushik Gopal ([HN](https://news.ycombinator.com/item?id=32969238))
 
-[^1]: [Linux: sum a column of
-  numbers](https://lovethepenguin.com/linux-sum-a-column-of-numbers-8fe1d039f9e6)
+[^1]:
+    [Linux: sum a column of numbers](https://lovethepenguin.com/linux-sum-a-column-of-numbers-8fe1d039f9e6)

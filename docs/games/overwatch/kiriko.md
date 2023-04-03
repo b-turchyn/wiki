@@ -10,5 +10,5 @@
 
 ## Videos
 
-- [THE WEAVE - CRUCIAL Kiriko
-  Tech](https://www.youtube.com/watch?v=snW_t4ZgXTI), Spilo
+- [THE WEAVE - CRUCIAL Kiriko Tech](https://www.youtube.com/watch?v=snW_t4ZgXTI),
+  Spilo

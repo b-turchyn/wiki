@@ -3,8 +3,8 @@
 > "Listening is our access to understanding. Conscious listening always creates
 > understanding."
 >
-> -- Julian Treasure, [5 ways to listen
-> better](https://www.youtube.com/watch?v=cSohjlYQI2A) (TED)
+> -- Julian Treasure,
+> [5 ways to listen better](https://www.youtube.com/watch?v=cSohjlYQI2A) (TED)
 
 Tips to improve listening:
 

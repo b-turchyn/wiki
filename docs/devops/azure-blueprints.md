@@ -2,6 +2,7 @@
 tags:
   - Azure
 ---
+
 # Azure Blueprints
 
 Azure Blueprints allow you to apply templates of role assignments, policy

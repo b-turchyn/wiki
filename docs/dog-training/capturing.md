@@ -2,6 +2,7 @@
 tags:
   - Offered Behaviours
 ---
+
 # Capturing
 
 Capturing is when your dog offers the exact behaviour you are trying to capture

@@ -4,9 +4,11 @@ tags:
   - SaaS
   - Software
 ---
+
 # Discord
 
 Interesting Discord bots:
+
 - [CouchBot](https://couch.bot/) sends notifications when someone goes live on a
   livestreaming platform. This seems to be one of the few that can do YouTube
   live streams properly rather than just a new YouTube video (Mee6 has that
@@ -20,6 +22,7 @@ Interesting Discord bots:
   voice chat person-hours, etc. Has a free and premium offering.
 
 Useful Discord tools:
+
 - [HammerTime](https://hammertime.cyou/) generates Discord time tags so that the
   date and/or time you enter will be in the correct time zone for the reader.
 
@@ -27,8 +30,9 @@ Useful Discord tools:
 
 - [shardlab/Discordrb](https://github.com/shardlab/discordrb) for
   [Ruby](/programming/languages/ruby.md). Currently lacks support for Scheduled
-  Events, but [a (stale?) PR is
-  open](https://github.com/shardlab/discordrb/pull/152) to add them.
+  Events, but
+  [a (stale?) PR is open](https://github.com/shardlab/discordrb/pull/152) to add
+  them.
 - [discordjs/discord.js](https://github.com/discordjs/discord.js) for
   [Node.js](/programming/languages/node.md). Seems to have a defect where
   scheduled event events don't come through until there's been a message sent in

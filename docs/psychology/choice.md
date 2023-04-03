@@ -2,6 +2,7 @@
 tags:
   - Romance
 ---
+
 # Choice
 
 Choice is more prevalent in the 21st century than it ever has been in human

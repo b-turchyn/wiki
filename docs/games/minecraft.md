@@ -1,22 +1,29 @@
 # Minecraft
 
+Interesting info about the game:
+
+- [Julian Gough](https://www.juliangough.com/) wrote the poem that shows at the
+  end of the credits when you beat the Ender Dragon.
+  [The story behind the poem](https://theeggandtherock.substack.com/p/i-wrote-a-story-for-a-friend)
+  is a really interesting read.
+
 Mods I use:
 
-|            | 1.18 | 1.19                 |
-| ----------:|:----:|:--------------------:|
-| Baritone   | Yes  | No                   |
-| BetterF3   | Yes  | Yes                  |
-| Fabric     | Yes  | Yes                  |
+|            | 1.18 |         1.19         |
+| ---------: | :--: | :------------------: |
+|   Baritone | Yes  |          No          |
+|   BetterF3 | Yes  |         Yes          |
+|     Fabric | Yes  |         Yes          |
 | Litematica | Yes  | Community Maintained |
-| Lithium    | Yes  | Yes                  |
-| MiniHUD    | Yes  | Community Maintained |
-| Mod Menu   | Yes  | Yes                  |
-| Phosphor   | Yes  | Yes                  |
-| ReplayMod  | Yes  | Yes                  |
-| Skript     | Yes  | Yes                  |
-| Sodium     | Yes  | Yes                  |
-| Spark      | Yes  | Yes                  |
-| Tweakeroo  | Yes  | Community Maintained |
+|    Lithium | Yes  |         Yes          |
+|    MiniHUD | Yes  | Community Maintained |
+|   Mod Menu | Yes  |         Yes          |
+|   Phosphor | Yes  |         Yes          |
+|  ReplayMod | Yes  |         Yes          |
+|     Skript | Yes  |         Yes          |
+|     Sodium | Yes  |         Yes          |
+|      Spark | Yes  |         Yes          |
+|  Tweakeroo | Yes  | Community Maintained |
 
 ## Farms
 
@@ -68,15 +75,15 @@ Rough lineage of server software:
 ![Graph of Minecraft server software
 "inheritance"](http://www.plantuml.com/plantuml/svg/TOj12i8m44NtSuei9uls2ANg1OI2-m4J3KtJOPgvlu83COBB_zxxyr59gcuPy4ObvKmU0C-whgbwDmoJQnmNtgLspWRWHIZ-KGkdnswqwm2ln47CM0PuIiAPIZ3-QTwjnXWafkFftJXEhdMT-pq9gnXiXuv_ls4EvQvRVW40)
 
-_See: [Java Edition server
-software](https://minecraftservers.fandom.com/wiki/Java_Edition_server_software),
+_See:
+[Java Edition server software](https://minecraftservers.fandom.com/wiki/Java_Edition_server_software),
 Minecraft Servers wiki_
 
 ## Other Software
 
 - [Mineways](http://www.realtimerendering.com/erich/minecraft/public/mineways/):
-  Converts a Minecraft map to a 3D model for importing into other software
-  like Blender, Houdini, or Cinema4D
+  Converts a Minecraft map to a 3D model for importing into other software like
+  Blender, Houdini, or Cinema4D
 
 ## Inspiration
 

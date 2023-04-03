@@ -2,6 +2,7 @@
 tags:
   - Psychology
 ---
+
 # Portrait Photography
 
 ## Online Dating Profile Pictures
@@ -20,5 +21,6 @@ Bathroom selfies perform even worse.
 
 Black-and-white photos perform about twice as good as coloured photos.
 
-[^1]: [How To Not Die Alone](https://www.loganury.com/book) by [Logan
-Ury](https://www.loganury.com/)
+[^1]:
+    [How To Not Die Alone](https://www.loganury.com/book) by
+    [Logan Ury](https://www.loganury.com/)

@@ -2,6 +2,7 @@
 tags:
   - Romance
 ---
+
 # Dating Tendencies
 
 This is a framework created by [Logan Ury](https://www.loganury.com/), defined
@@ -9,7 +10,7 @@ in the book [How To Not Die Alone](https://www.loganury.com/book). The framework
 roughly categorizes people into one of three groups based on what kinds of
 unrealistic expectations that person may have when dating.
 
-- _The Romanticizer_  has unrealistic expectations of relationships. Their
+- _The Romanticizer_ has unrealistic expectations of relationships. Their
   expectations are similar to Disney fairy tales or a Hallmark Channel movie.
 - _The Maximizer_ has unrealistic expectations of their (future?) partner. They
   are held to such a high standard that the Maximizer will never be satisfied. A
@@ -33,4 +34,3 @@ talk it out.
 > breath.
 >
 > --Logan Ury
-

@@ -33,6 +33,7 @@ referencing the correct version of Ruby, which means using
 `/usr/local/opt/ruby/bin/ruby extconf.rb` to call the right version.
 
 Recommended changes:
+
 - Set `let g:CommandTFileScanner = "git"`. This will fallback to the `find`
   option, but critically takes advantage of `.gitignore`.
 - I mapped `<Leader>p` to `<Plug>(CommandT)` because I'm used to ctrlp.vim:
@@ -48,18 +49,17 @@ Recommended changes:
 ## Fun Stuff
 
 - [tenderlove/initial-v](https://github.com/tenderlove/initial-v), a BMW shifter
-    which controls which Vim mode you're in by triggering keyboard inputs
+  which controls which Vim mode you're in by triggering keyboard inputs
   - [HN comments](https://news.ycombinator.com/item?id=35004828)
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch), a hardware
-    pedal that will move you in and out of insert mode when you press and
-    release the pedal
-
+  pedal that will move you in and out of insert mode when you press and release
+  the pedal
 
 ## References
 
 - [My Dotfiles](https://github.com/b-turchyn/dotfiles), GitHub
-- [Ben Orenstein – Write code faster: expert-level vim (Railsberry
-  2012)](https://www.youtube.com/watch?v=SkdrYWhh-8s), YouTube
+- [Ben Orenstein – Write code faster: expert-level vim (Railsberry 2012)](https://www.youtube.com/watch?v=SkdrYWhh-8s),
+  YouTube
 - [Vim Help](https://vimhelp.org/) (although you should just use `:h`)
-- [Your problem with Vim is that you don't grok
-  vi](https://stackoverflow.com/a/1220118), StackOverflow
+- [Your problem with Vim is that you don't grok vi](https://stackoverflow.com/a/1220118),
+  StackOverflow

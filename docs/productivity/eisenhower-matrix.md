@@ -2,6 +2,7 @@
 tags:
   - Time Management
 ---
+
 # The Eisenhower Matrix
 
 The Eisenhower Matrix is a time management technique to help you roughly
@@ -32,6 +33,7 @@ prioritize tasks into four buckets. The technique is usually represented in a
 
 While urgent tasks need to be done as soon as possible, urgent tasks are usually
 a sign of:
+
 - Something outside of your control (i.e. production issue)
 - Poorly managed time
 

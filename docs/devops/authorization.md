@@ -4,6 +4,7 @@ aliases:
 tags:
   - Azure
 ---
+
 # Authorization
 
 Authorization is the process of establishing what access (and what _level of

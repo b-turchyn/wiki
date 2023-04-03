@@ -1,5 +1,6 @@
 ---
 ---
+
 # Leadership Styles
 
 There are six main styles of leadership. A leadership style isn't something that
@@ -12,9 +13,9 @@ leadership styles depending on the situation at-hand.
 
 > Do it, or else.
 
-A leader tells someone what to do, and there's an expectation that it's
-followed through on. Feedback is to correct an issue rather than praise someone
-for doing a good job.
+A leader tells someone what to do, and there's an expectation that it's followed
+through on. Feedback is to correct an issue rather than praise someone for doing
+a good job.
 
 This is effective in crisis situations, if a team is inexperienced with simple
 tasks and there's limited time to complete a task, or there's a need to put a
@@ -33,7 +34,7 @@ In the authoritative leadership style, the leader is the _expert_. It's
 important that a leader explains the big picture clearly and effectively. You
 need to communicate _what_ the team needs to do, _how_ the team should be doing
 the work to get to the end goal, and most critically _why_ the team should be
-putting effort into this. 
+putting effort into this.
 
 This doesn't mean a leader forces someone to do something a particular way like
 in the [coercise](#Coercive) style -- leaders can and should get feedback and
@@ -70,8 +71,8 @@ likely to conflict, and the affiliative style can help get that team to work
 together.
 
 Avoid the affiliative style when in crisis situations or if you have to make a
-performance correction. When team members are task-oriented or have no desire
-to be "friends" with their boss, then avoid this style as well.
+performance correction. When team members are task-oriented or have no desire to
+be "friends" with their boss, then avoid this style as well.
 
 ### Democratic
 
@@ -88,7 +89,7 @@ Similarly, if you don't have confidence in the team's abilities, the team lacks
 the required skillsets, or are "ill-informed", then the democratic style is more
 likely going to lead to failures. Crisis situations are no place for democratic
 leadership; opt for the [coercive](#Coercive) or [pacesetting](#Pacesetting)
-styles instead. 
+styles instead.
 
 Overuse of the democratic leadership style can lead team members to doubt the
 ability of the leader's ability to do their job (i.e. _lead_).
@@ -118,6 +119,7 @@ team morale, since you effectively take away their agency.
 > Let me help you grow.
 
 With this leadership style, the leader:
+
 - Invests time in knowing the strengths and weaknesses of each team member
 - Works with each team member to help them achieve their personal development
   goals
@@ -131,5 +133,5 @@ If a team member doesn't know where they want to go, needs explicit direction,
 or has performance issues that need correction, this may not be effective. In
 that case, consider [Pacesetting](#Pacesetting).
 
-In crisis situations, coaching is too slow. Consider the [Coercive
-style](#Coercive) instead.
+In crisis situations, coaching is too slow. Consider the
+[Coercive style](#Coercive) instead.

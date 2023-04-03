@@ -126,8 +126,8 @@ Next video talked about [writer's block](writing/writers-block.md).
 
 [(source)](https://perell.com/note/learn-like-an-athlete/)
 
-- Implementing a strict _[learning](learning/index.md) plan_ helps knowledge workers
-  accelerate
+- Implementing a strict _[learning](learning/index.md) plan_ helps knowledge
+  workers accelerate
 - Learning Plan Goals
   - Build skills
   - Complete projects

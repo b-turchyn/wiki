@@ -9,6 +9,7 @@ On Ubuntu: `sudo apt install rkhunter`
 ## Configuration
 
 For a first run, edit `/etc/rkhunter.conf` and update the following properties:
+
 - `WEB_CMD`: this is initially set to `/bin/false` on Ubuntu, which will cause
   all updates to fail. This should be able to be set to `curl`.
 - `UPDATE_MIRRORS`: by default, this is disabled, but mirrors will need to be
@@ -17,20 +18,21 @@ For a first run, edit `/etc/rkhunter.conf` and update the following properties:
 - `MIRRORS_MODE`: This defaults to `1` (use only local mirrors), however you can
   set this to `0` to use a remote mirror as well.
 
-After config changes, check your config files by running `rkhunter
---config-check`.
+After config changes, check your config files by running
+`rkhunter --config-check`.
 
 ## Usage
 
 Get database updates using `rkhunter --update`
 
 Run `rkhunter --check`. The following additional options can be used as well:
+
 - `--sk`: skips the "Press &lt;ENTER&gt; to continue" checks that exist when
   running.
 - `--rwo`: reports warnings only
 
-When you're comfortable with the state of the system, running `rkhunter
---propupd` will update your local database of the current state.
+When you're comfortable with the state of the system, running
+`rkhunter --propupd` will update your local database of the current state.
 
 ## Regular Scanning
 
@@ -41,6 +43,7 @@ Apply the following changes to `/etc/default/rkhunter.conf`:
 - `APT_AUTOGEN="true"`: Automatic database updates (what is the difference
   between the two of these?)
 
-[^1]: It's possible with an infected system that a malicious database could be
-  uploaded, so in sensitive environments you probably only want to accept local
-  mirrors. I don't know what the risk of this would be however.
+[^1]:
+    It's possible with an infected system that a malicious database could be
+    uploaded, so in sensitive environments you probably only want to accept
+    local mirrors. I don't know what the risk of this would be however.

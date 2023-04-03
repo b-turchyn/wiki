@@ -1,9 +1,10 @@
 ---
 description: "Useful information, tips, and tricks for JSON"
-keywords: 
+keywords:
   - JSON
   - JavaScript Object Notation
 ---
+
 # JSON
 
 JSON viewers:

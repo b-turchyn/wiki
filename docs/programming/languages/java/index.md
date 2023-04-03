@@ -45,6 +45,9 @@ JPA is Java's built-in persistence mapper. It's all annotation-driven.
 
 - [Java Persistence book](https://en.m.wikibooks.org/wiki/Java_Persistence)
 - [Using a SubQuery in a CriteriaQuery](https://thorben-janssen.com/hibernate-tip-subquery-criteriaquery/)
+- [Fixing a MultipleBagFetchException in Hibernate](https://thorben-janssen.com/fix-multiplebagfetchexception-hibernate/)
+  - I ran into this at work in November 2022. This link was sent to me by a
+    coworker, and fixed our issue.
 
 ### One-to-One Mappings
 

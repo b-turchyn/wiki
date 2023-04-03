@@ -1,13 +1,14 @@
 ---
 ---
+
 # Pomodoro
 
 Pomodoro is a time management technique, which involves scheduled periods of
 work and rest. 25 minutes of work followed by 5 minutes of rest is common, with
 a longer break after 4 sets.
 
-The effectiveness of the technique stems from the brain's inability to [focus](productivity/focus.md) for
-extended periods of time.
+The effectiveness of the technique stems from the brain's inability to
+[focus](productivity/focus.md) for extended periods of time.
 
 ## Online Timers
 

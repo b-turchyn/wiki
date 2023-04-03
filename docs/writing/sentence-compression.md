@@ -1,6 +1,7 @@
 # Sentence Compression
 
 Some general notes:
+
 - Avoid needless words. Keep your words potent.
 - Start by writing longer sentences; get the details of what you want to talk
   about on the page first. During the editing process, trim as much fat as you
@@ -8,6 +9,5 @@ Some general notes:
 
 References:
 
-- [Expression is
-  Compression](https://perell.com/essay/expression-is-compression/), David
-  Perell
+- [Expression is Compression](https://perell.com/essay/expression-is-compression/),
+  David Perell

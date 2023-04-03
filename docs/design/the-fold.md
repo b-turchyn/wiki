@@ -2,6 +2,7 @@
 tags:
   - SEO
 ---
+
 # The Fold
 
 _The Fold_ is the part of your webpage that is visible to the user without them

@@ -1,5 +1,6 @@
 ---
 ---
+
 # Goals
 
 Goals need to be _action-based_, not _outcome-based_. The actions you take are

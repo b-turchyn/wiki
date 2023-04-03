@@ -2,6 +2,7 @@
 tags:
   - Azure
 ---
+
 # Delivery Plan
 
 A delivery plan is a way to visually compare the work schedules of multiple

@@ -1,8 +1,8 @@
 # Loneliness
 
 > "And when nobody wakes you up in the morning, and when nobody waits for you at
-night, and when you can do whatever you want. What do you call it, freedom or
-loneliness?"
+> night, and when you can do whatever you want. What do you call it, freedom or
+> loneliness?"
 >
 > -- Charles Bukowski
 
@@ -25,8 +25,7 @@ Interesting reading on loneliness:
 
 ## References
 
-- ["I wonder if this is because we're lonely..?" (Hacker
-  News)](https://news.ycombinator.com/item?id=31286639)
+- ["I wonder if this is because we're lonely..?" (Hacker News)](https://news.ycombinator.com/item?id=31286639)
 - [Third place (Wikipedia)](https://en.wikipedia.org/wiki/Third_place)
 
 [^1]: https://mcc.gse.harvard.edu/reports/loneliness-in-america
