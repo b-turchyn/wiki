@@ -38,6 +38,7 @@ const config = {
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       ({
+        indexBlog: false,
         docsRouteBasePath: '/',
         hashed: true
       })
