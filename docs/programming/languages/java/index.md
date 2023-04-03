@@ -12,7 +12,7 @@ I am working on a tech tree to cover several popular, valuable concepts that I
 feel Java developers should know. This is a work-in-progress. Clicking on the
 image below will take you to the Graphviz source.
 
-[![](./java-tech-tree.svg)](https://r.btdev.org/java-tech-tree)
+[![](./tech-tree.svg)](https://r.btdev.org/java-tech-tree)
 
 ## Libraries
 
