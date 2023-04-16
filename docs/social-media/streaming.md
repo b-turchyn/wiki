@@ -34,6 +34,7 @@ is a good read for those who are looking at getting into streaming.
 - [Lumia Stream](https://lumiastream.com/)
 - [SAMMI](https://sammi.solutions/), formerly
   [LioranBoard 2](https://github.com/LioranBoard/LioranBoard-2-Official/releases)
+- [Streamer.bot](https://streamer.bot/)
 
 ## Development Libraries
 
