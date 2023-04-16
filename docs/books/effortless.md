@@ -12,7 +12,7 @@ Author: Greg McKeown
 > problem, every setback, was "I will work harder" -- that is, until he
 > collapsed from overwork and was sent to the knacker's yard.
 
-> Burnout is not a badge of honor.
+> [Burnout](health/mental-health/burnout.md) is not a badge of honor.
 
 The focus of this book is to do things the _right way_ such that you're
 accomplishing what you want to get done without burning yourself out.
@@ -149,8 +149,9 @@ or to accept it as it is. The latter frees you from having to worry about it.
 
 ### Chapter 4: Rest
 
-Consistently working hard will lead to burnout. To be able to grow and maintain
-peak performance, rest is also required.
+Consistently working hard will lead to
+[burnout](health/mental-health/burnout.md). To be able to grow and maintain peak
+performance, rest is also required.
 
 The amount of work you do should be no more than you can recover from and should
 not completely exhaust you.

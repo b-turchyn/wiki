@@ -24,7 +24,8 @@ the day.
 
 ## Weekly
 
-- Burnout check. How are you feeling? Is burnout setting in?
+- [Burnout](health/mental-health/burnout.md) check. How are you feeling? Is
+  burnout setting in?
 
 ## Monthly
 

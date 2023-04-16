@@ -47,11 +47,12 @@ bringing a fully electric vehicle to mainstream markets.
 
 > Intractable problems fall in the face of movements.
 
-When trying to improve a tribe, most leaders focus solely on growing and gaining
-new members. While important, time is better spent helping the current tribe
-effectively communicate by providing the right tools (such as
-[Discord](technology/discord.md), a Subreddit, or a social media hashtag), or
-"transforming the shared interest into a passionate goal and desire for change".
+When trying to improve a tribe, most leaders [focus](productivity/focus.md)
+solely on growing and gaining new members. While important, time is better spent
+helping the current tribe effectively communicate by providing the right tools
+(such as [Discord](technology/discord.md), a Subreddit, or a social media
+hashtag), or "transforming the shared interest into a passionate goal and desire
+for change".
 
 Ultimately, the goal of your tribe is to create a _movement_: viral change for
 the better.
@@ -83,6 +84,9 @@ novel.
 
 The internet has provided a means of reaching the masses; this means that almost
 anyone has the potential to build something big.
+
+Lots of people have ideas. The ideas that tend to succeed are the ones that come
+from those that have the least _fear_.
 
 [^1]: Joel was also a co-founder of Stack Overflow, along-side Jeff Atwood.
 [^2]:

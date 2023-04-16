@@ -4,8 +4,9 @@
 # Breaks
 
 Breaks are critical for growing and be productive. Continuously pushing for more
-without recovery time leads to burnout. Breaks are also part of the
-stress-and-rest cycle described in the book Peak Productivity.
+without recovery time leads to [burnout](health/mental-health/burnout.md).
+Breaks are also part of the stress-and-rest cycle described in the book Peak
+Productivity.
 
 Breaks should take place at various intervals to keep you healthy, productive,
 and focused.
