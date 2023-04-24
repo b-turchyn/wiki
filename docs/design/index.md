@@ -24,6 +24,10 @@ Inspiration:
   [the dashboard](https://linear.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fhero%404x.15e3a396.jpg&w=3840&q=75).
   Clean look, high contrast, excellent colour scheme. There are a few areas that
   I would adjust, but that's okay.
+- [Task Management Platform](https://dribbble.com/shots/21145902-Task-Management-Platform)
+  design by [Levi Wilson](https://dribbble.com/hilevi). The key thing for me
+  here is that the most important thing (the current, in-progress task) occupies
+  the most screen space. Importance is dictated by the amount of space taken.
 
 Image placeholder libraries:
 
