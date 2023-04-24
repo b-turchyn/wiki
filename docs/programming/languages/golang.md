@@ -23,6 +23,8 @@
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/),
   Jesse Li ([HN](https://news.ycombinator.com/item?id=33495328))
+- [The Busy Developer's Guide to Go Profiling, Tracing, and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
+  by DataDog
 
 ## Useful Frameworks
 

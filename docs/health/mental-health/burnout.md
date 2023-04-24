@@ -15,3 +15,5 @@ Interesting reads about personal experiences with burnout:
   - I found this article on
     [Hacker News](https://news.ycombinator.com/item?id=35577285). The quote at
     the top of this article is from Audrey's article.
+- [I am done. I give up.](https://news.ycombinator.com/item?id=34103896) by
+  [wakana](https://news.ycombinator.com/user?id=wakana) on Hacker News
