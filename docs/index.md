@@ -33,8 +33,8 @@ I can be found online in the following locations:
 
 - [My personal website](https://brianturchyn.net), of which there's a weekly
   newsletter
-- On [Twitter](https://twitter.com/btwritescode) and
-  [Mastodon](https://mastodon.social/@btwritescode)
+- On [Twitter](https://twitter.com/btwritescode) and <a
+  href="https://mastodon.social/@btwritescode" rel="me noopener noreferrer">Mastodon</a>
 - On [GitHub](https://github.com/b-turchyn)
 
 My identity can be verified through [Keybase](https://keybase.io/bturchyn).
