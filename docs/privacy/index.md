@@ -13,6 +13,11 @@ Tools for gathering information on somebody:
   ([HN](https://news.ycombinator.com/item?id=33061058))
   - This is a fork of [sherlock](https://github.com/sherlock-project/sherlock)
 
+Lists of privacy-respecting services:
+
+- [switching.software](https://switching.software/)
+  - Found this on Hacker News
+
 Privacy-respecting frontends for services:
 
 - Medium:
