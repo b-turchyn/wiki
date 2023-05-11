@@ -5,6 +5,11 @@ How others blog (their workflows):
 - [Dang Hoang Tuan (Tsuki)](https://tsk.bearblog.dev/the-tools-i-use-to-write-blogs/)
 - [What to blog about](https://simonwillison.net/2022/Nov/6/what-to-blog-about/)
   by [Simon Willison](https://simonwillison.net/)
+- [Why I Blog](https://www.craigkerstiens.com/2013/03/31/why-i-blog/) by
+  [Craig Kerstiens](https://www.craigkerstiens.com/)
+- [Why I Blog](https://www.dannyguo.com/blog/why-i-blog) by
+  [Danny Guo](https://www.dannyguo.com/)
+  - [HN](https://news.ycombinator.com/item?id=35467361)
 
 Interesting blogging platforms:
 
