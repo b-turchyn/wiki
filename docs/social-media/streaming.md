@@ -46,9 +46,21 @@ is a good read for those who are looking at getting into streaming.
 
 ## OBS Plugins
 
+Below are several plugins I use, including replacements for plugins that are in
+StreamFX. This now becomes useful as now only StreamFX's stable releases are
+available for download for free and the last stable release was for OBS 27.
+
 - [Vertical](https://aitum.tv/#vertical) - Adds a vertical canvas to OBS
   along-side your regular horizontal one.
   - [GitHub](https://github.com/Aitum/obs-vertical-canvas/)
+- [blur-filter](https://prgitchell/blur-filter) - Extracts the blur filter from
+  StreamFX
+- [obs-3d-effect](https://github.com/exeldro/obs-3d-effect) - Provides a 3D
+  effect filter, replacing the StreamFX one
+- [obs-source-clone](https://github.com/exeldro/obs-source-clone) - Provides the
+  StreamFX equivalent of the Source Mirror
+- [obs-shaderfilter](https://github.com/exeldro/obs-shaderfilter) - Provides
+  shader support, replacing the StreamFX filter
 
 ## Stream Assets
 
