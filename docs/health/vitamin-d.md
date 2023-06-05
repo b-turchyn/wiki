@@ -11,7 +11,7 @@ sun, but less than 5% of sun is UVB.
 [Sunlight](/health/sunlight.md) is a good source of vitamin D depends on the
 time of year and where you are in the world.
 
-There are several studies that suggest that vitamin D can help with depression,
+There are several studies that suggest that vitamin D can help with [depression](health/mental-health/depression.md),
 however there seems to be significant criticism of those studies. A
 meta-analysis of those studies[^1] seemed to see a correlation between the two,
 but not enough to recommend vitamin D as a universal treatment.
