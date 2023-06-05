@@ -9,6 +9,19 @@ the internal mechanics of how games work makes me appreciate them more.
 
 - [photonstorm/phaser](https://github.com/photonstorm/phaser)
 
+### Unreal Engine
+
+When users experience flickering in the UE4 or UE5 editor, this seems to be
+traced back to an issue with Nvidia's overlay test mode.
+[Applying a registry fix can correct this](https://forums.unrealengine.com/t/editor-window-and-menu-flickering-and-glitching/552308/6):
+
+```
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm]
+"OverlayTestMode"=dword:00000005
+```
+
 ## Resources
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
