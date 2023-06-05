@@ -35,3 +35,9 @@ Image placeholder libraries:
 - [BlurHash](https://blurha.sh/)
 - An alternative option is to use a WebP file with 0% quality at a very low
   resolution, and then scaling it back up.
+
+Inspiration sites:
+
+- [Dribbble](https://dribbble.com)
+- [Mobbin](https://mobbin.com)
+  - I'm less of a fan of this site than Dribbble. Not sure why.
