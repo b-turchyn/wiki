@@ -14,4 +14,7 @@ the world, these are more frowned upon.
 
 ## Links
 
+- [Every Culture](https://www.everyculture.com/)
+  - This came up during training at work in April 2023. Long-form descriptions
+    of various cultures throughout the world.
 - [Fish Don't Know They're In Water](https://sive.rs/fish), Derek Sivers
