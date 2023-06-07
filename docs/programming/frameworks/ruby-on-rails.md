@@ -1,5 +1,10 @@
 # Ruby on Rails
 
+[This article](https://fly.io/ruby-dispatch/welcome-to-rails-cheat-sheet/) by
+[Brad Gessler](https://twitter.com/bradgessler) is a great cheat sheet of so
+many core pieces of Ruby on Rails. References to must-have gems, reference
+materials, video tutorials, etc.
+
 Random notes:
 
 - `attr_accessor` creates a getter and setter
