@@ -36,5 +36,11 @@ something that will leave you truly fulfilled.
   _Fatherly_ ([Archive](https://archive.ph/3SejS))
 - [Are you present-focused or future-focused?](https://sive.rs/time), Derek
   Sivers
+- [Drift: How to (accidentally) create a life you don't want](https://paigespage.net/drift/),
+  [Meredith Page](https://paigespage.net)
+  - It's password-protected with the password `friend` (this was publicly
+    disclosed)
+  - Seth Godin mentioned this in his
+    [April 30, 2023 blog post](https://seths.blog/2023/04/an-end-to-pop/)
 
 [^1]: https://wiki.nikiv.dev/life/happiness
