@@ -9,6 +9,10 @@ Software to generate QR codes:
 - [kochrt/qr-designer](https://github.com/kochrt/qr-designer) by
   [Rob Koch](https://twitter.com/rob__koch)
   - [HN Comments](https://news.ycombinator.com/item?id=36128082)
+- [qrbtf.com](https://qrbtf.com) (Chinese)
+  - Beautifies QR codes
+  - GitHub source at [ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf)
+  - [HN Comments](https://news.ycombinator.com/item?id=36213511)
 
 Reading QR codes:
 
