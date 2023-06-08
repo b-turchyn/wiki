@@ -1,3 +1,7 @@
+---
+description:
+  Sources of music for streaming or videos on social media platforms
+---
 # Royalty-Free Music
 
 A collection of music collections that can be used in
@@ -18,3 +22,5 @@ commercial purposes without paying any royalty fees.
     for Twitch).
 - [Stream Beats](https://www.senpai.tv/streambeats/) by Harris Heller
   - I first heard about this through Harris Heller's YouTube videos
+- [LoFi Girl](https://lofigirl.com/use-the-music/)
+  - Credit is required in the descriptions; see the above link for how to credit properly.
