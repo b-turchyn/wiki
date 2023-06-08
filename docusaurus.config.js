@@ -127,8 +127,8 @@ const config = {
             title: 'Social',
             items: [
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/BTWritesCode',
+                label: 'Mastodon',
+                href: 'https://mastodon.social/@btwritescode',
               },
               {
                 label: 'GitHub',
