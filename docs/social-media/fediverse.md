@@ -8,6 +8,9 @@ description:
 
 ## Reddit Alternatives
 
+_For non-federated options, check
+[Link Aggregators](/social-media/link-aggregators.md)_
+
 - [kbin.social](https://kbin.social)
   - Fedi.Tips has
     [recommended this platform](https://mstdn.social/@feditips/110521303082388526)
@@ -20,17 +23,6 @@ description:
     [this thread](https://mstdn.social/@feditips/106835057054633379) for more
     information
   - I haven't checked to see if these are still valid concerns
-- [Non.io](https://non.io/)
-  - Found this on 2023-06-12 from the author's
-    [Show HN Post](https://news.ycombinator.com/item?id=36296695)
-  - Free to browse, paid to interact
-  - Source code at [jjcm/nonio](https://github.com/jjcm/nonio)
-- [FlingUp](https://flingup.com/)
-  - Found this on 2023-06-12 from the author's
-    [Show HN Post](https://news.ycombinator.com/item?id=36299904)
-  - The author's goal is to run it as a non-profit.
-  - The author
-    ["[plans] to open source both the backend API and the frontend client"](https://news.ycombinator.com/item?id=36299954)
 
 ## Twitter Alternatives
 
