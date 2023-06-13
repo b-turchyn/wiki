@@ -7,14 +7,14 @@ title: "💻 Programming"
 Why do I program? [Just for fun. No, really.](https://justforfunnoreally.dev/)
 
 - [Programming as play](https://austinhenley.com/blog/programmingasplay.html),
-  by Austin Henley
+  by [Austin Henley](https://austinhenley.com/)
+- [Why I prefer making useless stuff](https://austinhenley.com/blog/makinguselessstuff.html),
+  by [Austin Henley](https://austinhenley.com/)
+- [Ask HN: Most interesting tech you built just for yourself?](https://news.ycombinator.com/item?id=35729232),
+  Hacker News
 
 Interesting links and projects:
 
-- [mame/quine-relay](https://github.com/mame/quine-relay)
-  ([HN](https://news.ycombinator.com/item?id=33105706)): a 128-language quine
-- [mame/radiation-hardened-quine](https://github.com/mame/radiation-hardened-quine):
-  a Ruby quine that can have any one character removed and it will still work
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html)
 - [Coding Curves](https://www.bit-101.com/blog/2022/11/coding-curves/) by
   [Keith Peters](https://www.bit-101.com/)
