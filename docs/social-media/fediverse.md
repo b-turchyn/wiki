@@ -6,6 +6,10 @@ description:
 
 # Fediverse
 
+[FediDB](https://fedidb.org/) provides a list of instances available to join,
+along with their user counts, the software they're running, and general
+environment growth.
+
 ## Reddit Alternatives
 
 _For non-federated options, check
@@ -54,6 +58,10 @@ This covers any sort of _microblogging_.
   written in Erlang/Elixer.
   - [Source code for Pleroma](https://git.pleroma.social/pleroma/) is hosted on
     their own GitLab instance.
+- [Akkoma](https://akkoma.social/) supports a number of special features
+  available on other systems, such as "Misskey Markdown" and boasts being 30-50%
+  faster than Pleroma.
+  - [Akkoma source code](https://akkoma.dev/AkkomaGang/akkoma/)
 
 The following are not compatible with Mastodon's federation:
 
