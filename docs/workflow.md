@@ -1,6 +1,8 @@
 ---
 title: "🔄 My Workflow"
-description: A breakdown of my information intake workflow: to-do items, information, and more.
+description: >
+  A breakdown of my information intake workflow: to-do items, information, and
+  more.
 ---
 
 # My Workflow
