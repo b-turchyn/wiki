@@ -50,6 +50,10 @@ This covers any sort of _microblogging_.
     ActivityPub-equipped solution.
   - Its mascot / "guardian deity" is known as _Ai_ and has
     [their own website with fanart](https://xn--931a.moe/) (Japanese only)
+- [Pleroma](https://pleroma.social/) is a lightweight, Mastodon-like option
+  written in Erlang/Elixer.
+  - [Source code for Pleroma](https://git.pleroma.social/pleroma/) is hosted on
+    their own GitLab instance.
 
 The following are not compatible with Mastodon's federation:
 
