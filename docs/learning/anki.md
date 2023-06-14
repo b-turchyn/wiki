@@ -30,3 +30,9 @@ values, based on
 [this YouTube video](https://www.youtube.com/watch?v=Eo1HbXEiJxo)
 
 ![](anki-settings.png)
+
+## Addons
+
+Addons are installed based on a unique ID in the app.
+
+- jlab: 2110939339
