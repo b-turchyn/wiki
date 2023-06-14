@@ -167,12 +167,6 @@ const config = {
       defer: true,
       'data-domain': 'wiki.brianturchyn.net',
       'data-api': '/stats/api/event',
-      src: '/stats/js/script.js',
-    },
-    {
-      defer: true,
-      'data-domain': 'wiki.brianturchyn.net',
-      'data-api': '/stats/api/event',
       src: '/stats/js/script.outbound-links.js',
     },
   ],
