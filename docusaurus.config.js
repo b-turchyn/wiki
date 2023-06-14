@@ -166,12 +166,14 @@ const config = {
     {
       defer: true,
       'data-domain': 'wiki.brianturchyn.net',
-      src: 'https://plausible.io/js/plausible.js',
+      'data-api': '/stats/api/event',
+      src: '/stats/js/script.js',
     },
     {
       defer: true,
       'data-domain': 'wiki.brianturchyn.net',
-      src: 'https://plausible.io/js/script.outbound-links.js',
+      'data-api': '/stats/api/event',
+      src: '/stats/js/script.outbound-links.js',
     },
   ],
   clientModules: [require.resolve('./titleChange.ts')]
