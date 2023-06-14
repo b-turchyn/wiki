@@ -10,6 +10,15 @@ description:
 along with their user counts, the software they're running, and general
 environment growth.
 
+[Fediverse.Party](https://fediverse.party) also contains information about
+various federated software platforms.
+
+## Facebook Alternatives
+
+- [Friendica](https://github.com/friendica/friendica) is a Facebook-like
+  replacement. It integrates with most of the other popular ActivityPub-based
+  solutions like Mastodon, but also works with diaspora\*.
+
 ## Reddit Alternatives
 
 _For non-federated options, check
@@ -62,6 +71,8 @@ This covers any sort of _microblogging_.
   available on other systems, such as "Misskey Markdown" and boasts being 30-50%
   faster than Pleroma.
   - [Akkoma source code](https://akkoma.dev/AkkomaGang/akkoma/)
+- [GNU social](https://gnusocial.network) is very much in the style of the
+  original Twitter
 
 The following are not compatible with Mastodon's federation:
 
