@@ -1,3 +1,9 @@
+---
+description:
+  Resources, plugins, configuration changes, and recommended shared decks for
+  the popular Spaced Repetition app
+---
+
 # Anki
 
 My go-to flashcard app for [spaced repetition](learning/spaced-repetition.md)
@@ -15,6 +21,10 @@ subjects that the community has contributed. Some that I use:
   - The author has created a more comprehensive
     [Japanese Hiragana](https://ankiweb.net/shared/info/195754716) deck with the
     full set of Hiragana characters
+- [Japanese course based on Tae Kim's grammar guide & anime](https://ankiweb.net/shared/info/911122782)
+  - This deck teaches you [Japanese](/language/japanese.md) by providing audio
+    clips from anime and Japanese shows
+  - This has been great so far
 
 Info about Anki and why to use it:
 
