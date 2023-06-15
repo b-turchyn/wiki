@@ -21,6 +21,8 @@ My general goal with learning is to:
 - [Distill the knowledge](writing/taking-notes.md) into a storage mechanism,
   like an [Anki](learning/anki.md) deck or this wiki.
 - Look for opportunities to use the information I've taken in.
+- For things such as [language](/language/index.md), consider finding Anki decks
+  that others have already created to make the learning process easier.
 
 Learning is a constant in life. There's always opportunities to learn more, to
 revise what my beliefs are, and to grow as a person. The goal is not to be
