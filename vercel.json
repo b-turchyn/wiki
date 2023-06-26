@@ -18,6 +18,9 @@
       "destination": "/books/days-of-writing/"
     },
     {
+      "source": "/computers/file-sharing(/?)",
+      "destination": "/privacy/file-transfers/"
+    }{
       "source": "/design/color(/?)",
       "destination": "/design/colour/"
     },
