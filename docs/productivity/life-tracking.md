@@ -10,3 +10,4 @@
   - I really like this post. It's clear that this isn't for everyone, it was
     mostly as a point of reference, and it's clearly written. It makes me want
     to do the same, although perhaps not with the same amount of detail.
+- [A Year in Time: 2022](http://www.markwk.com/2022-year-in-time.html)
