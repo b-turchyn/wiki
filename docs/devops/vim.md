@@ -1,7 +1,5 @@
 # Vim
 
-- [MacVim is Vim with more OS integration](https://stackoverflow.com/a/5894021)
-
 ## Patterns and Anti-Patterns
 
 - Pressing motion keys multiple times should be avoided (i.e. `jjjjj`). Instead,
@@ -63,3 +61,9 @@ Recommended changes:
 - [Vim Help](https://vimhelp.org/) (although you should just use `:h`)
 - [Your problem with Vim is that you don't grok vi](https://stackoverflow.com/a/1220118),
   StackOverflow
+- [MacVim is Vim with more OS integration](https://stackoverflow.com/a/5894021)
+- [A Vim Guide for Advanced Users](https://thevaluable.dev/vim-advanced/)
+  - [HN Comments](https://news.ycombinator.com/item?id=33811705)
+- [Vim Tips for the Intermediate Vim
+    User](https://jemma.dev/blog/intermediate-vim-tips), by [Jemma
+    Issroff](https://jemma.dev/)
