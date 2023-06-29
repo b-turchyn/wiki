@@ -20,3 +20,9 @@ Other useful search-based modules:
 
 There are [Ruby on Rails](/programming/frameworks/ruby-on-rails.md) gems that
 can take advantage of these (like `pg_search`)
+
+Interesting reading about Postgres:
+
+- [Nine ways to shoot yourself in the foot with
+    PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql),
+    by [Phil Booth](https://philbooth.me)

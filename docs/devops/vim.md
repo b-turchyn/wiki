@@ -67,3 +67,6 @@ Recommended changes:
 - [Vim Tips for the Intermediate Vim
     User](https://jemma.dev/blog/intermediate-vim-tips), by [Jemma
     Issroff](https://jemma.dev/)
+- [Moving Blazingly Fast With The Core Vim
+    Motions](https://www.barbarianmeetscoding.com/boost-your-coding-fu-with-vscode-and-vim/moving-blazingly-fast-with-the-core-vim-motions/),
+    by [Jaime González García](https://www.barbarianmeetscoding.com/)
