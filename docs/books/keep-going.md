@@ -18,3 +18,7 @@ A list of other books or literary works that Austin references:
   by Alexandra Franzen
   - I couldn't find the original reference here with Alexandra's name on it, but
     this is an online place where Austin credits them.
+- _The Gift_ by Lewis Hyde
+- _The Mind's Eye_ by Henri Cartier-Bresson
+- _Tao Te Ching_ by Lao Tzu
+- _The Life-Changing Magic of Tidying Up_ by Marie Kondo
