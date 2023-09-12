@@ -39,3 +39,8 @@ Some examples:
 
 - [jbranchaud/til](https://github.com/jbranchaud/til)
 - [thoughtbot/til](https://github.com/thoughtbot/til)
+
+## References
+
+- [Proof You Can Do Hard Things](https://blog.nateliason.com/p/proof-you-can-do-hard-things)
+  by [Nat Eliason](https://www.nateliason.com/)
