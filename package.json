@@ -29,7 +29,7 @@
     "rehype-katex": "^5.0.0",
     "rehype-urls": "^1.1.1",
     "remark-math": "^3.0.1",
-    "vercel": "^28.9.0"
+    "vercel": "^32.2.1"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^2.4.1",
