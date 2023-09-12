@@ -53,6 +53,11 @@ Scaffold(
   topBar = {
     TopAppBar(
       title = { Text("Top App Bar Example") }
+      navigationIcon = {
+        IconButton(onClick = {}) {
+          Icon(imageVector = Icons.Default.Menu, contentDescription = "Navigation Menu")
+        }
+      }
     )
   }
 )
