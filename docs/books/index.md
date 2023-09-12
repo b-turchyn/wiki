@@ -7,6 +7,7 @@ title: 📚 Books
 ## Book Lists
 
 - [Books I've Read](https://sive.rs/book), Derek Sivers
+- [Nat Eliason's Book List](https://www.nateliason.com/notes)
 
 ## Books To Read
 
