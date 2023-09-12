@@ -42,5 +42,16 @@ something that will leave you truly fulfilled.
     disclosed)
   - Seth Godin mentioned this in his
     [April 30, 2023 blog post](https://seths.blog/2023/04/an-end-to-pop/)
+- [When The Money's Just Too Damn Good](https://blog.nateliason.com/p/money-too-good),
+  by [Nat Eliason](https://nateliason.com)
+  - > It took a while for me to realize that all of this other work was
+    > originally just to support being able to write. I started making courses
+    > to support writing. I started the agency to be able to write. I went into
+    > crypto because I was scared of not making enough money writing.
+  - > When you’re afraid you can’t earn a sufficient living from the thing you
+    > _want_ to do, you find something else to earn that money for you. But then
+    > it’s hard to balance the two, especially if the money is really good.
+    > **Success can be its own failure.**
+  - > Be careful what you do to pay the bills. You might just succeed at it.
 
 [^1]: https://wiki.nikiv.dev/life/happiness
