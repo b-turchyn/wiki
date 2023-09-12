@@ -36,6 +36,8 @@ Scaffold(
 )
 ```
 
+![Bottom App Bar Example](./example-app-bars-bottom-1.png)
+
 The two variables you'll likely fill out are:
 1. The `actions` variable (which has your standard buttons on the left) and
 2. The `floatingActionBar` (which has a single big button on the right)
@@ -55,6 +57,8 @@ Scaffold(
   }
 )
 ```
+
+![Top App Bar Example](./example-app-bars-top-1.png)
 
 The `title` variable is the only required variable. Other variables you'll likely fill out are:
 1. The `actions` variable (which has your standard buttons on the right) and
