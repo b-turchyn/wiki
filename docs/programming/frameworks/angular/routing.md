@@ -1,10 +1,11 @@
 ---
+title: Angular Routing
 tags:
   - Angular
   - Framework
 ---
 
-# Angular Routing
+# Routing
 
 The Angular router is the standardized way of navigating between pages within an
 Angular application.
