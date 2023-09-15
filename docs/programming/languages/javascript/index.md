@@ -6,7 +6,7 @@ There are lots of awesome JavaScript libraries and resources on
 
 ## Frameworks
 
-- [Angular](/programming/frameworks/angular.md)
+- [Angular](/programming/frameworks/angular/index.md)
 - [Backbone.js](https://backbonejs.org)
   ([GitHub](https://github.com/jashkenas/backbone))
 - [Ember.js](https://emberjs.com)
