@@ -4,9 +4,10 @@ tags:
   - "*ngIf"
   - Angular-Directives
 description: "*ngIf should almost always be used over [hidden]. This is why."
+image: "./ngif-vs-hidden.og.webp"
 ---
 
-# *ngIf vs [hidden]
+# \*ngIf vs [hidden]
 
 ## A Primer On Angular HTML Syntax
 
