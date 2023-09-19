@@ -1,4 +1,12 @@
-# ngIf Versus Hidden
+---
+tags:
+  - Angular
+  - "*ngIf"
+  - Angular-Directives
+description: "*ngIf should almost always be used over [hidden]. This is why."
+---
+
+# *ngIf vs [hidden]
 
 ## A Primer On Angular HTML Syntax
 
