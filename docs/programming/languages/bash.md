@@ -5,6 +5,8 @@
 - [Bash-Oneliner](https://onceupon.github.io/Bash-Oneliner/)
 - [Shell Script Best Practices](https://sharats.me/posts/shell-script-best-practices/),
   Shrikant Sharat Kandula ([HN](https://news.ycombinator.com/item?id=33354286))
+- Apparently the [Advanced Bash Scripting](https://tldp.org/LDP/abs/html/) guide
+  is considered full of bugs, as per the \#bash community on Libera.chat.
 
 Useful tips:
 
@@ -20,3 +22,6 @@ Useful tips:
 - [ShellCheck](https://www.shellcheck.net/),
   ([GitHub](https://github.com/koalaman/shellcheck)) can be used as a linter for
   shell scripts.
+  - The [ShellCheck Wiki](https://www.shellcheck.net/wiki/Home) provides all of
+    the rules, explanations for why, and examples for the rules checked by
+    ShellCheck
