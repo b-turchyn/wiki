@@ -20,6 +20,9 @@ Interesting links and projects:
   [Keith Peters](https://www.bit-101.com/)
   - A great collection of information about how computers draw curves using math
     (lots and lots of math). Lots of visuals, reads fairly easy. It's great.
+- [christina-de-martinez/babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes),
+  a Babel plugin that translates internet slang into valid Javascript
+  - Found via [this YouTube short](https://www.youtube.com/watch?v=vgcbwv_3WDU)
 
 ## Concepts
 
