@@ -25,9 +25,96 @@ class, which Tasker invokes with an Intent.
 
 ### Input
 
+Input classes define the variables that should be passed to the plugin when
+running them. Each input class starts with a `@TaskerInputRoot` annotation, and
+each field is annotated with `@field:TaskerInputField` or
+`@field:TaskerInputObject`.
+
+See [Data Types](#data-types) for the accepted data types, as well as the
+caveats you should be aware of when working with inputs.
+
+An example is available in [Creating An Input Object](#creating-an-input-object)
+
 ### Output
 
+Output classes define the variables that are returned from the plugin action.
+When your plugin action is successful, Tasker will return all non-null values
+defined here.
+
+See [Data Types](#data-types) for the accepted data types, as well as the
+caveats you should be aware of when working with inputs.
+
+If the plugin action returns an error Tasker will return two additional
+variables:
+
+- `%err`: A numeric error code. As the plugin developer, you will be responsible
+  for defining these and what each one of them means.
+- `%errmsg`: The error message. You are also responsible for defining these
+  based on your error conditions.
+
+Each output class must have a `@TaskerOutputObject` annotation. Each field you
+want to return must be annotated with `@get:TaskerOutputVariable`. There is no
+such thing as `@TaskerOutputRoot` (not sure why that paradigm wasn't followed
+from the input object)
+
+You can have nested objects in your output object. If you do this, the exact
+same rules as above need to be followed, but don't annotate the object field
+with `@get:TaskerOutputVariable`.
+
+An example is TODO
+
 ### Config Activities
+
+## Data Types
+
+Tasker input variables can only be one of the following data types:
+
+- `int`
+- `long`
+- `float`
+- `double`
+- `boolean`
+- `String`
+- `String[]`
+- `ArrayList<String>`
+- Another input object
+
+Tasker output variables will always have `.toString()` run on them prior to
+being returned to Tasker, so while you can technically have any data type in
+your output classes, the String equivalents to each field will actually be
+provided.
+
+### Variable Interpolation
+
+If you want to accept dynamic input from Tasker (i.e. via variables that are
+being set before calling your plugin), those values _must_ be a `String` type.
+You will be responsible for setting them to the correct data type and doing
+proper type checking!
+
+Why is this? Because Tasker's variables are all `String` data types when being
+test passed around, and the only way to reference a variable is by writing out
+its `String` name.
+
+Assume, for a moment, that you have the following input object:
+
+```kotlin
+@TaskerInputRoot
+class HelloWorldInput @JvmOverloads constructor(
+  @field:TaskerInputField("name") var name: String? = null
+)
+```
+
+Setting the variable value to `%myvar` would replace the text `%myvar` with the
+value of that variable. This runs contrary to the belief you may have that
+setting the variable `%name` before calling your plugin action would set the
+value of the `name` field on your input!
+
+This means that, if you want to accept an external variable as input for a
+`long` data type, you would need to:
+
+1. Make the data type as a `String` instead of a `long`
+2. Convert the `String` to a `long` in your runner's code (or as a helper
+   function in your input class
 
 ## Configuring Your Project
 
@@ -200,6 +287,51 @@ example below assumes your activity is under the `.action` package.
 The _intent filter_ is required for Tasker to be able to detect your activity.
 
 That's it! Hello World should now show up in Tasker and be able to be triggered.
+
+### Accepting Input
+
+Building upon our previous example, we can extend this to accept input from the
+user. To do this, we need to create an Input class, then update our helper,
+config, and runner classes.
+
+#### Creating An Input Object
+
+Following [the requirements of inputs](#input), we need to create a new Input
+class to store our input.
+
+```kotlin
+// The top level of the input requires this annotation
+@TaskerInputRoot
+class HelloWorldInput @JvmOverloads constructor(
+  // Each field we receive from Tasker must be defined with this field. There
+  // are additional options that can be used to specify a localized name,
+  // description, and more.
+  @field:TaskerInputField("name") var name: String? = "World"
+)
+```
+
+Note that every variable needs a _default value provided_. This can be null, but
+doesn't need to be.
+
+For more complex input, we can nest our input; Tasker will provide it in the
+correct location.
+
+```kotlin
+// The top level of the input requires this annotation
+@TaskerInputRoot
+class HelloWorldInput @JvmOverloads constructor(
+  // Each field we receive from Tasker must be defined with this field. There
+  // are additional options that can be used to specify a localized name,
+  // description, and more.
+  @field:TaskerInputField("name") var name: String? = "World"
+  @field:TaskerInputObject("formatting") var formatting: FormattingInput = FormattingInput()
+)
+
+@TaskerInputObject("formatting")
+class FormattingInput @JvmOverloads constructor(
+  @field:TaskerInputField("suffix") var suffix: String = "!"
+)
+```
 
 ## Samples and Library Source
 
