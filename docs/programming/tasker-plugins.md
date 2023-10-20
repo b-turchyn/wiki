@@ -1,5 +1,6 @@
 ---
 description: "A comprehensive guide to developing integrations with Tasker"
+image: ./tasker-plugins.og.webp
 ---
 
 # Tasker Plugin Development
