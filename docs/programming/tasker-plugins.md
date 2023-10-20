@@ -6,6 +6,20 @@ description: "A comprehensive guide to developing integrations with Tasker"
 
 ## How Actions Work
 
+Tasker plugins require a number of classes to work, depending on what you're
+trying to accomplish. At minimum, you will need a _helper_, _runner_, and a
+_configuration activity_, but you may also need _input_ and _output_ classes.
+
+### Runner
+
+A _runner_ is responsible for performing the action defined by you, the
+developer. When Tasker says "okay, perform the action", this is the code that is
+executing.
+
+All runners extend the
+[TaskerPluginRunnerAction](https://github.com/joaomgcd/TaskerPluginSample/blob/master/taskerpluginlibrary/src/main/java/com/joaomgcd/taskerpluginlibrary/action/TaskerPluginRunnerAction.kt)
+class, which Tasker invokes with an Intent.
+
 ### Helpers
 
 ### Input
