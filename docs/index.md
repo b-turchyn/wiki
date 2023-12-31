@@ -25,7 +25,7 @@ Some articles you may find interesting:
 
 - [My Workflow](workflow.md)
 
-{@import ../loc.txt}
+%import ../loc.txt%
 
 ## Contact
 

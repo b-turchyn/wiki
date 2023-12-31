@@ -1,6 +1,5 @@
-const visit = require('unist-util-visit');
-const toString = require('mdast-util-to-string');
-// import toString from 'mdast-util-to-string';
+import { visit } from 'unist-util-visit';
+import { toString } from 'mdast-util-to-string';
 
 const plugin = (options) => {
   const transformer = async (ast) => {

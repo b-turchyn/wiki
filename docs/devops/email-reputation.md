@@ -12,7 +12,9 @@ Sender Score is an option for checking sender reputation. The original site
 appears to request contact information, but the report seems to be able to be
 accessed just by going to a known URL:
 
-    https://senderscore.org/report/?lookup=<ip-address>&authenticated=true
+```
+https://senderscore.org/report/?lookup=<ip-address>&authenticated=true
+```
 
 Microsoft's Smart Network Data Service (SNDS) can be used to monitor IP
 reputation with Microsoft receivers.
