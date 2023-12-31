@@ -5,8 +5,9 @@ BIN_PATH=$(dirname $(readlink -f "$(dirname "${BASH_SOURCE[0]}")/../"))
 
 if [[ ! -x "${BIN_PATH}/scc" ]]
 then
-  curl -L -o "${BIN_PATH}/scc.zip" https://github.com/boyter/scc/releases/download/v3.2.0/scc_Linux_x86_64.tar.gz
-  unzip -d "${BIN_PATH}" "${BIN_PATH}/scc.zip"
+  curl -L -o "${BIN_PATH}/scc.tar.gz" https://github.com/boyter/scc/releases/download/v3.2.0/scc_Linux_x86_64.tar.gz
+  tar xfz "${BIN_PATH}/scc.tar.gz" scc
+  #unzip -d "${BIN_PATH}" "${BIN_PATH}/scc.tar.gz"
   if [[ -f "${BIN_PATH}/scc" && ! -x "${BIN_PATH}/scc" ]]
   then
     chmod +x "${BIN_PATH}/scc"
