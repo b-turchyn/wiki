@@ -1,6 +1,7 @@
 ---
 tags:
   - Incomplete
+  - Book
 ---
 
 # Building a Second Brain

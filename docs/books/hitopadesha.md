@@ -2,6 +2,7 @@
 tags:
   - Location/India
   - Philosophy
+  - Boo
 ---
 
 # Hitopadesha

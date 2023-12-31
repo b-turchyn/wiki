@@ -1,4 +1,6 @@
 ---
+tags:
+  - Book
 ---
 
 # Effortless

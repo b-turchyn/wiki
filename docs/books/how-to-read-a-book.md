@@ -1,6 +1,7 @@
 ---
 tags:
   - Incomplete
+  - Book
 ---
 
 # How To Read A Book

@@ -2,6 +2,7 @@
 description: Notes on the book "Tribes" by Seth Godin
 tags:
   - Incomplete
+  - Book
 ---
 
 # Tribes: We Need You To Lead Us

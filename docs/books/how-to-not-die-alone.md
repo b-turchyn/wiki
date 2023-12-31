@@ -1,6 +1,7 @@
 ---
 tags:
   - Incomplete
+  - Book
 ---
 
 # How To Not Die Alone

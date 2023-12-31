@@ -3,6 +3,8 @@ description:
   My notes on Austin Kleon's book "Keep Going". It's a great book to read
   through and should be on the desk of any creative for when they get into a
   rut.
+tags:
+  - Book
 ---
 
 # Keep Going
