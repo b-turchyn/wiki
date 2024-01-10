@@ -18,6 +18,16 @@ tags:
   ([source](https://stackoverflow.com/a/71888578), StackOverflow).
 - Alternatively for pagination, a `Pageable` argument can be supplied.
 
+## Useful Commands
+
+- Set a value to null (requires MongoDB >=4.2 for the
+  [aggregration pipeline](https://www.mongodb.com/docs/manual/core/aggregation-pipeline/#std-label-aggregation-pipeline))
+  ```js
+  db.collection.findOneAndUpdate({ _id: ObjectId("foo") }, [
+    { $addFields: { deletedDate: null } },
+  ]);
+  ```
+
 ## Useful Links
 
 - [Query and Projection Operators](https://www.mongodb.com/docs/manual/reference/operator/query/)
