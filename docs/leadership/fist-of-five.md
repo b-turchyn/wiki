@@ -16,7 +16,7 @@ For assessing effectiveness, the scale can be thought of as _a five-star rating
 system_, with zero stars meaning that it was a complete waste of time, and five
 stars meaning it was incredibly useful and effective.
 
-This voting technique is common in [Agile](/devops/scrum.md) development.
+This voting technique is common in [Agile](/devops/scrum/index.md) development.
 
 ## References
 
