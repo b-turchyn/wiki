@@ -50,7 +50,7 @@ will be trying out a
 [Leuchtturm1917 Medium A5 Dotted notebook](https://www.amazon.ca/dp/B002TSIMW4/)
 next. While you can use any kind of paper, I find that using something that's
 [high quality](/writing/quality.md) incentivizes me to journal more; this
-triggers the ["make it fun"](/psychology/habits.md#Forming%20Habits) aspect of
+triggers the ["make it fun"](/psychology/habits.md#forming-habits) aspect of
 habit forming.
 
 ## Apps
