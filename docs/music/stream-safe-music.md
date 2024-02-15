@@ -4,7 +4,7 @@ description:
   link to the Google Drive for StreamBeats downloads.
 ---
 
-# Royalty-Free Music
+# Stream-Safe Music
 
 A collection of music collections that can be used in
 [Twitch streams](social-media/streaming.md), YouTube videos, and more for
@@ -31,3 +31,6 @@ commercial purposes without paying any royalty fees.
 - [LoFi Girl](https://lofigirl.com/use-the-music/)
   - Credit is required in the descriptions; see the above link for how to credit
     properly.
+- [GameChops](https://gamechops.com)
+  - Video game remixes and cover songs
+  - Free to stream

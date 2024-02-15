@@ -26,6 +26,10 @@
       "destination": "/design/colour/"
     },
     {
+      "source": "/music/royalty-free-music(/?)",
+      "destination": "/music/stream-safe-music/"
+    },
+    {
       "source": "/productivity/automation(/?)",
       "destination": "/automation/"
     },
