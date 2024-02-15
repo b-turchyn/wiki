@@ -23,7 +23,7 @@ is a good read for those who are looking at getting into streaming.
 - [NowPlaying](https://nowplaying.site/) - Browser source for streaming
   programs. Watches what you're currently playing in Spotify and shows a
   notification widget when the song changes.
-  - [Royalty-Free Music](music/royalty-free-music.md) has a list of artists and
+  - [Stream-Free Music](music/stream-safe-music.md) has a list of artists and
     songs that are safe to play while streaming.
 - [StreamElements](https://streamelements.com/) - I use this for a chat bot and
   for overlays.
