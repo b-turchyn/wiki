@@ -1,7 +1,9 @@
 ---
 description:
-  Sources of music for streaming or videos on social media platforms
+  Sources of music for streaming or videos on social media platforms. Includes a
+  link to the Google Drive for StreamBeats downloads.
 ---
+
 # Royalty-Free Music
 
 A collection of music collections that can be used in
@@ -22,5 +24,10 @@ commercial purposes without paying any royalty fees.
     for Twitch).
 - [Stream Beats](https://www.senpai.tv/streambeats/) by Harris Heller
   - I first heard about this through Harris Heller's YouTube videos
+  - As of 2024-02-15, the download links in the StreamBeats Discord server are
+    dead and there hasn't been any response from any staff in there. But this is
+    the
+    [StreamBeats Download link](https://drive.google.com/drive/folders/196AfI6vYiSwKqb7ATKKg4J_4PcwG84jC)
 - [LoFi Girl](https://lofigirl.com/use-the-music/)
-  - Credit is required in the descriptions; see the above link for how to credit properly.
+  - Credit is required in the descriptions; see the above link for how to credit
+    properly.
