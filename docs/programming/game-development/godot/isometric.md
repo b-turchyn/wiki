@@ -25,7 +25,30 @@ you've done a linear transformation.
 We're going to be doing vector and matrix multiplication in order to work in
 this environment. Godot makes this pretty easy.
 
+### Common Ratios
+
+It's common to use a 2:1 ratio on cartesian coordinates to achieve the isometric
+look. This means that, to move on a grid, you move 2 pixels on the `x`
+coordinate for every 1 pixel on the `y` coordinate.
+
+This whole article will assume that we're working with that 2:1 ratio.
+
+![](isometric-grid.png)
+
+If we held a standard 2D grid in our hands, what would we do to it to get to the
+isometric layout? We would take the grid, turn it 45 degrees, and then squish
+down on the new vertical axis. That's fine, but how do we explain this to a
+computer?
+
+We need to use linear transformations.
+
 ### Linear Transformations
+
+Brilliant.org provides
+[a good definition of linear transformations on their wiki](https://brilliant.org/wiki/linear-transformations/):
+
+> A **linear transformation** is a function from one vector space to another
+> that respects the underlying (linear) structure of each vector space.
 
 For a nice primer on linear transformations, watch
 [this video by 3Blue1Brown](https://www.youtube.com/watch?v=kYB8IZa5AuE). Yes,
@@ -33,3 +56,5 @@ it's a video about math. No, you shouldn't skip it. If you want to make video
 games, you need to know how this stuff works.
 
 ## Tileset and Tilemap creation
+
+## Translating Between Cartesian and Isometric Coordinates
