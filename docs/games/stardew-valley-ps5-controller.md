@@ -18,6 +18,15 @@ The solution is to replace Stardew Valley's copy of libSDL with a newer version.
 Note that the library we're replacing will likely get overwritten every time
 Stardew Valley updates; you may need to run these steps with every update.
 
+:::info
+
+While I've tested this with a PlayStation DualSense Edge controller, chances are
+that this should work with any modern controller that doesn't work for you like
+the XBox Series X or Nintendo Joycons. If either of these fixes work for you,
+please let me know and I'll update this!
+
+:::
+
 ## Option 1: Download A Pre-Built Version
 
 If you do not have XCode installed (and do not want to install it), then your
