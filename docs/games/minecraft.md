@@ -25,6 +25,12 @@ Mods I use:
 |      Spark | Yes  |         Yes          |
 |  Tweakeroo | Yes  | Community Maintained |
 
+## Modpacks
+
+- I like using [Moddermore](https://moddermore.net) to build modpacks. It's my
+  preferred site. They plug into [Prism Launcher](https://prismlauncher.org/)
+  easily too.
+
 ## Farms
 
 Rays Works maintains a list of all items in the game, whether they are farmable,
