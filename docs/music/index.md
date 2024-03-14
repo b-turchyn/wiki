@@ -7,10 +7,6 @@ title: "🎵 Music"
 I love music. I almost always have something playing depending on what I'm doing
 or what mood I'm in.
 
-Many artists have explicitly allowed streaming their music on Twitch.
-
-- [Alan Gogoll](https://www.alangogoll.com/twitch)
-
 An explanation of how sound works from a physics perspective was created by
 [Bartosz Ciechanowski](https://ciechanow.ski/)
 ([link](https://ciechanow.ski/sound/)). It's both really informative and just a

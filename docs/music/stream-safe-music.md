@@ -34,3 +34,5 @@ commercial purposes without paying any royalty fees.
 - [GameChops](https://gamechops.com)
   - Video game remixes and cover songs
   - Free to stream
+
+[Alan Gogoll](https://www.alangogoll.com/) used to allow their music to be streamed on Twitch, however the Twitch page is no longer available 😭
