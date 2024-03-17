@@ -1,4 +1,7 @@
 ---
+description: A regular habit to help your mental health and plan your life. Styles, tips, apps, and other references.
+image: "./journaling.webp"
+type: article
 tags:
   - Novelty/Medium
 ---
