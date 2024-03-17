@@ -24,10 +24,7 @@ commercial purposes without paying any royalty fees.
     for Twitch).
 - [Stream Beats](https://www.senpai.tv/streambeats/) by Harris Heller
   - I first heard about this through Harris Heller's YouTube videos
-  - As of 2024-02-15, the download links in the StreamBeats Discord server are
-    dead and there hasn't been any response from any staff in there. But this is
-    the
-    [StreamBeats Download link](https://drive.google.com/drive/folders/196AfI6vYiSwKqb7ATKKg4J_4PcwG84jC)
+  - As of 2024-03-17, [a new website](https://streambeats.com/) is being built, with the [download link](https://drive.google.com/drive/folders/196AfI6vYiSwKqb7ATKKg4J_4PcwG84jC) being included on the page.
 - [LoFi Girl](https://lofigirl.com/use-the-music/)
   - Credit is required in the descriptions; see the above link for how to credit
     properly.
