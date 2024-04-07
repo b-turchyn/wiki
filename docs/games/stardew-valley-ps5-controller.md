@@ -9,9 +9,10 @@ description:
 This covers both the PlayStation 5 DualSense controller as well as the
 PlayStation Edge DualSense Controller.
 
-As of Feb 12 2024, the current stable version of Stardew Valley will not
+As of April 7 2024, the current stable version of Stardew Valley will not
 recognize PS5 controllers in Steam. The problem is that the SDL library (Simple
-DirectMedia Layer) is out-of-date.
+DirectMedia Layer) is out-of-date. This means you will run into this issue up to
+and including Stardew Valley's 1.6 update (and likely further on).
 
 The solution is to replace Stardew Valley's copy of libSDL with a newer version.
 
