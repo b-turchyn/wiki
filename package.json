@@ -28,7 +28,7 @@
     "rehype-katex": "^7.0.0",
     "rehype-urls": "^1.1.1",
     "remark-math": "^6.0.0",
-    "vercel": "^33.6.1"
+    "vercel": "^33.7.0"
   },
   "devDependencies": {
     "@docusaurus/module-type-aliases": "^3.1.1",
