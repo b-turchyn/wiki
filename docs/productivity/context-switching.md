@@ -38,9 +38,10 @@ efficient in this case means:
 - Prioritize what you need to get done. Urgent and important tasks first. The
   [Eisenhower Matrix](productivity/eisenhower-matrix.md) is a great, simple
   approach.
-- Prevent distractions in the first place; turn off notifications, set yourself
-  to "Do Not Disturb", book time in your calendar, close down programs you won't
-  need, and put your phone outside of arm's reach
+- Prevent [distractions](/productivity/distraction.md) in the first place; turn
+  off notifications, set yourself to "Do Not Disturb", book time in your
+  calendar, close down programs you won't need, and put your phone outside of
+  arm's reach
 - Timebox your work. Use a technique such as
   [Pomodoro](productivity/pomodoro.md) to block off a unit of time (usually 25
   minutes) with a known break at the end.

@@ -244,9 +244,9 @@ remaining items are your To Do list.
 Apply April Perry's concept of a _Microburst_: ten minutes of highly focused
 work that has an immediate impact on your project.
 
-Do your best to avoid distractions in [the now](/psychology/the-present.md).
-[Twitter](social-media/twitter.md) and [social media](/social-media/index.md)
-can distract you from your goals.
+Do your best to avoid [distractions](/productivity/distraction.md) in
+[the now](/psychology/the-present.md). [Twitter](social-media/twitter.md) and
+[social media](/social-media/index.md) can distract you from your goals.
 
 ### Chapter 8: Simplify
 
