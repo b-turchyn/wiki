@@ -40,3 +40,15 @@ Creating game assets:
 
 - [Creating Isometric RPG Game Backgrounds](https://talesofsyn.com/posts/creating-isometric-rpg-game-backgrounds)
   ([HN](https://news.ycombinator.com/item?id=34989407))
+
+### Shaders
+
+- [Shadertoy](https://www.shadertoy.com/)
+
+### Visual Assets
+
+- [ambientCG](https://ambientcg.com/) - public domain assets, materials, HDRIs,
+  SBSARs, and models
+- [Game-icons.net](https://game-icons.net/)
+- [Polyhaven](https://polyhaven.com/)
+- [Share Textures](https://www.sharetextures.com/)
