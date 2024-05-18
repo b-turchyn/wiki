@@ -1,7 +1,8 @@
 # Motivation
 
-It's better to be disciplined than motivated. Motivation will come and go.
-Discipline empowers you to push past a lack of motivation.
+It's better to be [disciplined](/productivity/discipline.md) than motivated.
+Motivation will come and go. Discipline empowers you to push past a lack of
+motivation.
 
 Keep a list of dull, boring tasks. When feeling unmotivated, grab some items off
 of that list and take care of those. (A Todoist label would be perfect for this
