@@ -1,7 +1,9 @@
 ---
-description: A regular habit to help your mental health and plan your life. Styles, tips, apps, and other references.
+description:
+  A regular habit to help your mental health and plan your life. Styles, tips,
+  apps, and other references.
 image: "./journaling.webp"
-type: article
+"og:type": article
 tags:
   - Novelty/Medium
 ---
@@ -43,9 +45,9 @@ to reflect on them, helping you to reason through them.
 
 I have personally found that journaling in a physical notebook to me more
 effective for me. Because I write slower than I type, I have time to think
-things through while writing. Phones and computers also are distraction
-machines, and so without those in front of me I am able to
-[focus better](/productivity/focus.md).
+things through while writing. Phones and computers also are
+[distraction](/productivity/distraction.md) machines, and so without those in
+front of me I am able to [focus better](/productivity/focus.md).
 
 I have used a
 [Rhodia Webbie Dot Grid A5 notebook](https://www.amazon.ca/dp/B006CQSRDS/), and
