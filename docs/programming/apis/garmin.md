@@ -32,7 +32,9 @@ Send a POST request to `https://connect.garmin.com/services/auth/token/refresh`
 This should give you a new access and refresh token, as well as a new `JWT_FGP`
 cookie. You'll need all of these to be able to refresh the token next time.
 
-## Daily Summary
+## Data APIs
+
+### Daily Summary
 
 `GET https://connect.garmin.com/usersummary-service/usersummary/daily/<guid>?calendarDate=<date>`
 
@@ -43,9 +45,9 @@ URL values:
 - `calendarDate` (date in YYYY-MM-DD format, required): date to retrieve the
   summary for
 
-## Hydration
+### Hydration
 
-### Log Water
+#### Log Water
 
 `PUT https://connect.garmin.com/usersummary-service/usersummary/hydration/log`
 
@@ -79,3 +81,8 @@ Response contains a result like this:
   "activityIntakeInML": 0.0
 }
 ```
+
+## Other Projects
+
+- [matin/garth](https://github.com/matin/garth) is an unofficial API in Python
+  for retrieving data, but doesn't seem to support the writing of data
