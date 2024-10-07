@@ -1,5 +1,10 @@
 # GnuPG / GPG
 
+- [This cheatsheet](https://devhints.io/gnupg) was useful for some basic usage,
+  in particular extracting data out of a key using `gpg`.
+- Extracting a key's ID can be done with `gpg -k --with-colons | cut -d ':' -f5`
+  for the 5th field
+
 ## Troubleshooting
 
 If the following error is received:
