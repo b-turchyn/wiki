@@ -25,6 +25,9 @@ const urlRewriteConfig = function(url, node) {
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
+  future: {
+    experimental_faster: true,
+  },
   title: 'Everything I Know',
   // tagline: 'Dinosaurs are cool',
   url: 'https://wiki.brianturchyn.net',
