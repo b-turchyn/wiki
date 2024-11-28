@@ -19,3 +19,8 @@ for writing your own GDD.
   - This was a GDD provided as an example from
     [Pirate Software](https://www.gopiratesoftware.com)'s
     [develop.games](https://develop.games) site
+- Submissions from Pirate Software's
+  [Game Jam 15](https://itch.io/jam/pirate15):
+  - [Owlchemist](https://docs.google.com/document/d/1_iPOdIFm9iiRNyMTM2WL3YTD0CGeOks3YKBjTsDJvd8/edit?tab=t.0#heading=h.t6olaicbthga)
+  - [The Shattered Knight of Elaria](https://docs.google.com/document/d/1tsumfQjx0CkAsebv9CxLLy0u1VFbNn0Irja9iwpGJoQ/edit?usp=sharing)
+  - [Umblight](https://drive.google.com/file/d/1my1OAbhSyYoXz69_WAx3gNQ51LRVyxJD/view?usp=sharing)
