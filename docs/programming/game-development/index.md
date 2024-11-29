@@ -25,8 +25,14 @@ Windows Registry Editor Version 5.00
 ## Resources
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
-- [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
-  ([archive](https://archive.ph/CTukV))
+- [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike) ([archive](https://archive.ph/CTukV))
+- [Game Jam Theme Generator](https://letsmakeagame.net/game-jam-theme-generator/) Some interesting ones I've generated: 
+	- Nothing Is Permanent
+	- Going Deeper
+	- Parallel Dimensions
+	- You Are Your Own Enemy
+	- Stuck In A Loop
+	- The Environment Changes You
 
 Procedural generation:
 
