@@ -38,7 +38,11 @@ const config = {
   organizationName: 'b-turchyn', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
   trailingSlash: true,
+  markdown: {
+    mermaid: true,
+  },
   themes: [
+    '@docusaurus/theme-mermaid',
     [
       require.resolve('@easyops-cn/docusaurus-search-local'),
       ({
