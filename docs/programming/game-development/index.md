@@ -58,3 +58,26 @@ Creating game assets:
 - [Game-icons.net](https://game-icons.net/)
 - [Polyhaven](https://polyhaven.com/)
 - [Share Textures](https://www.sharetextures.com/)
+
+## Learning Plan
+
+```mermaid
+graph TD
+    A[Game Development Basics] --> B[Godot Engine Basics]
+    B --> C[2D Game Mechanics]
+    B --> D[Isometric Game Mechanics]
+    B --> E[Accessibility Features]
+    A --> N[General Game Mechanics]
+    N --> C
+    N --> D
+    C --> F[Pixel Art with Aseprite]
+    D --> F
+    F --> G[Animating with Aseprite]
+    G --> H[Integrating Pixel Art in Godot]
+    H --> I[Game Polish & Optimization]
+    I --> J[Release Planning]
+    I --> K[Testing & Debugging]
+    K --> L[Marketing & Community Engagement]
+    J --> L
+    L --> M[Game Launch]
+```
