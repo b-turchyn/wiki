@@ -31,9 +31,8 @@ Some articles you may find interesting:
 
 I can be found online in the following locations:
 
-- [My personal website](https://brianturchyn.net), of which there's a weekly
-  newsletter
-- On [Twitter](https://twitter.com/btwritescode) and <a
+- [My personal website](https://brianturchyn.net)
+- On <a
   href="https://mastodon.social/@btwritescode" rel="me noopener noreferrer">Mastodon</a>
 - On [GitHub](https://github.com/b-turchyn)
 
