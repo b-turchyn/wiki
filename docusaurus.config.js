@@ -1,15 +1,16 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
+
 const {themes} = require('prism-react-renderer');
 const lightCodeTheme = themes.github;
 const darkCodeTheme = themes.dracula;
 
-const sectionPrefix = require('./src/plugins/section-prefix');
+import sectionPrefix from './src/plugins/section-prefix';
 
 const math = require('remark-math');
 const katex = require('rehype-katex');
-const importPartial = require('./src/plugins/remark-import-partial');
+import importPartial from './src/plugins/remark-import-partial';
 const smartypants = require('@silvenon/remark-smartypants');
 const urls = require('rehype-urls');
 const fontaine = require('fontaine');
@@ -29,7 +30,6 @@ const config = {
     experimental_faster: true,
   },
   title: 'Everything I Know',
-  // tagline: 'Dinosaurs are cool',
   url: 'https://wiki.brianturchyn.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -84,7 +84,7 @@ const config = {
 
   presets: [
     [
-      'classic',
+      '@docusaurus/preset-classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       {
         docs: {
@@ -181,4 +181,4 @@ const config = {
   clientModules: [require.resolve('./titleChange.ts')]
 };
 
-module.exports = config;
+export default config;
