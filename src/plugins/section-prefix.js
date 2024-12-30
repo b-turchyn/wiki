@@ -28,4 +28,4 @@ const plugin = (options) => {
   return transformer;
 };
 
-module.exports = plugin;
+export default plugin;
