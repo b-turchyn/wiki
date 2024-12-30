@@ -2,13 +2,13 @@
  * Modified from https://github.com/dotansimha/remark-import-partial due to
  * issues with Docusaurus v3 (changed regex to not conflict with math rendering)
  */
-const { readFileSync, existsSync } = require('fs');
-const { resolve } = require('path');
+import { readFileSync, existsSync } from 'fs';
+import { resolve } from 'path';
 //const visit = require('unist-util-visit');
 import { visit } from 'unist-util-visit';
 const RGX = /%import (.*?)%/;
 
-module.exports = function() {
+export default function() {
   const unified = this;
 
   return function transformer(tree, file) {
