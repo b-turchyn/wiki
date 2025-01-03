@@ -8,6 +8,11 @@ but much of the fundamentals still apply. Suz's earlier article about
 [lessons learned from streaming on Twitch](https://web.archive.org/web/20190226221418/https://medium.freecodecamp.org/lessons-from-my-first-year-of-live-coding-on-twitch-41a32e2f41c1)
 is a good read for those who are looking at getting into streaming.
 
+[Rob Muhlestein](https://linktr.ee/rwxrob) (rwxrob) has
+[a nice page of lessons learned](https://rwxrob.github.io/bad-strimmer/) from
+his experience streaming for both development and IRL content, and just
+surviving streaming as a smaller content creator.
+
 ## Streaming Sites
 
 - [Twitch](https://twitch.tv)
