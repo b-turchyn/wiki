@@ -25,14 +25,24 @@ Windows Registry Editor Version 5.00
 ## Resources
 
 - [Game Programming Patterns](https://gameprogrammingpatterns.com/)
-- [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike) ([archive](https://archive.ph/CTukV))
-- [Game Jam Theme Generator](https://letsmakeagame.net/game-jam-theme-generator/) Some interesting ones I've generated: 
-	- Nothing Is Permanent
-	- Going Deeper
-	- Parallel Dimensions
-	- You Are Your Own Enemy
-	- Stuck In A Loop
-	- The Environment Changes You
+- [How to Make a Roguelike](https://www.gamedeveloper.com/design/how-to-make-a-roguelike)
+  ([archive](https://archive.ph/CTukV))
+- [Game Jam Theme Generator](https://letsmakeagame.net/game-jam-theme-generator/)
+  Some interesting ones I've generated:
+  - Nothing Is Permanent
+  - Going Deeper
+  - Parallel Dimensions
+  - You Are Your Own Enemy
+  - Stuck In A Loop
+  - The Environment Changes You
+- [2DGD-F0TH](https://github.com/2DGD-F0TH/2DGD_F0TH) (2D Game Development: From
+  Zero to Hero) is an eBook I found via
+  [a Hacker News post](https://news.ycombinator.com/item?id=42616487). This is
+  on my list to read. It aims to be a collection of community knowledge for
+  building and releasing 2D games. There were some comments in the HN post that
+  the author didn't have any industry experience, but I haven't validated that
+  and I'm not sure how much that would make a difference for the information in
+  here.
 
 Procedural generation:
 
