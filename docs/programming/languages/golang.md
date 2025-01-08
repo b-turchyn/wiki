@@ -21,6 +21,9 @@
   - Hasn't been updated since 2009, but the core concepts still remain. Does not
     account for things like `go mod` or any of the new language features.
 - [Learn Go with Tests](https://quii.gitbook.io/learn-go-with-tests/)
+- [Learn Go in Y Minutes](https://learnxinyminutes.com/go/)
+- [Common Go Mistakes](https://100go.co/), a summary of the book
+  [100 Go Mistakes and How to Avoid Them](https://100go.co/book/)
 - [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/),
   Jesse Li ([HN](https://news.ycombinator.com/item?id=33495328))
 - [The Busy Developer's Guide to Go Profiling, Tracing, and Observability](https://github.com/DataDog/go-profiler-notes/blob/main/guide/README.md)
