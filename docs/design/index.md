@@ -16,6 +16,13 @@ title: "🖼 Design"
   for developers with tons of extra icons loaded into them.
 - [Juice](https://garden.bradwoods.io/notes/design/juice): what it is, and how
   to use it
+- [The Quintessential Guide For Building An Unforgettable First-time User Experience](https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2)
+  [[archive]](https://web.archive.org/web/20241223181335/https://hackernoon.com/the-quintessential-guide-for-building-an-unforgettable-first-time-user-experience-19720a7447d2)
+  by [Wayne Chung](https://hackernoon.com/u/waynechang) I think is a really good
+  example of how you can make a user's first experience really special. The
+  attention to detail and making the first experience really special to the user
+  resonates a lot with me. I read it back when the article first came out in
+  2017 and it pops back into my head multiple times a year.
 
 Inspiration:
 
