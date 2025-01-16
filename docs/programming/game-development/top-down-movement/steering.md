@@ -1,18 +1,46 @@
-# Seek Steering Behaviour
+---
+description:
+  An implementation of 8-way, top-down movement using a basic steering function
+  to govern acceleration and deceleration, explaining how it works and why.
+tags:
+  - 2D
+  - Godot
+  - Physics
+  - Movement
+---
+
+# Top-Down Movement with a Seek Steering Function
 
 _See also: [Steering Behaviour](../steering-behaviour.md)_
 
+I sourced the original implementation of this from
+[GDQuest's Top Down Movement tutorial](https://www.gdquest.com/tutorial/godot/2d/top-down-movement/#smoother-movement-with-steering-behaviors).
+After a bit of extra research, this steering function seems to be a _Seek
+steering function_.
+
+Typically this would be used to seek out some far off spot, but there's nothing
+stopping us from that far off spot being the maximum speed in the direction the
+user specifies. That's how this works.
+
+For deceleration, we simply seek to have our velocity vector be zero.
+
+A problem with a basic implementation of this is that we get asymptotically
+close to our max speed or being stationary; that is, we will get really close to
+our max speed (or being completely stationary) but never hit that actual number.
+For acceleration that _could_ be a problem, but for deceleration that's almost
+guaranteed to be one. To combat this I added a small, arbitrary amount to the
+velocity each time (using the `_adjust_velocity()` function) to nudge the
+velocity in the right direction.
+
 ```gdscript
-## This implements a basic seek steering function
-## The original source material is from here:
-##  https://www.gdquest.com/tutorial/godot/2d/top-down-movement/#smoother-movement-with-steering-behaviors
 extends CharacterBody2D
 
 ## The maximum speed allowed, in pixels per second
 @export var max_speed: float = 200.0
-## This decides how much of the difference in current and target velocity we should be applying
-## to the current velocity. A higher acceleration number means that we will apply a larger value.
-## Valid values are between 0.0 and 1.0.[br]
+## This decides how much of the difference in current and target velocity we
+## should be applying to the current velocity. A higher acceleration number
+## means that we will apply a larger value. Valid values are between 0.0 and
+## 1.0.[br]
 ## A value of [code]0.0[/code] means that you won't accelerate at all.
 ## A value of [code]1.0[/code] means that you'll accelerate instantaneously.
 @export var acceleration_coefficient: float = .1
