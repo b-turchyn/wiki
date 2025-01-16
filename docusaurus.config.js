@@ -1,10 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-
 const {themes} = require('prism-react-renderer');
-const lightCodeTheme = themes.github;
-const darkCodeTheme = themes.dracula;
+import { darkTheme, lightTheme } from './src/plugins/catppuccin';
 
 import sectionPrefix from './src/plugins/section-prefix';
 
@@ -157,8 +155,8 @@ const config = {
         copyright: `Copyright © ${new Date().getFullYear()} Brian Turchyn. Last updated ${new Date().toDateString()}.`,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: lightTheme,
+        darkTheme: darkTheme,
         additionalLanguages: ['awk', 'gdscript', 'kotlin', 'java', 'properties', 'ruby', 'vim'],
       },
     },
