@@ -1,8 +1,12 @@
 ---
-title: "Basic Top-Down Movement in Godot 4"
 description:
   A basic implementation of 8-way, top-down movement, explaining how it works
   and why.
+tags:
+  - 2D
+  - Godot
+  - Physics
+  - Movement
 ---
 
 # Basic Top-Down Movement

@@ -1,8 +1,25 @@
+---
+description:
+  An implementation of linear acceleration and deceleration using 8-way,
+  top-down movement, explaining how it works and why.
+tags:
+  - 2D
+  - Godot
+  - Physics
+  - Movement
+---
+
 # Linear Acceleration and Deceleration
 
 Instead of just having [basic movement](./basic.md), we can easily add some
 acceleration. Linear acceleration can be easily added by adding a set number per
 physics frame.
+
+## A General Approach
+
+While this is written in GDScript, it's something that could work in any sort of
+game engine. We'll refine this below with a Godot-optimized version which
+reduces the amount of code significantly.
 
 ```gdscript
 ## This character will always accelerate or decelerate at a constant rate. Once
@@ -45,6 +62,8 @@ func _direction() -> Vector2:
 	return Input.get_vector("left", "right", "up", "down")
 ```
 
+## A Godot-optimized Version
+
 Here's a more Godot-focused approach (or at least, game engines with a
 `Vector2.move_toward()` function):
 
@@ -64,10 +83,10 @@ extends CharacterBody2D
 
 
 ## Acceleration as a form of [code]pixels/s²[/code]. [br]
-## Everywhere we use this, we also multiply by [param delta]. To keep the code clean, we
-## could choose to not do this, however since the goal of this example is to be a bit
-## more accurate to physics, and acceleration is usually "distance per second squared",
-## it felt better to leave it in.
+## Everywhere we use this, we also multiply by [param delta]. To keep the code
+## clean, we could choose to not do this, however since the goal of this
+## example is to be a bit more accurate to physics, and acceleration is usually
+## "distance per second squared", it felt better to leave it in.
 @export var acceleration: float = 500.0
 
 
