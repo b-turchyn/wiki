@@ -1,7 +1,7 @@
 ---
 description:
-  An implementation of 8-way, top-down movement using an easing function
-  to govern acceleration and deceleration, explaining how it works and why.
+  An implementation of 8-way, top-down movement using an easing function to
+  govern acceleration and deceleration, explaining how it works and why.
 tags:
   - 2D
   - Godot
@@ -10,6 +10,9 @@ tags:
 ---
 
 # Top-Down Movement with Ease-Driven Acceleration
+
+[This easing cheatsheet](https://raw.githubusercontent.com/godotengine/godot-docs/master/img/ease_cheatsheet.png)
+is a good reference for figuring out what the value of the exponent should be.
 
 ```gdscript
 extends CharacterBody2D
@@ -36,20 +39,20 @@ func _physics_process(delta: float) -> void:
 		_linear_acceleration_position = min(_linear_acceleration_position + delta, acceleration_time)
 		_linear_deceleration_position = 0.0
 		var acceleration = max_acceleration * ease(_linear_acceleration_position / acceleration_time, easing)
-		
+
 		velocity = velocity.move_toward(direction * max_speed, acceleration)
 	else:
 		_linear_acceleration_position = 0.0
 		_linear_deceleration_position = min(_linear_deceleration_position + delta, acceleration_time)
 		var deceleration = max_acceleration * ease(_linear_deceleration_position / acceleration_time, easing)
-		
+
 		velocity = velocity.move_toward(Vector2.ZERO, deceleration)
-		
+
 	move_and_slide()
 
 func _is_moving_forward(direction: Vector2) -> bool:
 	return direction.normalized().dot(velocity.normalized()) >= 0
-	
+
 func _direction() -> Vector2:
 	return Input.get_vector("left", "right", "up", "down")
 ```
