@@ -9,7 +9,10 @@ How others blog (their workflows):
   [Craig Kerstiens](https://www.craigkerstiens.com/)
 - [Why I Blog](https://www.dannyguo.com/blog/why-i-blog) by
   [Danny Guo](https://www.dannyguo.com/)
-  - [HN](https://news.ycombinator.com/item?id=35467361)
+  ([HN comments](https://news.ycombinator.com/item?id=35467361))
+- [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
+  by [Jonas Hietala](http://jonashietala.se/)
+  ([HN comments](https://news.ycombinator.com/item?id=41646531))
 
 Interesting blogging platforms:
 
