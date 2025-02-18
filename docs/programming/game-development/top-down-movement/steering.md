@@ -11,7 +11,7 @@ tags:
 
 # Top-Down Movement with a Seek Steering Function
 
-_See also: [Steering Behaviour](../steering-behaviour.md)_
+_See also: [Steering Behaviour](../steering-behaviours/index.md)_
 
 I sourced the original implementation of this from
 [GDQuest's Top Down Movement tutorial](https://www.gdquest.com/tutorial/godot/2d/top-down-movement/#smoother-movement-with-steering-behaviors).
