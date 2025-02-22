@@ -13,6 +13,11 @@ is a good read for those who are looking at getting into streaming.
 his experience streaming for both development and IRL content, and just
 surviving streaming as a smaller content creator.
 
+For _perfect stream audio_,
+[EposVox's video guide to stream audio](https://www.youtube.com/watch?v=3rcAPp_8WkU)
+is the only guide I need. The end result sounds great and his video here is easy
+to follow.
+
 ## Streaming Sites
 
 - [Twitch](https://twitch.tv)
