@@ -16,11 +16,11 @@
     "format": "./src/bin/format.sh"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.6.3",
-    "@docusaurus/faster": "^3.6.3",
-    "@docusaurus/plugin-sitemap": "^3.6.3",
-    "@docusaurus/preset-classic": "^3.6.3",
-    "@docusaurus/theme-mermaid": "^3.6.3",
+    "@docusaurus/core": "^3.7.0",
+    "@docusaurus/faster": "^3.7.0",
+    "@docusaurus/plugin-sitemap": "^3.7.0",
+    "@docusaurus/preset-classic": "^3.7.0",
+    "@docusaurus/theme-mermaid": "^3.7.0",
     "@easyops-cn/docusaurus-search-local": "^0.40.1",
     "clsx": "^1.1.1",
     "debug": ">=4.3.1",
@@ -32,12 +32,12 @@
     "rehype-katex": "^7.0.0",
     "rehype-urls": "^1.1.1",
     "remark-math": "^6.0.0",
-    "vercel": "^39.2.2"
+    "vercel": "^41.2.2"
   },
   "devDependencies": {
-    "@docusaurus/module-type-aliases": "^3.6.3",
-    "@docusaurus/tsconfig": "^3.6.3",
-    "@docusaurus/types": "^3.6.3",
+    "@docusaurus/module-type-aliases": "^3.7.0",
+    "@docusaurus/tsconfig": "^3.7.0",
+    "@docusaurus/types": "^3.7.0",
     "@silvenon/remark-smartypants": "^1.0.0",
     "@types/react": "^18.2.29",
     "fontaine": "^0.2.3",
