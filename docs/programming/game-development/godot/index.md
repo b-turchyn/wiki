@@ -27,4 +27,6 @@ Useful tutorial videos:
 ## Useful Libraries
 
 - [Beehave](https://github.com/bitbrain/beehave): Behaviour Tree AI
--
+- [This class](https://gist.github.com/geekley/5bf72d3cbaa1da196545bee977ee8eda)
+  defines constants for common integers and IEEE 754 floats (courtesy:
+  [@geekley](https://gist.github.com/geekley) on GitHub)
