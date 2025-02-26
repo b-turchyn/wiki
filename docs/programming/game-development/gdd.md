@@ -24,3 +24,4 @@ for writing your own GDD.
   - [Owlchemist](https://docs.google.com/document/d/1_iPOdIFm9iiRNyMTM2WL3YTD0CGeOks3YKBjTsDJvd8/edit?tab=t.0#heading=h.t6olaicbthga)
   - [The Shattered Knight of Elaria](https://docs.google.com/document/d/1tsumfQjx0CkAsebv9CxLLy0u1VFbNn0Irja9iwpGJoQ/edit?usp=sharing)
   - [Umblight](https://drive.google.com/file/d/1my1OAbhSyYoXz69_WAx3gNQ51LRVyxJD/view?usp=sharing)
+- [The Sims](https://donhopkins.com/home/TheSimsDesignDocuments/)' original GDD
