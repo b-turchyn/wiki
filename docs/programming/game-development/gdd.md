@@ -25,3 +25,7 @@ for writing your own GDD.
   - [The Shattered Knight of Elaria](https://docs.google.com/document/d/1tsumfQjx0CkAsebv9CxLLy0u1VFbNn0Irja9iwpGJoQ/edit?usp=sharing)
   - [Umblight](https://drive.google.com/file/d/1my1OAbhSyYoXz69_WAx3gNQ51LRVyxJD/view?usp=sharing)
 - [The Sims](https://donhopkins.com/home/TheSimsDesignDocuments/)' original GDD
+
+## Writing a Game Design Document
+
+[A sample is available here.](./gdd-template.md)
