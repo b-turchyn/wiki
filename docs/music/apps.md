@@ -6,6 +6,8 @@
   with Ruby-style code
 - [Furnace](https://github.com/tildearrow/furnace), a chiptune maker.
   ([HN Comments](https://news.ycombinator.com/item?id=41609254))
+- [Mixxx](https://mixxx.org/), an open source DJ app. Found this from Hacker
+  News.
 
 ## Spotify-Related
 

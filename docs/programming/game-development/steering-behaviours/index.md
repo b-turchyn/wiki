@@ -16,6 +16,10 @@ that will move a character around a world.
 - [How to do top-down game movement in Godot](https://www.gdquest.com/tutorial/godot/2d/top-down-movement/#smoother-movement-with-steering-behaviors)
   by GDQuest. The code examples are from Godot 3, but there's one section
   referencing steering behaviour and an intro course with more details.
+- [Understanding Steering Behaviors: Wander](https://code.tutsplus.com/understanding-steering-behaviors-wander--gamedev-1624t)
+  covers the _wander_ steering behavior.
+- [Steering Behaviors For Autonomous Characters](https://www.red3d.com/cwr/steer/gdc99/),
+  a paper submitted to GDC '99
 
 ### Context-Based Steering
 

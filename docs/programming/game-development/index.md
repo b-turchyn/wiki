@@ -43,6 +43,8 @@ Windows Registry Editor Version 5.00
   the author didn't have any industry experience, but I haven't validated that
   and I'm not sure how much that would make a difference for the information in
   here.
+- [Game AI Pro](http://www.gameaipro.com/), a bunch of in-depth articles about
+  game AI.
 
 Procedural generation:
 
