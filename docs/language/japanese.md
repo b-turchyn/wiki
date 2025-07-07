@@ -15,6 +15,11 @@ Free learning resources:
 - [Tae Kim's Guide to Learning Japanese](https://guidetojapanese.org/learn/) was
   recommended by the [Anki](/learning/anki.md) decks shared by Japanese Like A
   Breeze.
+- [Comprehensible Japanese](https://cijapanese.com/) has lots of free content but
+  also plenty of paid content. I've watched a few videos and the ones I watched
+  were very good. (I found this from [this HN
+  comment](https://news.ycombinator.com/item?id=41743712), where the main article
+  was talking about learning Mandarin while also working on their PhD).
 
 Paid learning resources:
 
