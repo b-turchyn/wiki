@@ -26,6 +26,9 @@ const urlRewriteConfig = function(url, node) {
 const config = {
   future: {
     experimental_faster: true,
+    v4: {
+      removeLegacyPostBuildHeadAttribute: true,
+    },
   },
   title: 'Everything I Know',
   url: 'https://wiki.brianturchyn.net',
