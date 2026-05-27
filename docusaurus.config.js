@@ -25,7 +25,7 @@ const urlRewriteConfig = function(url, node) {
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   future: {
-    experimental_faster: true,
+    faster: true,
     v4: {
       removeLegacyPostBuildHeadAttribute: true,
     },
@@ -34,13 +34,15 @@ const config = {
   url: 'https://wiki.brianturchyn.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/logo.webp',
   organizationName: 'b-turchyn', // Usually your GitHub org/user name.
   projectName: 'wiki', // Usually your repo name.
   trailingSlash: true,
   markdown: {
     mermaid: true,
+    hooks: {
+      onBrokenMarkdownLinks: 'throw'
+    }
   },
   themes: [
     '@docusaurus/theme-mermaid',
