@@ -20,6 +20,7 @@ Interesting Discord bots:
   retrieving information on [Magic: The Gathering](games/mtg/index.md) cards.
 - [Statbot](https://statbot.net) collects stats on messages sent, active users,
   voice chat person-hours, etc. Has a free and premium offering.
+- [ZleeBit](https://zleebit.com/) tracks member growth, retention, invites, message and voice activity, onboarding, and moderation trends with privacy-focused Discord analytics.
 
 Useful Discord tools:
 
