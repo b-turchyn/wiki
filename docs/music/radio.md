@@ -8,6 +8,7 @@
   - A "sister site" to rekt.network. The music played here is submitted by the
     artists.
   - Plays electronic music
-- [lofi air traffic control](https://www.lofiatc.com/) (aka Lofi ATC)
-  - Plays lofi music with real-time air traffic control radio in the background
+- [Final Approach Radio](https://finalapproach.fm/) (successor to Lofi ATC, which went dark in 2025)
+  - Plays lofi music over real air traffic control recorded in person at each
+    airport — one album per airport, with tower/music sliders
     from various airports around the world
